@@ -3,7 +3,9 @@
     "allow": [
       "WebSearch",
       "Skill(schedule)",
-      "Bash(git --version)"
+      "Bash(git --version)",
+      "Bash(git -C \"/Users/peterskov/Claude Code/fars-broed\" add .)",
+      "Bash(git -C \"/Users/peterskov/Claude Code/fars-broed\" commit -m \"Første version af Fars Brød\")"
     ]
   }
 }
