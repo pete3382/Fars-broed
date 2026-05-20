@@ -247,6 +247,64 @@ Best times: weekday mornings 7–9, weekend afternoons 13–15, Sunday evenings 
 
 ---
 
+### O12 — Pinsebrunch
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede eller Story
+**Visual:** En opstillet brunch på et dækket bord i naturligt dagslys — boller, smør, pålæg. Sommerlys, åbent vindue eller udendørs. Ingen rekvisitter der fjerner opmærksomheden fra bollerne.
+
+**Caption:**
+> Pinseweekenden er om få dage.
+>
+> Friskbagte surdejsboller til lørdag eller søndag morgenmad. Bestil nu — så aftaler vi et afhentingstidspunkt der passer dig.
+>
+> Bestil via linket i bio.
+
+---
+
+### O13 — Fars Brød til Farsdag
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede
+**Visual:** En brun papirpose med boller, pænt sat frem. Varmt lys. Et håndskrevet kort ved siden. Ingen overproduktion.
+
+**Caption:**
+> Den 5. juni er Farsdag.
+>
+> Fars Brød — bagt af en far, til dem du holder af. Bestil som gave til din far, svigerfar eller nogen der fortjener noget ægte.
+>
+> Vi lægger et håndskrevet kort i posen, hvis du vil.
+>
+> Bestil via linket i bio.
+
+---
+
+### O14 — Dekorativt scoring
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Reel (15–20 sek.) eller statisk nærbillede
+**Visual:** Bagerens hånd med en lame der lægger et mønster i en bolles overflade inden bagning — langsom, præcis bevægelse. Melet overflade, naturligt lys. Klip til den færdige, bagte version af samme bolle.
+
+**Caption:**
+> Inden en bolle ryger i ovnen, scorer jeg den.
+>
+> Det er ikke dekoration — det er funktion. Snittene styrer, hvor dejen udvider sig under varmen. Uden dem revner skorpen tilfældigt.
+>
+> Men det er også det øjeblik, hvor man lægger et mærke. Hvert hold har det samme mønster. Det er det, der gør dem til mine.
+>
+> Bestil via linket i bio.
+
+---
+
 ## Meta Ads
 
 Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignende kreativt materiale slår poleret produktion i madkategorien. Statiske billeder driver 60–70% af Meta-konverteringer; karruseller er i øjeblikket det bedst-konverterende format. ([Source](https://www.dataslayer.ai/blog/meta-ad-formats-in-2025-guide))
@@ -583,6 +641,35 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL6 — Sommer starter
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs, juni 2026
+**Formål:** Sæsonåbner — sætter stemning og minder abonnenter om, at bollerne passer til sommeren
+**Visuel:** Boller på et udendørs bord eller picnic-setup i naturligt sommerlys.
+
+**Emnelinje:** God sommer begynder her
+**Preheader:** Et hold friskbagte boller venter
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Sommer er her.
+>
+> Jeg bager videre som altid — et hold ad gangen, fire ingredienser, ingen genveje. Men sommer giver bollerne et nyt formål: lang morgenmad i haven, picnic på græsset, tilbehør til grillmaden.
+>
+> Bestil som du plejer. Vi aftaler afhentning på Tyttebærkvisten, når det passer dig.
+>
+> [Bestil nu →]
+>
+> God sommer,
+> [Navn]
+
+---
+
 ## Generel forretningsudvikling
 
 ---
@@ -706,6 +793,18 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 **Idé:** Efter hver 5. ordre er den næste portion halvpris eller inkluderer en bonusbolle. Spores manuelt eller via et digitalt stempelkort.
 **Hvorfor det virker:** Øger gentagende køb uden at give rabat til nye kunder. Belønner de faste, der tæller mest.
 **Sådan gøres det:** En simpel note i HubSpot-kontaktkortet til ordretælling. Ingen ekstra software nødvendig på nuværende tidspunkt.
+
+---
+
+### BD11 — Farsdag-kampagne
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** En tidsbegrænset gave-kampagne op til Farsdag (5. juni 2026). Tilbyd gaveindpakning med håndskrevet kort som tilvalg. Sæt deadline for bestilling f.eks. 2. juni.
+**Hvorfor det virker:** "Fars Brød til Farsdag" er et naturligt match — navn, håndværk og anledning falder præcis sammen. Kampagnen giver eksisterende kunder en konkret anledning til at bestille til andre, ikke bare til sig selv.
+**Sådan gøres det:** Send nyhedsbrev til listen i uge 22 (ca. 27. maj). Lav sociale medie-opslag i dagene 1–4. juni. Tilføj midlertidigt en "Farsdag-note" til bestillingsformularen med et tekstfelt til besked. Sæt afhentningsperiode til 4–5. juni.
 
 ---
 
