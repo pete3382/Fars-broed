@@ -305,6 +305,62 @@ Best times: weekday mornings 7–9, weekend afternoons 13–15, Sunday evenings 
 
 ---
 
+### O15 — Sankt Hans-aften
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede eller Story
+**Visual:** Boller på et bord under åben himmel — bålstemning i baggrunden. Varme gule og orange toner fra en solnedgang eller et bål. Naturligt og uisat.
+
+**Caption:**
+> Sankt Hans-aften er den 23. juni.
+>
+> Friskbagte surdejsboller til aftensmaden ved bålet — bestil inden den 21. juni, og vi aftaler afhentning på Tyttebærkvisten.
+>
+> Bestil via linket i bio.
+
+---
+
+### O16 — Langsom mad i en travl tid
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede eller karrusel (2–3 slides)
+**Visual:** Nærbillede af en dej der hviler under et linned klæde — stille, ingenting sker. Naturligt morgenlys fra et vindue. Ingen hænder, ingen bevægelse.
+
+**Caption:**
+> Min dej er færdig, når den er færdig.
+>
+> Surdej kan ikke skyndes. Den kræver tid til at bygge smag — mælkesyrebakterierne producerer langsomme syrer natten over, glutennetværket slapper af, dejen modner. Det er det, der giver den dybe, let syrlige smag, du ikke kan købe i en pose.
+>
+> Langsom mad i en travl tid. Det er det, Fars Brød er.
+>
+> Bestil via linket i bio.
+
+---
+
+### O17 — Surdej og tarmen
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karrusel (3–4 slides)
+**Visual:** Slide 1: nærbillede af den åbne krumme i en bagt bolle. De øvrige slides: varm cremefarvet baggrund med stor, mørk tekst — én pointe pr. slide.
+
+> **Bemærk:** Fremstil det ikke som medicinsk rådgivning. Hold dig til det, der er veldokumenteret: nedbrydning af fytinsyre, lavere glykæmisk indeks, langsommere fordøjelse sammenlignet med gærhævet brød.
+
+**Slide 1:** Surdej er anderledes for maven. Her er hvorfor.
+**Slide 2:** Lang fermentering nedbryder fytinsyre — det anti-næringsstof, der ellers blokerer for optagelse af jern og zink i melet. Surdejsbrød leverer faktisk mineralerne.
+**Slide 3:** Mælkesyrebakterierne sænker brødets pH-værdi. Det giver en lavere glykæmisk respons — sukkeroptagelsen sker langsommere end ved gærhævet brød.
+**Slide 4:** Ingen tilsætningsstoffer. Ingen E-numre. Fire ingredienser, bagt i hånden i Middelfart. Bestil via linket i bio.
+
+---
+
 ## Meta Ads
 
 Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignende kreativt materiale slår poleret produktion i madkategorien. Statiske billeder driver 60–70% af Meta-konverteringer; karruseller er i øjeblikket det bedst-konverterende format. ([Source](https://www.dataslayer.ai/blog/meta-ad-formats-in-2025-guide))
@@ -670,6 +726,39 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL7 — Grundlovsdag og Farsdag
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — send ca. 28.–30. maj 2026
+**Formål:** Drive bestillinger til den 5. juni — dobbelt anledning med fridag og Farsdag
+**Visuel:** Boller pænt opstillet til morgenmad eller brunch — sol, åbent vindue eller have.
+
+**Emnelinje:** Den 5. juni er fridag — og Farsdag
+**Preheader:** To anledninger til en god morgenmad
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Den 5. juni er Grundlovsdag. En fridag, der sjældent fejres med andet end god tid.
+>
+> Det er også Farsdag.
+>
+> Det giver en naturlig anledning til lang morgenmad, familien samlet og friskbagte surdejsboller på bordet. Bestil til dig selv — eller som gave til en far, svigerfar eller nogen, der fortjener noget ægte.
+>
+> Vi lægger et håndskrevet kort i posen, hvis du vil.
+>
+> Deadline for bestilling er den [X]. juni.
+>
+> [Bestil nu →]
+>
+> Mange hilsener,
+> [Navn]
+
+---
+
 ## Generel forretningsudvikling
 
 ---
@@ -805,6 +894,18 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 **Idé:** En tidsbegrænset gave-kampagne op til Farsdag (5. juni 2026). Tilbyd gaveindpakning med håndskrevet kort som tilvalg. Sæt deadline for bestilling f.eks. 2. juni.
 **Hvorfor det virker:** "Fars Brød til Farsdag" er et naturligt match — navn, håndværk og anledning falder præcis sammen. Kampagnen giver eksisterende kunder en konkret anledning til at bestille til andre, ikke bare til sig selv.
 **Sådan gøres det:** Send nyhedsbrev til listen i uge 22 (ca. 27. maj). Lav sociale medie-opslag i dagene 1–4. juni. Tilføj midlertidigt en "Farsdag-note" til bestillingsformularen med et tekstfelt til besked. Sæt afhentningsperiode til 4–5. juni.
+
+---
+
+### BD12 — Grillsæsonens burgerbun
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Positionér surdejsboller aktivt som burgerbuns til grillsæsonen. Et naturligt og velsmagende alternativ til den søde, tomme supermarkedsbolle.
+**Hvorfor det virker:** Grillsæsonen er et af sommerens stærkeste madøjeblikke. Den typiske hamburgerbolle er bleg og smagsløs. En surdejsbolle med god krumme og sprød skorpe er en markant opgradering — og et emne, der sælger sig selv i et enkelt billede.
+**Sådan gøres det:** Et dedikeret Social Media-opslag (Reel eller statisk billede) med en bolle snittet og lagt klar til burger. Caption fokuserer på kontrasten: industribolle vs. surdejsbolle. Overvej at tilføje en linje til bestillingsformularen: "Bestil til grillaften."
 
 ---
 
