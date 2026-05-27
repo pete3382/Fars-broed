@@ -1658,63 +1658,41 @@ Baseret på faktiske indkøbspriser (maj 2026).
 
 Melmængde ca. 150g.
 
-**Melleverandører (Caputo Cuoco):**
+**Verified pricing from Dagrofa (picked up — no shipping):**
 
-| Kilde | Mængde | Pris ekskl. fragt | Kr/kg |
+| Produkt | Mængde | Pris (ex. moms) | Pris/enhed (ex. moms) |
 |---|---|---|---|
-| [ukendt] | 5 kg | 95 kr | 19,00 kr |
-| Pizzafredag | 25 kg | 449 kr | 17,96 kr |
-
-Den store forskel er ikke kg-prisen (1 kr/kg) — det er forsendelsen. Fragt for 5 kg og 25 kg koster formentlig det samme. Ved fx 60 kr fragt:
-
-| Mængde | Mel + fragt | Effektiv kr/kg | Mel-pris per dejkugle |
-|---|---|---|---|
-| 5 kg | 155 kr | 31,00 kr | 4,65 kr |
-| 25 kg | 509 kr | 20,36 kr | **3,05 kr** |
-
-25 kg giver ~166 dejkugler og fragtomkostningen pr. stk falder fra ~0,90 kr til ~0,18 kr. **Anbefaling: Køb 25 kg ad gangen, når produktionen er i gang.**
+| Caputo Cuoco mel | 30 kg | 330 kr | **11,00 kr/kg** |
+| Salatbæger fixpack 750ml | 50 stk | 43,95 kr | **0,88 kr/stk** |
+| Låg til bæger | 50 stk | 35,95 kr | **0,72 kr/stk** |
 
 **Ingredienser per dejkugle (250g rå dej, ~65% hydrering, 150g mel):**
 
-| Post | Grundlag | Pris/stk |
-|---|---|---|
-| Caputo Cuoco mel (150g) | 25 kg = 449 kr → 18 kr/kg ekskl. fragt | 2,70 kr |
-| Mel-forsendelse | Estimeret 60 kr / 166 kugler | 0,36 kr |
-| Salt, gær, vand | Negligibel | 0,10 kr |
-| Delibæger 500ml rPET | 50 stk = 95 kr (Lomax.dk) | 1,90 kr |
-| Låg | 50 stk = 41 kr (Lomax.dk) | 0,82 kr |
-| Forsendelse emballage | 300,10 kr total / 50 sæt | 3,30 kr |
-| **Total VK** | | **9,18 kr** |
+| Post | Beregning | Pris/stk (ex. moms) | Pris/stk (incl. moms 25%) |
+|---|---|---|---|
+| Caputo Cuoco mel (150g) | 30 kg for 330 kr = 11 kr/kg × 0,15 kg | 1,65 kr | 2,06 kr |
+| Salt, gær, vand | Negligibel | 0,10 kr | 0,13 kr |
+| Salatbæger 750ml | 50 stk for 43,95 kr | 0,88 kr | 1,10 kr |
+| Låg | 50 stk for 35,95 kr | 0,72 kr | 0,90 kr |
+| **Total VK** | | **3,35 kr** | **4,19 kr** |
 
-> Forsendelsesomkostning for mel er estimeret — indhent faktisk pris fra Pizzafredag.
+> Priserne er verificerede fra Dagrofa-købet (ingen fragt da selv afhentning). Moms på 25% inkluderet i sidste kolonne.
 
-**Dækningsbidrag og dækningsgrad:**
+**Dækningsbidrag og dækningsgrad (incl. moms):**
 
 | Salgspris | VK/stk | DB/stk | Dækningsgrad |
 |---|---|---|---|
-| 15 kr | 9,18 kr | 5,82 kr | **39%** |
-| 18 kr | 9,18 kr | 8,82 kr | **49%** |
-| 20 kr | 9,18 kr | 10,82 kr | **54%** |
-
-**Potentiel forbedring ved større emballageordre (200 sæt):**
-
-Forsendelsesomkostningen på emballagen fordeles. Estimeret fragt ~200 kr for 200 sæt:
-
-| Post | Pris/stk |
-|---|---|
-| Bægre + låg | 2,72 kr |
-| Forsendelse | ~1,00 kr |
-| **Emballage i alt** | **~3,72 kr** |
-
-→ VK ved 25 kg mel + 200 sæt emballage: 3,16 + 3,72 = **~7,00 kr/stk**
-→ DB ved 18 kr salgspris: **11,00 kr** — Dækningsgrad: **61%**
+| 15 kr | 4,19 kr | 10,81 kr | **72,1%** |
+| 18 kr | 4,19 kr | 13,81 kr | **76,7%** |
+| 20 kr | 4,19 kr | 15,81 kr | **79,0%** |
 
 **Vurdering:**
-- Start med 5 kg mel og 50 sæt emballage for at teste markedet
-- Når du sælger stabilt, skift til 25 kg mel og 200 sæt emballage
-- Sæt prisen til **18 kr/stk** fra start — DG 49% ved første ordre, 61% ved fuld volumen
+- Du har allerede købt 30 kg mel — holder til ~200 dejkugler
+- Emballage bestilt: 50 sæt bægre + låg
+- Break-even på mixer: ~9–10 uger ved 50 stk/uge
+- Margin så høj, at du kan være aggressiv på pris uden at ofre fortjeneste
 
-> **Beslutning:** Anbefalet startpris **18 kr/stk**. Realistisk dækningsgrad 39–61% afhængig af indkøbsvolumen.
+> **Beslutning:** Start med **18 kr/stk** — giver 77% dækningsgrad inkl. moms. Du kan senere gå ned til 15 kr, hvis det skal til for volumen. Mixer betaler sig på under 10 uger ved realistiske små volumener.
 
 ---
 
@@ -1722,36 +1700,30 @@ Forsendelsesomkostningen på emballagen fordeles. Estimeret fragt ~200 kr for 20
 
 Mixeren bruges til **begge produkter** — pizzadej og surdejsboller. Break-even kan derfor deles.
 
-**Break-even, kun pizzadej — baseret på faktiske priser:**
+**Break-even, kun pizzadej — baseret på faktiske Dagrofa-priser (incl. moms):**
 
-VK 9,18 kr/stk (25 kg mel + 50 sæt emballage inkl. fragt).
-
-| Salgspris | DB/stk | Break-even antal | Ved 50 stk/uge |
-|---|---|---|---|
-| 15 kr | 5,82 kr | 1.117 stk | **22 uger** |
-| 18 kr | 8,82 kr | 737 stk | **15 uger** |
-| 20 kr | 10,82 kr | 601 stk | 12 uger |
-
-Fuld volumen (VK ~7,00 kr, 18 kr salgspris, DB 11 kr):
+VK 4,19 kr/stk (30 kg mel + 50 sæt emballage, ingen fragt).
 
 | Salgspris | DB/stk | Break-even antal | Ved 50 stk/uge |
 |---|---|---|---|
-| 18 kr | 11,00 kr | 591 stk | **12 uger** |
+| 15 kr | 10,81 kr | 601 stk | **12 uger** |
+| 18 kr | 13,81 kr | **471 stk** | **~9,4 uger** |
+| 20 kr | 15,81 kr | 411 stk | ~8,2 uger |
 
 **Break-even inkl. tidsbesparelse på surdejsboller:**
 
 Mixeren sparer formentlig 30–60 min pr. surdejsbatch vs. håndæltning. Ved 3 batches/uge og en konservativ timeværdi på 200 kr/time:
 - Besparelse: 3 × 0,75 t × 200 kr = **450 kr/uge**
-- Over 10 uger: 4.500 kr — over 15 uger: 6.750 kr
+- Over 9 uger: 4.050 kr — næsten halvdelen af mixer-investeringen
 
-> Mixerens tidsbesparelse på surdejsboller alene finansierer en stor del af investeringen på 12–15 uger, uanset pizzasalg. Pizzadej er en **ekstraindtægt oveni**.
+> Mixerens tidsbesparelse på surdejsboller alene finansierer ca. halvdelen af investeringen på 9 uger. Pizzadej er en **ekstraindtægt oveni**.
 
 **Anbefalet ambitionsniveau for sommer 2026:**
 - Sæt mål om 50 dejkugler/uge i 10 uger = 500 stk i alt
 - Omsætning ved 18 kr/stk: 500 × 18 kr = **9.000 kr**
-- Bidrag til mixer-break-even: 500 × 8,85 kr DB = **4.425 kr**
+- Bidrag til mixer-break-even: 500 × 13,81 kr DB = **6.905 kr**
 
-Kombineret med tidsbesparelsen på surdejsboller er mixer-break-even realistisk **inden for ét år ved blot 50 stk/uge**.
+Pizzadej alene kan **dække fuld mixer-break-even** på en sommer ved 50 stk/uge. Tidsbesparelsen på surdejsboller er rent gevinst.
 
 ---
 
