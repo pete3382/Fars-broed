@@ -1736,6 +1736,18 @@ Pizzadej bidrager **39% af mixer-break-even**. Kombineret med tidsbesparelse på
 
 ---
 
+#### Tidsplan for lancering
+
+| Fase | Datoer | Opgaver | Noter |
+|---|---|---|---|
+| **Testing + Indhold + Copy (Parallel)** | Juni 7–24 | **Testing:** Fermentering, tider, hydrering. 2–3 batches. **Indhold:** Foto/video under testing. **Website/Copy:** Draft WEB-PIZZA, NL7, FAQ mens testing kører. | Alle tre dele kører samtidigt. Testing informerer final copy. |
+| **Finalisér recipe** | Juni 25 | Lås recipe, tider, opbevaring baseret på test-resultater. Opdater website-copy med præcise tider. | Kort gennemgang af test-notater. |
+| **Sidste polering** | Juni 25–26 | Færdiggør manglende fotos/videoer. Bekræft kundevejledning er klar. Korrektur alt copy. | 1–2 dages buffer. |
+| **Officiel lancering** | Juni 27 | Website går live. Første nyhedsbrev (NL7) sendt. Social medie-opslag (O15). Bestillinger åbner. Første batch: 10 stk. | Gå live om morgenen. |
+| **Sommersalg** | Juni 27 – Aug 31 | Stabil 10/uge salg. Ugentlige batch-mails (NL1). Monitorér feedback. | 9 ugers salg. |
+
+---
+
 ### NL7 — Lancering: Pizzadejskugler
 
 **Kvalitet:** `[ ]` God `[ ]` Dårlig
