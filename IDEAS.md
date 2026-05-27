@@ -30,6 +30,19 @@ Best times: weekday mornings 7–9, weekend afternoons 13–15, Sunday evenings 
 
 ---
 
+## Context & Market Data
+
+- Searches for "sourdough bread near me" surged **178% in Q2 2025.** ([Source](https://finsburyfoods.co.uk/the-sourdough-boom-trends-growth/))
+- **33% more growth** forecasted for sourdough in 2026. ([Source](https://www.puratos.co.uk/en/blog/taste-tomorrow/hottest-bakery-trends))
+- **58% of consumers** believe sourdough is healthier; **70%** say it enhances flavour. ([Source](https://finsburyfoods.co.uk/the-sourdough-boom-trends-growth/))
+- Online searches for "sourdough bread gut health" up **99%.** ([Source](https://www.puratos.com/blog/sourdough-trends-and-ideas-for-bakers))
+- Food industry Meta ad CPC as low as **$0.74.** ([Source](https://www.enrichlabs.ai/blog/meta-ads-benchmarks-2025))
+
+Best posting rhythm: **3–5 times per week.** Mix of Reels, static images, Stories, and carousels.
+Best times: weekday mornings 7–9, weekend afternoons 13–15, Sunday evenings 18–20.
+
+---
+
 ## Organic Social Media
 
 ---
@@ -186,6 +199,191 @@ Best times: weekday mornings 7–9, weekend afternoons 13–15, Sunday evenings 
 > Det er surdejen, der giver bollerne deres smag. Ikke to hold smager helt ens, fordi ingen to dage er helt ens.
 >
 > Bestil dine boller via linket i bio.
+
+---
+
+### O9 — Middelfart
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede eller Story
+**Visual:** Boller på en vindueskarme eller et udendørsbord med et genkendelig Middelfart-bagtæppe — kystlinje, lokal arkitektur, en park. Match lyset til årstiden.
+
+**Caption:**
+> Bagt på Tyttebærkvisten. Lavet til Middelfart.
+>
+> Der er noget særligt ved at vide, at det du spiser til morgenmad, blev bagt to gader væk — af en person, du måske kender.
+>
+> Bestil via linket i bio.
+
+---
+
+### O10 — Nedtælling
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Story med nedtæller-sticker eller statisk opslag
+**Visual:** Et bakke med færdige boller, eventuelt med en enkel tekstoverlay der viser antal tilbage. Eller bare et nærbillede af skorpen med nedtællingen i captionen.
+
+**Caption:**
+> Der er [X] portioner tilbage af ugens hold.
+>
+> Når de er væk, er de væk. Næste hold er om en uge.
+>
+> Bestil via linket i bio.
+
+---
+
+### O11 — Glutenstruktur
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede eller karrusel (2–3 slides)
+**Visual:** Nærbillede af en dej der strækkes — de lange, tynde glutentråde synlige i dejen, gennemlyst af naturligt lys. Alternativt: et tværsnit af en bagt bolle med den åbne, uregelmæssige krumme i fokus.
+
+**Caption:**
+> Det er ikke mel og vand der giver bolden den der seje, luftige krumme. Det er gluten.
+>
+> Når mel og vand blandes, sker der noget på molekylært niveau. To proteiner i melet — glutenin og gliadin — absorberer vandet og begynder at binde sig til hinanden. De danner lange, elastiske kæder. Det er dem, vi kalder glutennetværket.
+>
+> Hver gang jeg folder dejen — i stedet for at ælte den — strækker og justerer jeg de kæder. Langsomt bygger netværket sig op. Det bliver stærk nok til at holde på den CO₂, surdejen producerer under fermenteringen. Det er de gasbobler, der giver krummen dens åbne struktur.
+>
+> Men her er det smarte ved lang koldhævning: glutennetværket slapper af over natten. Det bliver mere smidigt. Dejen kan udvide sig mere jævnt i ovnen — og det giver den uregelmæssige, åbne krumme, som ikke lader sig skynde frem.
+>
+> Fire ingredienser. Kemi resten af vejen.
+>
+> Bestil via linket i bio.
+
+---
+
+### O12 — Pinsebrunch
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede eller Story
+**Visual:** En opstillet brunch på et dækket bord i naturligt dagslys — boller, smør, pålæg. Sommerlys, åbent vindue eller udendørs. Ingen rekvisitter der fjerner opmærksomheden fra bollerne.
+
+**Caption:**
+> Pinseweekenden er om få dage.
+>
+> Friskbagte surdejsboller til lørdag eller søndag morgenmad. Bestil nu — så aftaler vi et afhentingstidspunkt der passer dig.
+>
+> Bestil via linket i bio.
+
+---
+
+### O13 — Fars Brød til Farsdag
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede
+**Visual:** En brun papirpose med boller, pænt sat frem. Varmt lys. Et håndskrevet kort ved siden. Ingen overproduktion.
+
+**Caption:**
+> Den 5. juni er Farsdag.
+>
+> Fars Brød — bagt af en far, til dem du holder af. Bestil som gave til din far, svigerfar eller nogen der fortjener noget ægte.
+>
+> Vi lægger et håndskrevet kort i posen, hvis du vil.
+>
+> Bestil via linket i bio.
+
+---
+
+### O14 — Dekorativt scoring
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Reel (15–20 sek.) eller statisk nærbillede
+**Visual:** Bagerens hånd med en lame der lægger et mønster i en bolles overflade inden bagning — langsom, præcis bevægelse. Melet overflade, naturligt lys. Klip til den færdige, bagte version af samme bolle.
+
+**Caption:**
+> Inden en bolle ryger i ovnen, scorer jeg den.
+>
+> Det er ikke dekoration — det er funktion. Snittene styrer, hvor dejen udvider sig under varmen. Uden dem revner skorpen tilfældigt.
+>
+> Men det er også det øjeblik, hvor man lægger et mærke. Hvert hold har det samme mønster. Det er det, der gør dem til mine.
+>
+> Bestil via linket i bio.
+
+---
+
+### O15 — Lancering af pizzadej (socialt medie)
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede eller kort Reel
+**Visual:** En rå dejkugle, let melet, fotograferet tæt på på et mørkt trægulv. Naturligt lys. Ingen rekvisitter. Eller: en hånd der strækker dejen op mod lyset — glutentrådene synlige.
+
+**Caption:**
+> Noget nyt fra køkkenet.
+>
+> Fra [dato] sælger jeg Biga-pizzadejskugler. Frosne og klar til hjemme-pizzaaften.
+>
+> Biga er en gammel italiensk teknik. Dejen hæver 16–24 timer og giver en let, luftig bund med en smag, du ikke får fra en pose fra supermarkedet.
+>
+> Du optør natten over, lader den hæve på køkkenbordet og ruller den ud. Det er det.
+>
+> [X] kugler per uge. [X] kr/stk.
+>
+> Bestil via linket i bio.
+
+---
+
+### O16 — Bag kulisserne: Den nye mixer
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Reel (15–25 sek.) eller statisk billede
+**Visual:** Spiralmixeren kører med pizzadej — dejen trækkes op langs spiralen og slippes igen i et roligt, rytmisk mønster. Naturligt køkkenlys. Ingen musik — kun maskinens lyd.
+
+**Caption:**
+> Ny maskine. Samme filosofi.
+>
+> En spiralmikser arbejder anderledes end en planetarmikser. Spiralen efterligner det håndæltning faktisk gør — den strækker og folder dejen, i stedet for at piske den. Glutennetværket bygges op langsomt og jævnt. Dejen varmer ikke op undervejs.
+>
+> Det gør en forskel. Især til Biga-dej, der allerede har hævet i et døgn og skal behandles forsigtigt.
+>
+> Nyt produkt på vej: frosne pizzadejskugler til sommer. Mere om det snart.
+
+---
+
+### O17 — Brugervejledning: Tre trin til pizzaaften (socialt medie)
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karrusel (4 slides)
+**Visual:** Hvert slide ét trin: 1) frossen kugle i beholder, 2) kugle på tallerken i køleskab, 3) hævet kugle på køkkenbord, 4) udrulet dej med fyld klar til ovn. Ensartet lys og overflade igennem alle slides.
+
+**Slide 1:** Sådan bruger du din dejkugle.
+**Slide 2:** Natten inden — tag den ud af fryseren og læg den i køleskabet. 8–12 timer.
+**Slide 3:** 2–3 timer inden — ud på køkkenbordet. Tildæk. Lad den hæve.
+**Slide 4:** Ovnen på max. Stræk dejen ud med hænderne. 8–12 minutter. Færdig.
+
+**Caption:**
+> Pizza på en hverdagsaften behøver ikke tage lang tid.
+>
+> Det meste arbejde er gjort på forhånd. Alt du skal gøre er at planlægge natten inden.
+>
+> Biga-pizzadejskugler fra Fars Brød. [X] kr/stk. Bestil via linket i bio.
 
 ---
 
@@ -911,9 +1109,771 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+## Meta Ads
+
+Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignende kreativt materiale slår poleret produktion i madkategorien. Statiske billeder driver 60–70% af Meta-konverteringer; karruseller er i øjeblikket det bedst-konverterende format. ([Source](https://www.dataslayer.ai/blog/meta-ad-formats-in-2025-guide))
+
+---
+
+### A1 — Det enkle produktannonce
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce
+**Placering:** Facebook & Instagram feed
+**Objektiv:** Sales → HubSpot bestillingsformular
+**Visuel:** Helteshot af skorpen — en enkelt bolle, nybagt, scoret top, mørk karamelliseret skorpe. Ingen tekst på billedet. Fuld billed-fyld. Naturligt lys. Test to versioner: hel bolle vs. revet åben med krummen synlig.
+
+**Overskrift:** Håndlavede surdejsboller i Middelfart
+
+**Primær tekst:**
+> Fire ingredienser. Lang hævetid. Ingen tilsætningsstoffer.
+>
+> Bagt i hånden og klar til afhentning på Tyttebærkvisten.
+
+**CTA-knap:** Bestil nu
+
+---
+
+### A2 — Processen som Reel
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Videoannonce (Reel, 15–30 sek.)
+**Placering:** Instagram Reels, Facebook Reels
+**Objektiv:** Sales
+**Visuel:** 4-klips-montage: surdej → dejfoldning → scoringsøjeblik → ovnudtræk. Hvert klip 3–5 sek. Naturlig køkkenlyd. Ingen stock-musik. 9:16-format.
+
+**Hook (de første 3 sek.):** Ovndøren åbner — ingen tekst.
+
+**Tekstoverlay midt i:**
+> Fra surdej til bord.
+> Bagt i hånden i Middelfart.
+
+**Slutkort:**
+> Fars Brød — bestil via linket.
+
+**CTA-knap:** Bestil nu
+
+---
+
+### A3 — Karrusel: Fire ingredienser
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karruselannonce (5 kort)
+**Placering:** Facebook & Instagram feed
+**Objektiv:** Sales
+**Visuel:** Samme overflade og lys på alle kort — ensartet stil igennem hele sekvensen.
+
+**Primær tekst (over karrusellen):**
+> Vi bager med fire ingredienser. Det er ikke en begrænsning. Det er pointen.
+
+**Kort 1:** *(Foto: alle fire ingredienser samlet)*
+> Alt godt brød starter her.
+
+**Kort 2:** *(Foto: mel)*
+> Mel. Stærkt mel med højt proteinindhold — det giver den seje krumme.
+
+**Kort 3:** *(Foto: aktiv surdej i glasburk)*
+> Surdej. Vores starter er [X] år gammel. Den er grunden til den dybe smag.
+
+**Kort 4:** *(Foto: dej under klæde)*
+> Tid. Dejen hæver natten over. Ingen genveje.
+
+**Kort 5:** *(Foto: færdig bolle)*
+> Bagt i hånden i Middelfart. Bestil nu.
+
+**CTA-knap:** Bestil nu
+
+---
+
+### A4 — Lokalt kendskab
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce
+**Placering:** Facebook feed, målrettet Middelfart + 15 km radius
+**Objektiv:** Sales
+**Visuel:** Boller på en vindueskarme eller udendørs bord med lokal, genkendelig stemning. Hjemmelavet æstetik — ikke et kommercielt bageri.
+
+**Overskrift:** Du bor i Middelfart. Vi bager her.
+
+**Primær tekst:**
+> Friskbagte surdejsboller til afhentning — bagt i hånden med fire ingredienser og ingen tilsætningsstoffer.
+>
+> Bestil til din næste weekend.
+
+**CTA-knap:** Bestil nu
+
+---
+
+### A5 — Kundeanmeldelse
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce eller kort videoannonce
+**Placering:** Facebook & Instagram feed
+**Objektiv:** Sales
+**Visuel:** Rigtig kundecitat i stort skriftsnit på varm cremefarvet baggrund, lille produktfoto i hjørnet. Eller kort video af en kunde der åbner posen og reagerer naturligt (med tilladelse).
+
+> **Bemærk:** Indhent tilladelse fra kunden inden brug. Brug et rigtigt citat — invent ikke.
+
+**Primær tekst:**
+> „[Indsæt rigtig kundecitat her — f.eks.: De bedste boller jeg nogensinde har smagt. Og jeg kan hente dem fem minutter fra mit hus.]"
+>
+> — [Fornavn], Middelfart
+>
+> Bestil dine egne via linket herunder.
+
+**CTA-knap:** Bestil nu
+
+---
+
+### A6 — Retargeting (varm målgruppe)
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce
+**Placering:** Facebook & Instagram feed og Stories
+**Objektiv:** Sales
+**Målgruppe:** Besøgende på hjemmesiden eller folk der har interageret med tidligere opslag/annoncer
+**Visuel:** Enkelt nærbillede af en bolle med damp — urgency gennem enkelhed.
+
+> **Bemærk:** Kræver Meta Pixel installeret på hjemmesiden først.
+
+**Overskrift:** Du kigger stadig — vi bager stadig.
+
+**Primær tekst:**
+> Der er et begrænset antal portioner per uge.
+>
+> Bestil inden næste hold er væk.
+
+**CTA-knap:** Bestil nu
+
+---
+
+## Newsletter (HubSpot Free)
+
+### Hvad du har på gratisplanen
+
+- Drag-and-drop-editor med skabeloner
+- AI-assisteret emnelinjeforslag
+- Personaliseringstokens (f.eks. fornavn)
+- Grundlæggende analyse (åbningsrate, klikrate)
+- Op til **2.000 marketing-e-mails pr. måned**
+- Op til **1.000 kontakter** (konti oprettet efter sept. 2024)
+- HubSpot-branding på udgående e-mails
+- Ingen automatiserede workflows
+- Ingen A/B-test
+
+([Source](https://www.mailerlite.com/blog/hubspot-email-marketing-review)) ([Source](https://zeeg.me/en/blog/post/hubspot-free))
+
+### Praktiske HubSpot-taktikker
+
+- **Segmentér manuelt** via kontaktegenskaber. Opret f.eks. egenskaben "Type" med værdier "Kunde" og "Interesseret" — så kan du sende målrettede e-mails uden workflows.
+- **Gem e-mailskabeloner** til tilbagevendende udsendelser (f.eks. ugeopdateringen). Sparer tid og sikrer ensartet design.
+- **Følg åbningsrater pr. e-mail.** Over 35–40% er stærkt for en lille, lokal liste. Brug det til at lære, hvad der virker.
+- **Personaliseringstokens:** Brug `{{ contact.firstname }}` i emnelinjer og åbninger — løfter åbningsraten, selv på gratisplanen.
+- **Byg listen via bestillingsformularen.** Tilføj et afkrydsningsfelt: "Ja tak, send mig opdateringer fra Fars Brød." Hver kunde bliver en potentiel abonnent.
+- **2.000 e-mails pr. måned:** Med under 500 kontakter kan du sende op til 4 e-mails pr. kontakt pr. måned — mere end nok til en ugentlig udsendelse.
+
+---
+
+### NL1 — Ugentlig batchopdatering
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Ugentlig (fredag eller lørdag morgen)
+**Formål:** Drive bestillinger til den kommende uge
+**Visuel:** Et stærkt produktfoto i headeren. Intet andet.
+
+**Emnelinje:** Ugens boller er klar — [X] portioner tilbage
+**Preheader:** Bestil inden søndag
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Ugens hold er klar. Der er [X] portioner tilbage til afhentning [dag].
+>
+> Bestil via linket herunder — vi aftaler tidspunkt, når du har bestilt.
+>
+> [Bestil nu →]
+>
+> Mange hilsener,
+> [Navn] — Fars Brød
+
+---
+
+### NL2 — Velkomstmail
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — send manuelt til nye kontakter (ingen workflow på gratisplanen)
+**Formål:** Byg forbindelse og tillid fra første kontakt
+**Visuel:** Bagerens hænder + produktfoto.
+
+**Emnelinje:** Hej fra Tyttebærkvisten
+**Preheader:** Tak fordi du er med
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Tak fordi du er med.
+>
+> Jeg hedder [navn] og bager surdejsboller fra mit køkken i Middelfart. Det begyndte som en hobby — men er blevet noget mere. I dag bager jeg i små portioner, et hold ad gangen, til folk der sætter pris på, hvad der går i deres brød.
+>
+> Bollerne bages af fire ingredienser: mel, vand, salt og surdej. Min surdej har fulgt mig i [X] år. Der er ingen tilsætningsstoffer og ingen genveje.
+>
+> Når du bestiller, aftaler vi et tidspunkt. Bollerne er friskbagte og klar, præcis når du ankommer på Tyttebærkvisten 6.
+>
+> Du kan bestille her: [link]
+>
+> Skriv endelig, hvis du har spørgsmål.
+>
+> Mange hilsener,
+> [Navn]
+
+---
+
+### NL3 — Bag kulisserne / Vidensmail
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Månedlig
+**Formål:** Fastholdelse og loyalitet — giv abonnenter en grund til at blive
+**Visuel:** Procesfotos — dej i skål, scoringsøjeblik eller surdejsburk.
+
+**Emnelinje:** Det vidste du måske ikke om surdej
+**Preheader:** Og det gør en forskel
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Mange spørger mig, hvad der gør surdejsboller anderledes end almindeligt brød.
+>
+> Svaret er tid.
+>
+> Surdej arbejder langsomt. I stedet for at tilsætte gær — som kan hæve en dej på en time — bruger vi en levende kultur af vilde gærceller og mælkesyrebakterier. De nedbryder stivelse og gluten over mange timer. Det giver den dybe, let syrlige smag. Det giver den sprøde skorpe.
+>
+> Vores dej hæver natten over. Ingen genveje.
+>
+> Har du spørgsmål til processen, er du altid velkommen til at skrive.
+>
+> [Bestil nu →]
+>
+> Mange hilsener,
+> [Navn]
+
+---
+
+### NL4 — Sæsonopdatering
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Forud for store sæsoner og helligdage (jul, påske, sommer)
+**Formål:** Drive forhåndsbestillinger, skabe urgency
+**Visuel:** Produktfoto stylet til sæsonen — f.eks. boller ved grønt til jul, forårslys til påske.
+
+**Emnelinje:** Julebollerne er klar — bestil inden [dato]
+**Preheader:** Et begrænset antal portioner
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> En gang om året bager vi et julebold.
+>
+> Samme surdej. Samme fire ingredienser. Men med en julestemning i scoringen og en smule ekstra omhu — fordi det skal passe til denne tid på året.
+>
+> Der er [X] portioner. Afhentning fra [dato] til [dato].
+>
+> Bestil inden [deadline] — første til mølle.
+>
+> [Bestil nu →]
+>
+> God jul,
+> [Navn]
+
+---
+
+### NL5 — Den personlige hilsen
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** 3–4 gange om året
+**Formål:** Dybere personlig forbindelse — minder abonnenter om, at dette er en rigtig person
+**Visuel:** Spontant køkkenfoto — varmt, ufuldkomment, ægte.
+
+**Emnelinje:** En lille hilsen fra bageren
+**Preheader:** Ingen agenda — bare tak
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Jeg vil bare sige tak.
+>
+> For hver ordre. For hvert råd. For dem af jer, der skriver tilbage og fortæller, hvad bollerne betød ved søndagsbordet eller ved morgenmaden med ungerne.
+>
+> Det er det, der får mig til at stå op og bage tidligt om morgenen.
+>
+> Fars Brød er stadig bare mig og mit køkken. Og det er præcis, som det skal være.
+>
+> Mange hilsener,
+> [Navn]
+
+---
+
+### NL6 — Sommer starter
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs, juni 2026
+**Formål:** Sæsonåbner — sætter stemning og minder abonnenter om, at bollerne passer til sommeren
+**Visuel:** Boller på et udendørs bord eller picnic-setup i naturligt sommerlys.
+
+**Emnelinje:** God sommer begynder her
+**Preheader:** Et hold friskbagte boller venter
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Sommer er her.
+>
+> Jeg bager videre som altid — et hold ad gangen, fire ingredienser, ingen genveje. Men sommer giver bollerne et nyt formål: lang morgenmad i haven, picnic på græsset, tilbehør til grillmaden.
+>
+> Bestil som du plejer. Vi aftaler afhentning på Tyttebærkvisten, når det passer dig.
+>
+> [Bestil nu →]
+>
+> God sommer,
+> [Navn]
+
+---
+
+## Generel forretningsudvikling
+
+---
+
+### BD1 — Faste ugentlige bestillingsvinduер
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Fast ugentlig cyklus. Bestillinger lukker søndag aften, bagning torsdag/fredag, afhentning fredag/lørdag. Skaber rytme, reducerer logistisk stress og bygger forventning.
+**Hvorfor det virker:** Knaphed og rutine driver gentagende adfærd. "Fredagsbollerne" bliver en vane.
+**Sådan gøres det:** Tilføj en dropdown til HubSpot-formularen for afhentningsuge. Tilføj "næste ledige afhentning" til hjemmesiden.
+
+---
+
+### BD2 — Venteliste
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Hvis efterspørgslen overstiger kapaciteten, opret en venteliste. Nye kunder tilmelder sig; faste kunder får prioritet.
+**Hvorfor det virker:** Eksklusivitet øger oplevet værdi og urgency. En venteliste er et signal om kvalitet, ikke et problem.
+**Sådan gøres det:** Opret en separat HubSpot-formular til ventelisten. Promovér manuelt, når der opstår ledige pladser.
+
+---
+
+### BD3 — Firmaordrer
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Henvend dig til små lokale virksomheder, kontorer og co-working spaces i Middelfart med tilbud om tilbagevendende ugentlige ordrer.
+**Hvorfor det virker:** B2B-ordrer er større, mere forudsigelige og kræver lavere markedsføringsomkostning pr. solgt portion.
+**Sådan gøres det:** Direkte henvendelse til 10–15 lokale virksomheder. En gratis prøveleverance er det bedste salgspitch.
+
+---
+
+### BD4 — Sæsonbegrænsede udgaver
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** En navngivet sæsonvariant én til to gange om året — f.eks. en julebolle med særlig scoring eller en påskebolle. Begrænset oplag, kun forhåndsbestilling.
+**Hvorfor det virker:** Skaber et indholdsøjeblik, driver e-mail-åbninger og giver eksisterende kunder en grund til at bestille igen.
+**Bemærk:** Hold produktsortimentet fokuseret — én sæsontilføjelse ad gangen.
+
+---
+
+### BD5 — Lokalt samarbejde
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Samarbejd med en lokal kaffebar, delikatesse eller et lokalt marked om at sælge boller på en fast dag.
+**Hvorfor det virker:** Sætter produktet foran folk, der endnu ikke kender Fars Brød. En varm smagsprøve er det bedste annonce.
+**Sådan gøres det:** Find 2–3 lokale steder, der passer til brandet — kvalitetsorienterede og lokale. Tilbyd en prøveperiode.
+
+---
+
+### BD6 — Surdejsstarter til salg
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Sælg en lille glasburk med surdejsstarter som tilkøb til enhver ordre. Inkluder et simpelt plejekort.
+**Hvorfor det virker:** Høj oplevet værdi, næsten ingen omkostning, stærk indholdsvinkel ("adopt our starter") og forlænger brandrelationen ud over bollerne selv.
+**Prisorientering:** 40–60 kr. for 100 g med plejekort. Kræver ingen separat produktion.
+
+---
+
+### BD7 — Gaveindpakning
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Tilbyd en enkel gavemulighed — boller i en mærket pose med et håndskrevet kort, positioneret som gave til fødselsdage, nye naboer eller middagsværten.
+**Hvorfor det virker:** Åbner en ny købsanledning og højere gennemsnitlig ordreværdi. "Gave"-rammen driver også deling på sociale medier.
+**Sådan gøres det:** Afkrydsningsfelt på bestillingsformularen: "Gaveindpakning (+[X] kr.)" med et tekstfelt til besked. Emballagen kan være minimal — en kraftpose med en klistermærke.
+
+---
+
+### BD8 — Google Business Profile
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Opret og udfyld Google Business Profile for Fars Brød. Tilføj fotos, åbningstider (eller "efter aftale"), adressen og et link til bestillingsformularen.
+**Hvorfor det virker:** Lokal søgning ("surdejsboller Middelfart") er høj-intent. En komplet profil giver adgang til Maps-resultater og local pack gratis.
+**Sådan gøres det:** Gå til business.google.com, gør krav på adressen, verificér via postkort. Tager 1–2 uger. Tilføj derefter 5–10 fotos.
+
+---
+
+### BD9 — Anmeldelsesindsamling
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Send en kort besked (WhatsApp eller e-mail) til kunden efter afhentning — tak dem og bed om en Google-anmeldelse.
+**Hvorfor det virker:** En håndfuld ægte anmeldelser forbedrer lokal synlighed og konvertering markant for nye kunder.
+
+**Beskedskabelon:**
+> Hej [navn] — håber bollerne smagte godt. Hvis du har lyst, ville det betyde meget, hvis du ville lægge en anmeldelse på Google: [link]. Tak for støtten.
+
+---
+
+### BD10 — Loyalitetsmekanik
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Efter hver 5. ordre er den næste portion halvpris eller inkluderer en bonusbolle. Spores manuelt eller via et digitalt stempelkort.
+**Hvorfor det virker:** Øger gentagende køb uden at give rabat til nye kunder. Belønner de faste, der tæller mest.
+**Sådan gøres det:** En simpel note i HubSpot-kontaktkortet til ordretælling. Ingen ekstra software nødvendig på nuværende tidspunkt.
+
+---
+
+### BD11 — Farsdag-kampagne
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** En tidsbegrænset gave-kampagne op til Farsdag (5. juni 2026). Tilbyd gaveindpakning med håndskrevet kort som tilvalg. Sæt deadline for bestilling f.eks. 2. juni.
+**Hvorfor det virker:** "Fars Brød til Farsdag" er et naturligt match — navn, håndværk og anledning falder præcis sammen. Kampagnen giver eksisterende kunder en konkret anledning til at bestille til andre, ikke bare til sig selv.
+**Sådan gøres det:** Send nyhedsbrev til listen i uge 22 (ca. 27. maj). Lav sociale medie-opslag i dagene 1–4. juni. Tilføj midlertidigt en "Farsdag-note" til bestillingsformularen med et tekstfelt til besked. Sæt afhentningsperiode til 4–5. juni.
+
+---
+
+---
+
+## Nyt Produkt: Frosne Biga-pizzadejskugler
+
+---
+
+### BD12 — Frosne Biga-pizzadejskugler (sommerprodukt)
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+#### Produktidé
+
+Producér Biga-pizzadejskugler, form dem, frys dem ned og sælg dem over sommeren. Kunden modtager en frossen dejkugle, optør den selv, lader den hæve og bager hjemme.
+
+**Hvad er Biga?** Biga er en italiensk præ-ferment lavet af mel, vand og en minimal mængde tørgær — hæver 16–24 timer ved lav temperatur. Samme filosofi som surdej: lang tid, lille indsats af gær, dyb smag. Resulterer i en let, luftig pizzabund med den karakteristiske Neapolitanske krumme og tynd, sprød skorpe. Ikke sourdough — men samme håndværkstankegang.
+
+**Sæson:** Sommer — folk grill og hygger, pizzaaften er hyppig, og en dejkugle fra fryseren er et let premium-køb.
+
+---
+
+#### Udstyr og investering
+
+| Udstyr | Estimeret pris | Note |
+|---|---|---|
+| EN KYS Pro Baker Easy 5 spiralmikser | 6.500 kr | Kan bruges til pizzadej OG surdejsboller |
+| Cylindriske engangsplastbeholdere m. låg | [indhent tilbud] | Prisen er afgørende for dækningsgraden — se nedenfor |
+
+> **Handling:** Indhent konkrete priser på plastbeholdere (f.eks. 0,5L cylindriske engangs) inden prisberegningen låses fast.
+
+**Melvarianter til Biga:**
+- **Caputo Cuoco** — klassisk valg til Neapolitansk pizza, høj protein (ca. 13%), klassisk smag
+- **Caputo Nuvola** — lettere, mere luftig krumme, god til hjemmeovn
+- **Valsemøllen** — dansk alternativ, lavere pris, god til start
+
+---
+
+#### Prisberegning og dækningsgrad
+
+Baseret på faktiske indkøbspriser (maj 2026).
+
+**Ingredienser per dejkugle (ca. 250g rå dej, ~65% hydrering):**
+
+Melmængde ca. 150g.
+
+**Melleverandører (Caputo Cuoco):**
+
+| Kilde | Mængde | Pris ekskl. fragt | Kr/kg |
+|---|---|---|---|
+| [ukendt] | 5 kg | 95 kr | 19,00 kr |
+| Pizzafredag | 25 kg | 449 kr | 17,96 kr |
+
+Den store forskel er ikke kg-prisen (1 kr/kg) — det er forsendelsen. Fragt for 5 kg og 25 kg koster formentlig det samme. Ved fx 60 kr fragt:
+
+| Mængde | Mel + fragt | Effektiv kr/kg | Mel-pris per dejkugle |
+|---|---|---|---|
+| 5 kg | 155 kr | 31,00 kr | 4,65 kr |
+| 25 kg | 509 kr | 20,36 kr | **3,05 kr** |
+
+25 kg giver ~166 dejkugler og fragtomkostningen pr. stk falder fra ~0,90 kr til ~0,18 kr. **Anbefaling: Køb 25 kg ad gangen, når produktionen er i gang.**
+
+**Ingredienser per dejkugle (250g rå dej, ~65% hydrering, 150g mel):**
+
+| Post | Grundlag | Pris/stk |
+|---|---|---|
+| Caputo Cuoco mel (150g) | 25 kg = 449 kr → 18 kr/kg ekskl. fragt | 2,70 kr |
+| Mel-forsendelse | Estimeret 60 kr / 166 kugler | 0,36 kr |
+| Salt, gær, vand | Negligibel | 0,10 kr |
+| Delibæger 500ml rPET | 50 stk = 95 kr (Lomax.dk) | 1,90 kr |
+| Låg | 50 stk = 41 kr (Lomax.dk) | 0,82 kr |
+| Forsendelse emballage | 300,10 kr total / 50 sæt | 3,30 kr |
+| **Total VK** | | **9,18 kr** |
+
+> Forsendelsesomkostning for mel er estimeret — indhent faktisk pris fra Pizzafredag.
+
+**Dækningsbidrag og dækningsgrad:**
+
+| Salgspris | VK/stk | DB/stk | Dækningsgrad |
+|---|---|---|---|
+| 15 kr | 9,18 kr | 5,82 kr | **39%** |
+| 18 kr | 9,18 kr | 8,82 kr | **49%** |
+| 20 kr | 9,18 kr | 10,82 kr | **54%** |
+
+**Potentiel forbedring ved større emballageordre (200 sæt):**
+
+Forsendelsesomkostningen på emballagen fordeles. Estimeret fragt ~200 kr for 200 sæt:
+
+| Post | Pris/stk |
+|---|---|
+| Bægre + låg | 2,72 kr |
+| Forsendelse | ~1,00 kr |
+| **Emballage i alt** | **~3,72 kr** |
+
+→ VK ved 25 kg mel + 200 sæt emballage: 3,16 + 3,72 = **~7,00 kr/stk**
+→ DB ved 18 kr salgspris: **11,00 kr** — Dækningsgrad: **61%**
+
+**Vurdering:**
+- Start med 5 kg mel og 50 sæt emballage for at teste markedet
+- Når du sælger stabilt, skift til 25 kg mel og 200 sæt emballage
+- Sæt prisen til **18 kr/stk** fra start — DG 49% ved første ordre, 61% ved fuld volumen
+
+> **Beslutning:** Anbefalet startpris **18 kr/stk**. Realistisk dækningsgrad 39–61% afhængig af indkøbsvolumen.
+
+---
+
+#### Break-even: Spiralmikser (6.500 kr)
+
+Mixeren bruges til **begge produkter** — pizzadej og surdejsboller. Break-even kan derfor deles.
+
+**Break-even, kun pizzadej — baseret på faktiske priser:**
+
+VK 9,18 kr/stk (25 kg mel + 50 sæt emballage inkl. fragt).
+
+| Salgspris | DB/stk | Break-even antal | Ved 50 stk/uge |
+|---|---|---|---|
+| 15 kr | 5,82 kr | 1.117 stk | **22 uger** |
+| 18 kr | 8,82 kr | 737 stk | **15 uger** |
+| 20 kr | 10,82 kr | 601 stk | 12 uger |
+
+Fuld volumen (VK ~7,00 kr, 18 kr salgspris, DB 11 kr):
+
+| Salgspris | DB/stk | Break-even antal | Ved 50 stk/uge |
+|---|---|---|---|
+| 18 kr | 11,00 kr | 591 stk | **12 uger** |
+
+**Break-even inkl. tidsbesparelse på surdejsboller:**
+
+Mixeren sparer formentlig 30–60 min pr. surdejsbatch vs. håndæltning. Ved 3 batches/uge og en konservativ timeværdi på 200 kr/time:
+- Besparelse: 3 × 0,75 t × 200 kr = **450 kr/uge**
+- Over 10 uger: 4.500 kr — over 15 uger: 6.750 kr
+
+> Mixerens tidsbesparelse på surdejsboller alene finansierer en stor del af investeringen på 12–15 uger, uanset pizzasalg. Pizzadej er en **ekstraindtægt oveni**.
+
+**Anbefalet ambitionsniveau for sommer 2026:**
+- Sæt mål om 50 dejkugler/uge i 10 uger = 500 stk i alt
+- Omsætning ved 18 kr/stk: 500 × 18 kr = **9.000 kr**
+- Bidrag til mixer-break-even: 500 × 8,85 kr DB = **4.425 kr**
+
+Kombineret med tidsbesparelsen på surdejsboller er mixer-break-even realistisk **inden for ét år ved blot 50 stk/uge**.
+
+---
+
+#### Produktbemærkninger
+
+- **Opbevaringstid frossen:** Pizzadejskugler holdes 2–3 måneder frossen. Optøning i køleskab 8–12 timer, derefter stuetemperatur 2–4 timer inden udrulning.
+- **Hjemmeovn:** Kunden skal bruge højest mulig ovntemperatur (250–300°C) og gerne en pizzasten eller stålplade. Overvej at inkludere et enkelt informationskort i emballagen.
+- **Lovgivning:** Salg af frosne madvarer fra private boliger kræver anmeldelse til Fødevarestyrelsen som hjemmevirksomhed. [Tjek regler på foedevarestyrelsen.dk inden lancering — dette er ikke verificeret i denne session.]
+- **Differentiering fra surdejsbollebrandet:** Biga er ikke sourdough. Det kommunikeres ærligt — "samme filosofi, andet produkt." Undgå at kalde det surdejspizzadej.
+
+---
+
+### NL7 — Lancering: Pizzadejskugler
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — lanceringsmail
+**Formål:** Introducere det nye produkt til eksisterende kunder og nyhedsbrev-abonnenter
+**Visuel:** En rå, let melet pizzadejskugle på et trægulv — simpelt, naturligt lys.
+
+**Emnelinje:** Noget nyt fra køkkenet
+**Preheader:** Pizzaaften — bare bedre
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Jeg bager normalt kun boller. Men sommer kalder på pizza.
+>
+> Fra [dato] sælger jeg Biga-pizzadejskugler. Samme tankegang som surdejsbollerne: godt mel, lang tid, ingen genveje. Biga er en gammel italiensk teknik, hvor dejen hæver i 16–24 timer og udvikler en dyb smag og en let, sprød bund, du ikke får fra en pose.
+>
+> Du køber en frossen dejkugle og bager den, når du har lyst. En enkelt kugle giver én pizza. Du lader den optø i køleskabet natten over, lader den hæve et par timer på køkkenbordet og ruller den ud. Det er det.
+>
+> Der er [X] kugler per uge — ligesom med bollerne er det first come, first served.
+>
+> Pris: [X] kr/stk.
+>
+> Bestil via linket herunder — eller skriv til mig, hvis du har spørgsmål.
+>
+> [Bestil nu →]
+>
+> God sommer,
+> [Navn]
+
+---
+
+### NL8 — Brugervejledning: Sådan bager du din dejkugle
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — send til kunder der har købt pizzadej
+**Formål:** Sikre en god kundeoplevelse og reducere "den hævede ikke"-henvendelser
+**Visuel:** Trin-for-trin: frossen kugle → på tallerken i køleskab → på bord → udrulet.
+
+**Emnelinje:** Sådan bruger du din pizzadej
+**Preheader:** Fra fryseren til pizzabunden — tre trin
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Her er det eneste du behøver at vide for at bage en god pizza med din dejkugle.
+>
+> **Optøning**
+> Tag kugleN ud af fryseren og læg den i køleskabet — natten over eller 8–12 timer. Den skal stadig føles kold og fast, men ikke frossen.
+>
+> **Hævning**
+> Tag den ud af køleskabet 2–3 timer inden du bager. Sæt den i beholderen eller en let smurt skål, tildæk den og lad den stå på køkkenbordet. Den er klar, når den er hævet og let fedtet på overfladen.
+>
+> **Bagning**
+> Varm ovnen til max — 250–300°C, gerne med en bageplade eller pizzasten der varmer med. Rul eller stræk dejen forsigtigt ud med hænderne. Belæg og bag 8–12 minutter, til bunden er mørk og sprød i kanten.
+>
+> Det er det. Skriv endelig, hvis noget driller.
+>
+> [Navn]
+
+---
+
+### WEB-PIZZA — Forslag til ny produktsektion på hjemmesiden
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+> **Bemærk:** Hjemmesiden siger i dag „Kun ét produkt — men det er perfekt." Denne tekst skal opdateres, hvis pizzadej tilføjes som fast tilbud. Forslag til ny produktsektion nedenfor.
+
+**Label:** Nyt produkt · Sommer 2026
+**Overskrift:** Biga-pizzadejskugler
+
+**Brødtekst:**
+> Samme håndværk. Et andet produkt.
+>
+> En Biga-dej hæver 16–24 timer, inden den formes til kugler og fryses ned. Det er den lange tid, der giver smagen — en let, luftig bund med sprød kant, som du ikke kan skynde frem.
+>
+> Du køber en frossen dejkugle, optør den natten over og ruller den ud, når det passer dig. Ingen planke, ingen pose-kompromiser.
+
+**Egenskaber (punkter):**
+- Biga — 16–24 timers hævetid
+- Godt mel, ingen tilsætningsstoffer
+- Frossen — klar når du er det
+- Én kugle giver én pizza
+
+**CTA:** Bestil pizzadej →
+
+> **Note til implementering:** Tilføj som ny produktkort i `#produkter`-sektionen, eller opret en separat sektion med samme struktur som surdejsbollerne. Opdater FAQ med spørgsmål om optøning og bagning.
+
+---
+
 ## Kilder
 
 - [52 Bakery Instagram Post Ideas — Socialmon](https://www.socialmon.ai/blog/52-bakery-instagram-post-ideas-that-get-you-orders)
+- [Proven bakery marketing ideas 2026 — Zeely AI](https://zeely.ai/blog/proven-bakery-marketing-ideas-and-strategies/)
+- [The Sourdough Boom: Trends & Growth — Finsbury Food Group](https://finsburyfoods.co.uk/the-sourdough-boom-trends-growth/)
+- [What's next for sourdough — Puratos](https://www.puratos.com/blog/sourdough-trends-and-ideas-for-bakers)
+- [Hottest bakery trends 2026 — Puratos / Taste Tomorrow](https://www.puratos.co.uk/en/blog/taste-tomorrow/hottest-bakery-trends)
+- [Meta Ad Formats 2026: Which One Converts Best? — Dataslayer](https://www.dataslayer.ai/blog/meta-ad-formats-in-2025-guide)
+- [Meta Ads Creative Guide 2026 — Verde Media](https://verdemedia.com/blog/the-guide-to-meta-ads-creative-2026)
+- [Meta Ads Benchmarks 2026 — Enrich Labs](https://www.enrichlabs.ai/blog/meta-ads-benchmarks-2025)
+- [HubSpot Email Marketing Review — MailerLite](https://www.mailerlite.com/blog/hubspot-email-marketing-review)
+- [HubSpot Free Plan Guide — Zeeg](https://zeeg.me/en/blog/post/hubspot-free)
 - [Proven bakery marketing ideas 2026 — Zeely AI](https://zeely.ai/blog/proven-bakery-marketing-ideas-and-strategies/)
 - [The Sourdough Boom: Trends & Growth — Finsbury Food Group](https://finsburyfoods.co.uk/the-sourdough-boom-trends-growth/)
 - [What's next for sourdough — Puratos](https://www.puratos.com/blog/sourdough-trends-and-ideas-for-bakers)

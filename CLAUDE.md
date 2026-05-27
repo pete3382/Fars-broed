@@ -90,6 +90,15 @@ End of every session: update claude.md with new learnings
 - Brandet er en person og et håndværk — ikke et firma
 - HubSpot (gratis) bruges til bestillingsformular og nyhedsbrev — maks. 1.000 kontakter, 2.000 e-mails/måned, ingen automatiserede workflows
 - IDEAS.md er det centrale arbejdsdokument for indhold og forretningsudvikling
+- Nyt produkt under overvejelse: frosne Biga-pizzadejskugler til salg om sommeren (se BD12 i IDEAS.md)
+- Anbefalet salgspris pizzadej: 18 kr/stk (DG 49% ved startvolumen, 61% ved fuld volumen)
+- Spiralmikser under overvejelse: EN KYS Pro Baker Easy 5, 6.500 kr — break-even ca. 15 uger ved 50 stk/uge og 18 kr/stk
+
+## Indkøbspriser (verificerede, maj 2026)
+- **Caputo Cuoco mel:** 5 kg = 95 kr ekskl. fragt (19 kr/kg) · 25 kg = 449 kr ekskl. fragt fra Pizzafredag (17,96 kr/kg)
+- **Emballage pizzadej:** Delibægre 500ml rPET + låg fra Lomax.dk — 50 bægre (95 kr) + 50 låg (41 kr) + forsendelse = 300,10 kr samlet for 50 sæt = 6,02 kr/stk
+- **Dejkugle-spec:** 250g rå dej, ~150g mel, 65% hydrering, én kugle = én pizza
+- Mel-forsendelse fra Pizzafredag: ikke verificeret endnu
 
 ## Dansk copy-regler
 - Tone: varm, personlig, håndværksorienteret — skrevet fra en fars og håndværkers perspektiv
