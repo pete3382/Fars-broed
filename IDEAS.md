@@ -1848,6 +1848,398 @@ Pizzadej bidrager **39% af mixer-break-even**. Kombineret med tidsbesparelse på
 
 ---
 
+---
+
+## ANNOUNCEMENT STRATEGY — Biga Pizzadejskugler
+
+Koordineret strategi for lancering og evergreen "always-on" kampagner juni 27 og fremefter.
+
+---
+
+### NEWSLETTER
+
+#### NL7 — Lancering: Pizzadejskugler (Juni 27)
+
+**Emnelinje:** Noget nyt fra køkkenet
+**Preheader:** Pizzaaften — bare bedre
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Jeg bager normalt kun boller. Men sommer kalder på pizza.
+>
+> Fra i dag sælger jeg Biga-pizzadejskugler. Samme tankegang som surdejsbollerne: godt mel, lang tid, ingen genveje. Biga er en gammel italiensk teknik, hvor dejen hæver 48 timer ved kolde forhold og udvikler en dyb smag og en let, sprød bund.
+>
+> Du køber en frossen dejkugle og bager den, når du har lyst. En enkelt kugle giver én pizza. Du lader den optø i køleskabet natten over, lader den hæve et par timer på køkkenbordet og ruller den ud. Det er det.
+>
+> Der er 10 kugler per uge — ligesom med bollerne er det first come, first served.
+>
+> Pris: 20 kr/stk.
+>
+> Bestil via linket herunder — eller skriv til mig, hvis du har spørgsmål.
+>
+> [Bestil nu →]
+>
+> God sommer,
+> [Navn]
+
+---
+
+#### NL9 — Evergreen: Pizzadej (månedlig efter lancering)
+
+**Emnelinje:** Pizzaaften uden stress
+**Preheader:** Dejen er allerede gjort
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Vigtigt at kunne lave pizza derhjemme uden at stresse det hele dagen.
+>
+> Når du køber en Biga-dejkugle, er det meste arbejde allerede gjort. Du optør natten før. Lader den hæve et par timer. Ruller den ud. Belægger den. Bager den.
+>
+> Dejen har hævet i 48 timer allerede. Det er tiden, der gør smagen. Den er sprød i kanten, luftig indeni. Det kan du ikke få fra en pose.
+>
+> 10 kugler per uge. 20 kr/stk.
+>
+> [Bestil nu →]
+>
+> Mange hilsener,
+> [Navn]
+
+---
+
+### SOCIAL MEDIA (ORGANISK)
+
+#### O15 — Lancering af pizzadej
+
+**Format:** Statisk billede eller kort Reel
+**Visual:** En rå dejkugle, let melet, fotograferet tæt på på et mørkt trægulv. Naturligt lys. Eller: en hånd der strækker dejen op mod lyset — glutentrådene synlige.
+
+**Caption:**
+> Noget nyt fra køkkenet.
+>
+> Fra i dag sælger jeg Biga-pizzadejskugler. Frosne og klar til hjemme-pizzaaften.
+>
+> Biga er en gammel italiensk teknik. Dejen hæver 48 timer og giver en let, luftig bund med en smag, du ikke får fra supermarkedet.
+>
+> Du optør natten over, lader den hæve på køkkenbordet og ruller den ud. Det er det.
+>
+> 10 kugler per uge. 20 kr/stk.
+>
+> Bestil via linket i bio.
+
+---
+
+#### O16 — Bag kulisserne: Den nye mixer
+
+**Format:** Reel (15–25 sek.) eller statisk billede
+**Visual:** Spiralmixeren kører med pizzadej — dejen trækkes op langs spiralen og slippes igen i et roligt, rytmisk mønster. Naturligt køkkenlys. Ingen musik — kun maskinens lyd.
+
+**Caption:**
+> Ny maskine. Samme filosofi.
+>
+> En spiralmikser arbejder anderledes end en planetarmikser. Spiralen efterligner det håndæltning faktisk gør — den strækker og folder dejen, i stedet for at piske den. Glutennetværket bygges op langsomt og jævnt. Dejen varmer ikke op undervejs.
+>
+> Det gør en forskel. Især til Biga-dej, der allerede har hævet i 48 timer og skal behandles forsigtigt.
+>
+> Biga-pizzadejskugler er nu på salg.
+
+---
+
+#### O17 — Brugervejledning: Tre trin til pizzaaften
+
+**Format:** Karrusel (4 slides)
+**Visual:** Hvert slide ét trin: 1) frossen kugle i beholder, 2) kugle på tallerken i køleskab, 3) hævet kugle på køkkenbord, 4) udrulet dej med fyld klar til ovn. Ensartet lys og overflade igennem alle slides.
+
+**Slide 1:** Sådan bruger du din dejkugle.
+**Slide 2:** Natten inden — tag den ud af fryseren og læg den i køleskabet. 8–12 timer.
+**Slide 3:** 2–3 timer inden — ud på køkkenbordet. Tildæk. Lad den hæve.
+**Slide 4:** Ovnen på max. Stræk dejen ud med hænderne. 8–12 minutter. Færdig.
+
+**Caption:**
+> Pizza på en hverdagsaften behøver ikke tage lang tid.
+>
+> Det meste arbejde er gjort på forhånd. Alt du skal gøre er at planlægge natten inden.
+>
+> Biga-pizzadejskugler fra Fars Brød. 20 kr/stk. Bestil via linket i bio.
+
+---
+
+#### O18 — Evergreen: Glutenstruktur i Biga-dej
+
+**Format:** Statisk billede eller kort Reel
+**Visual:** En hånd der strækker dejen — glutentrådene synlige. Eller: et tværsnit af en bagt pizza med den åbne, luftige struktur.
+
+**Caption:**
+> Det er ikke bare mel og vand.
+>
+> Når Biga-dejen hæver i 48 timer, sker der noget under overfladen. Glutennetværket bliver stærkt og elastisk. Mikroorganismer udvikler smag. Osmotisk tryk bliver perfekt.
+>
+> Resultatet er en pizza med luftig krumme og sprød kant. Du kan ikke haste det.
+>
+> Biga-pizzadejskugler. 20 kr/stk. Bestil via linket i bio.
+
+---
+
+#### O19 — Evergreen: Sommer og pizza
+
+**Format:** Statisk billede eller Story
+**Visual:** En udrullet pizza på en udendørs bord eller pizzasten i sommerlys. Eller: familien spiser pizza i haven.
+
+**Caption:**
+> Pizzaaften betyder ikke stress og madlavning hele dagen.
+>
+> Med en Biga-dejkugle fra fryseren er du klar til at lave en pizza på halvanden time.
+>
+> Optø natten før. Hæv et par timer. Rul ud. Belæg. Bag.
+>
+> Det er det hele.
+>
+> 20 kr/stk. Bestil via linket i bio.
+
+---
+
+### WEBSITE
+
+#### Front-End: WEB-PIZZA (allerede dokumenteret i BD12)
+
+**Sektion:** Tilføj til Produkter (eller separat sektion)
+
+**Visuelle:** 
+- Hero shot: frossen dejkugle tæt på
+- Sekvens: optøning → hævning → udruling → bagt pizza
+- Lifestyle: pizza på udendørs bord
+
+**Copy-highlights:**
+- 48 timers koldhævning
+- Godt mel, ingen tilsætningsstoffer
+- Frossen — klar når du er det
+- 20 kr/stk
+
+**CTA:** Bestil pizzadej →
+
+---
+
+#### Back-End: Meta Tags & Structured Data
+
+**Meta Description (160 char):**
+> Frosne Biga-pizzadejskugler fra Fars Brød. 48 timers koldhævning, godt mel, ingen tilsætningsstoffer. 20 kr/stk. Bestil til afhentning i Middelfart.
+
+**Open Graph (OG tags):**
+- og:title = "Biga-pizzadejskugler fra Fars Brød"
+- og:description = "Frosne pizzadejskugler med 48 timers koldhævning. Godt mel, ingen genveje."
+- og:image = [produktfoto: frossen dejkugle]
+
+**JSON-LD Structured Data (Product schema):**
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Biga-pizzadejskugler",
+  "description": "Frosne pizzadejskugler med 48 timers koldhævning. Godt mel, ingen tilsætningsstoffer.",
+  "price": "20",
+  "priceCurrency": "DKK",
+  "availability": "http://schema.org/InStock",
+  "image": "[url to product photo]",
+  "brand": {
+    "@type": "Brand",
+    "name": "Fars Brød"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "[link to order form]",
+    "priceCurrency": "DKK",
+    "price": "20"
+  }
+}
+```
+
+---
+
+### GOOGLE MY BUSINESS
+
+#### Service/Product Description
+
+**Titel:** Biga-pizzadejskugler (Sommerprodukt)
+
+**Beskrivelse:**
+> Frosne pizzadejskugler lavet med italiensk Biga-teknik. Dejen hæver 48 timer for dyb smag og sprød kant.
+>
+> En kugle giver én pizza. Optø natten over. Hæv 2–3 timer. Rul ud. Belæg. Bag.
+>
+> 20 kr/stk. Bestil via hjemmesiden.
+
+**Photos:**
+1. Frossen dejkugle i beholder (close-up)
+2. Udrullet dej på pizzasten
+3. Færdig bagt pizza
+4. Pizza på spisebord (lifestyle)
+
+**Updates (monthly during summer):**
+- Week 1 (late June): "Pizzadejskugler er nu på salg. Bestil for sommerkampagner."
+- Week 4 (mid-July): "Populært denne sommer. 10 kugler per uge — bestil i god tid."
+- Week 8 (late August): "Pizzasæsonen er på sit højeste. Frosne dejkugler klar til afhentning."
+
+---
+
+### PAID SOCIAL (EVERGREEN "ALWAYS-ON" CAMPAIGNS)
+
+#### Campaign Structure: Three Rotating Angles
+
+Rotate monthly or bi-weekly to avoid ad fatigue. All evergreen (no seasonal tie-ins).
+
+---
+
+#### Angle 1: "The Ease" — Convenience & Simplicity
+
+**Primary Objective:** Sales
+**Placement:** Facebook & Instagram feed
+**Format:** Static image or short Reel
+
+**Ad Copy Variants:**
+
+**Variant 1A (Static):**
+> Pizzaaften uden madlavning hele dagen.
+>
+> Biga-dejkugler fra fryseren. Optø natten før. Hæv 2 timer. Rul ud. Belæg. Bagt.
+>
+> Det er det hele. 20 kr/stk.
+>
+> [Bestil nu]
+
+**Variant 1B (Reel):**
+Visual: Time-lapse from frozen dough → oven → finished pizza (15–20 sec).
+
+> Fra fryseren til bordet på halvanden time.
+>
+> Pizzaaften uden stress.
+>
+> [Bestil nu]
+
+**Variant 1C (Carousel):**
+1. Frossen kugle: "Tager det ud af fryseren."
+2. Optøning: "Natten over i køleskabet."
+3. Hævning: "Et par timer på bordet."
+4. Udruling: "Ruller det ud med hænderne."
+5. Bagt pizza: "Færdig. Spiseklar."
+
+Headline: "5 trin til din egen pizzaaften"
+CTA: [Bestil nu]
+
+---
+
+#### Angle 2: "The Quality" — Craft & Ingredients
+
+**Primary Objective:** Sales
+**Placement:** Facebook & Instagram feed
+**Format:** Static image or Reel
+
+**Ad Copy Variants:**
+
+**Variant 2A (Static):**
+Visual: Close-up of raw dough ball, gluten visible.
+
+> Ikke alle pizzadejes er ens.
+>
+> Biga-dej hæver 48 timer. Godt mel. Ingen tilsætningsstoffer. Ingen genveje.
+>
+> Den smag og struktur du føler i munden — det er tiden.
+>
+> 20 kr/stk. [Bestil nu]
+
+**Variant 2B (Reel):**
+Visual: Spiral mixer kneading dough, slow-motion close-ups of gluten structure.
+
+> En dag for hævning.
+> To dage for smag.
+> Tre timer for dig.
+>
+> Biga-pizzadej fra Fars Brød. [Bestil nu]
+
+**Variant 2C (Carousel):**
+1. Mel: "Caputo Cuoco. Høj protein. Det giver struktur."
+2. Gær: "Minimal. Dejen hæver naturligt over 48 timer."
+3. Salt & vand: "Det vigtigste: tid."
+4. Hævning: "48 timer ved kolde forhold."
+5. Resultat: "Sprød kant. Luftig krumme. Smag."
+
+Headline: "Hvad gør en god pizzadej god?"
+CTA: [Bestil nu]
+
+---
+
+#### Angle 3: "The Lifestyle" — Summer & Gatherings
+
+**Primary Objective:** Sales
+**Placement:** Facebook & Instagram feed, Stories
+**Format:** Lifestyle image, Reel, or Carousel
+
+**Ad Copy Variants:**
+
+**Variant 3A (Static):**
+Visual: Finished pizza on outdoor table, people in background, summer light.
+
+> Pizzaaften i haven.
+>
+> Når dejen allerede er gjort, er der tid til venner, familie og at nyde sommeren.
+>
+> Biga-pizzadejskugler. Bestil, optø, hæv, rul, belæg, bag.
+>
+> 20 kr/stk. [Bestil nu]
+
+**Variant 3B (Reel):**
+Visual: Montage — pizza in oven, people laughing, pizza on table, people eating.
+
+> Sommeraften uden køkkenstress.
+>
+> Alt det vigtige sker uden for køkkenet. [Bestil nu]
+
+**Variant 3C (Stories):**
+Sequential swipe-ups:
+1. Frossen kugle: "Tager det ud af fryseren"
+2. Hæving: "Lader det ligge"
+3. Udruling: "Ruller det ud"
+4. Pizza på bord: "Nyder sommeren"
+
+---
+
+### RETARGETING (Varm målgruppe)
+
+**Objective:** Sales
+**Audience:** Website visitors, social media engagers
+**Format:** Static image
+**Placement:** Facebook & Instagram feed, Stories
+
+**Copy:**
+
+> Du så pizzadejskuglerne.
+>
+> De er 20 kr/stk. Frosne. Klar når du er.
+>
+> [Bestil nu]
+
+---
+
+### TRACKING & OPTIMIZATION
+
+**Key Metrics to Monitor:**
+- CTR (Click-through rate) per angle
+- CPC (Cost per click)
+- ROAS (Return on ad spend)
+- Conversions (orders placed)
+- Cost per order
+
+**Monthly Rotation:**
+- Week 1–2: Angle 1 (Ease)
+- Week 3–4: Angle 2 (Quality)
+- Week 5–6: Angle 3 (Lifestyle)
+- Week 7–8: Retargeting
+- Repeat
+
+**Adjustments:** Pause underperforming variants. Scale winning angles.
+
+---
+
 ## Kilder
 
 - [52 Bakery Instagram Post Ideas — Socialmon](https://www.socialmon.ai/blog/52-bakery-instagram-post-ideas-that-get-you-orders)
