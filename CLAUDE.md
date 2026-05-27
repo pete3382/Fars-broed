@@ -102,3 +102,13 @@ End of every session: update claude.md with new learnings
 - Citationstegn: „..." i dansk body copy
 - Punktlister: ingen afsluttende punktum medmindre punktet er en hel sætning
 - Teknisk dybde er velkommen: glutenstruktur, fermentering, enzymaktivitet og lign. må bruges når det er relevant — men altid forklaret i letforståeligt sprog
+
+## Session Progress — Ideas Review
+**Status (2026-05-20):** Gennemgang af O-idéer (Organisk social) — nåede til O10.
+- O1–O6: Allerede reviewet/markeret i tidligere session
+- O7: Dårlig ✓, Ikke nu ✓ (kundereaktioner er upraktisk)
+- O8: Dårlig ✓, Ikke nu ✓ (som den er — fin nørdet, men skubbede videre)
+- O9: Dårlig ✓, Klar til brug ✓ (udsigt-afhængig, men producerbar)
+- O10: Blev ikke markeret — næste session starter her
+
+**Næste:** Fortsæt O10–O14, så Meta Ads (A1–A6), Newsletter (NL1–NL6), Business Dev (BD1–BD11).

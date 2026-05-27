@@ -34,21 +34,21 @@ Best times: weekday mornings 7–9, weekend afternoons 13–15, Sunday evenings 
 
 ---
 
-### O1 — Fire ingredienser
+### O1 — Ingredienserne bag bollerne
 
-**Kvalitet:** `[ ]` God `[ ]` Dårlig
-**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Kvalitet:** `[x]` God `[ ]` Dårlig
+**Prioritet:** `[x]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
 **Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
 
 **Format:** Statisk billede eller kort Reel (15–20 sek.)
-**Visual:** Flatlay oppefra: en lille bunke mel, et glas vand, en knivspids salt og en lille glasburk med aktiv surdej — på et melet trægulv. Varmt, naturligt lys. Ingen rekvisitter.
+**Visual:** Flatlay oppefra: en lille bunke mel, et glas vand, en knivspids salt, en lille glasburk med aktiv surdej og en lille knivspids tørgær — på et melet trægulv. Varmt, naturligt lys. Ingen rekvisitter.
 
 **Caption:**
-> Vi bruger fire ingredienser.
+> Vi bruger fem ingredienser.
 >
-> Mel, vand, salt og surdej. Det er det hele.
+> Mel, vand, salt, surdej — og en lille smule gær. Gæren er ikke for at skynde processen. Den er der for at give skorpen den der tynde, lette sprødhed, som surdej alene ikke kan.
 >
-> Ingen tilsætningsstoffer, ingen genveje, ingen kompromiser. Bare de ting, der faktisk giver brød smag.
+> Ingen tilsætningsstoffer, ingen genveje, ingen kompromiser. Bare de ting, der faktisk giver brød smag og karakter.
 >
 > Bestil dine boller via linket i bio.
 
@@ -56,8 +56,8 @@ Best times: weekday mornings 7–9, weekend afternoons 13–15, Sunday evenings 
 
 ### O2 — Ovnen åbner sig
 
-**Kvalitet:** `[ ]` God `[ ]` Dårlig
-**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Kvalitet:** `[x]` God `[ ]` Dårlig
+**Prioritet:** `[x]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
 **Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
 
 **Format:** Reel (10–15 sek., kan loopes)
@@ -72,19 +72,21 @@ Best times: weekday mornings 7–9, weekend afternoons 13–15, Sunday evenings 
 
 ### O3 — En dag i bageriets liv
 
-**Kvalitet:** `[ ]` God `[ ]` Dårlig
-**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Kvalitet:** `[x]` God `[ ]` Dårlig
+**Prioritet:** `[x]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
 **Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
 
 **Format:** Reel (30–45 sek.) eller karrusel (6–8 slides)
-**Visual:** Sekvens: surdej fodres om aftenen → dej blandes om morgenen → dejfoldning i skål → formede boller hviler under klæde → ind i ovnen → færdige boller på en rist. Samme køkken, samme lys igennem hele sekvensen.
+**Visual:** Sekvens: surdej fodres om morgenen → dej blandes om eftermiddagen → dejfoldning i skål ved stuetemperatur (22°) → på køl natten over → formes til boller om morgenen → drysses med frø og kerner → ind i ovnen med damp → færdige boller på en rist. Samme køkken, samme lys igennem hele sekvensen.
 
 **Caption:**
-> Dine boller starter dagen inden du bestiller dem.
+> Dine boller starter dagen inden du afhenter dem.
 >
-> Surdejen fodres om aftenen. Dejen blandes om morgenen. Så hviler den — natten over — inden den formes i hånden og ryger i ovnen.
+> Om morgenen fodres surdejen. Om eftermiddagen blandes dejen. Den hæver først ved 22 grader — og så natten over på køl.
 >
-> Det er den tid, der giver smagen. Der er ingen genvej til det.
+> Næste dag formes bollerne i hånden, drysses med frø og kerner og bages med damp.
+>
+> Det er de mange timer, der giver smagen. Der er ingen genvej til det.
 >
 > Bestil via linket i bio.
 
@@ -92,27 +94,27 @@ Best times: weekday mornings 7–9, weekend afternoons 13–15, Sunday evenings 
 
 ### O4 — Surdej og maven
 
-**Kvalitet:** `[ ]` God `[ ]` Dårlig
-**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Kvalitet:** `[x]` God `[ ]` Dårlig
+**Prioritet:** `[x]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
 **Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
 
 **Format:** Karrusel (5 slides)
 **Visual:** Hvert slide: varm cremefarvet baggrund, en enkelt sætning i stort, mørkt skriftsnit. Slide 1 har et nærbillede af et åbent bolle — den åbne krumme fylder billedet.
 
-> **Bemærk:** Tjek fermenterings- og mavesundhedskilder inden opslag. Undgå at fremstille det som medicinsk rådgivning.
+**Kilde:** [The Health Benefits of Sourdough Bread — UF/IFAS Extension](https://blogs.ifas.ufl.edu/taylorco/2025/05/16/the-health-benefits-of-sourdough-bread-a-scientific-perspective/) / [Exploring the Nutritional Impact of Sourdough Fermentation — PMC/NCBI](https://pmc.ncbi.nlm.nih.gov/articles/PMC11172170/)
 
-**Slide 1:** Vidste du, at surdej er lettere for maven end andet brød?
-**Slide 2:** Lang fermentering nedbryder fytinsyre — det gør mineralerne i melet lettere at optage.
-**Slide 3:** Ingen gær. Ingen tilsætningsstoffer. Bare surdej, der arbejder langsomt natten over.
-**Slide 4:** Fire ingredienser. Bagt i hånden.
-**Slide 5:** Bestil dine boller via linket i bio.
+**Slide 1:** Vidste du, at surdej er lettere for maven end almindeligt brød?
+**Slide 2:** Under den lange fermentering nedbryder mælkesyrebakterierne fytinsyre. Det gør mineralerne i melet op til 90% lettere for kroppen at optage.
+**Slide 3:** Fermenteringen danner også præbiotika — fibre der ernærer de gode bakterier i din tarm og støtter fordøjelsen.
+**Slide 4:** Vores dej hæver først ved 22 grader og så natten over på køl. Det er den tid, der gør forskellen.
+**Slide 5:** Bagt i hånden. Drysset med frø og kerner. Klar til afhentning i Middelfart. Bestil via linket i bio.
 
 ---
 
 ### O5 — Skorpen tæt på
 
-**Kvalitet:** `[ ]` God `[ ]` Dårlig
-**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Kvalitet:** `[ ]` God `[x]` Dårlig
+**Prioritet:** `[x]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
 **Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
 
 **Format:** Statisk billede
@@ -131,19 +133,19 @@ Best times: weekday mornings 7–9, weekend afternoons 13–15, Sunday evenings 
 
 ### O6 — Bageren, ikke brandet
 
-**Kvalitet:** `[ ]` God `[ ]` Dårlig
-**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Kvalitet:** `[x]` God `[ ]` Dårlig
+**Prioritet:** `[x]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
 **Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
 
 **Format:** Statisk billede eller kort Reel
 **Visual:** Bagerens hænder folder eller former dej på et melet bord. Intet ansigt nødvendigt — hænder, underarme, eventuelt en ring. Varmt køkkenlys. Intimt, ikke iscenesæt.
 
 **Caption:**
-> Jeg begyndte at bage, fordi jeg ville give noget til dem, jeg holder af.
+> Jeg er ikke bager af uddannelse. Jeg er far, og jeg kan godt lide at bage.
 >
-> Det er stadig grunden.
+> Det startede i mit eget køkken, fordi jeg ville give noget ordentligt til min familie. Det gør jeg stadig. Bare til lidt flere nu.
 >
-> Fars Brød er ikke et bageri. Det er mit køkken, mine hænder og en surdej, jeg har passet i årevis. Bollerne bages i små portioner — et hold ad gangen — til folk der sætter pris på, hvad der går i deres brød.
+> Bollerne bages i hånden i små portioner. Jeg passer min surdej hver dag og bruger den tid, det tager. Ikke mere, ikke mindre.
 >
 > Bestil via linket i bio.
 
@@ -151,8 +153,8 @@ Best times: weekday mornings 7–9, weekend afternoons 13–15, Sunday evenings 
 
 ### O7 — Afhentningsøjeblikket
 
-**Kvalitet:** `[ ]` God `[ ]` Dårlig
-**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Kvalitet:** `[ ]` God `[x]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[x]` Ikke nu `[ ]` Kan ikke gøres
 **Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
 
 **Format:** Kort Reel eller Story
@@ -169,7 +171,7 @@ Best times: weekday mornings 7–9, weekend afternoons 13–15, Sunday evenings 
 
 ### O8 — Surdejen bag bollerne
 
-**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Kvalitet:** `[ ]` God `[x]` Dårlig
 **Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
 **Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
 
@@ -177,11 +179,11 @@ Best times: weekday mornings 7–9, weekend afternoons 13–15, Sunday evenings 
 **Visual:** En burk med aktiv, boblende surdej på et køkkenbord. Naturligt morgenlys. En træske hviler ved siden. Eventuelt en håndskrevet label.
 
 **Caption:**
-> Denne surdej har fulgt mig i [X] år.
+> Min surdej er [X] år gammel.
 >
-> Jeg fodrer den hver dag. Holder øje med den. Passer på den.
+> Jeg fodrer den hver morgen og holder øje med, hvordan den udvikler sig. En levende kultur opfører sig forskelligt afhængig af temperatur, årstid og luftfugtighed. Det kræver opmærksomhed.
 >
-> Det er den, der giver bollerne den smag, du ikke kan købe i en butik. Ingen to hold smager præcis ens — fordi den lever og udvikler sig, ligesom alt andet.
+> Det er surdejen, der giver bollerne deres smag. Ikke to hold smager helt ens, fordi ingen to dage er helt ens.
 >
 > Bestil dine boller via linket i bio.
 
