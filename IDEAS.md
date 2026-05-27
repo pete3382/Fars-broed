@@ -1682,17 +1682,17 @@ Melmængde ca. 150g.
 
 | Salgspris | VK/stk | DB/stk | Dækningsgrad |
 |---|---|---|---|
-| 15 kr | 4,19 kr | 10,81 kr | **72,1%** |
-| 18 kr | 4,19 kr | 13,81 kr | **76,7%** |
-| 20 kr | 4,19 kr | 15,81 kr | **79,0%** |
+| 15 kr | 4,19 kr | 10,81 kr | 72,1% |
+| 18 kr | 4,19 kr | 13,81 kr | 76,7% |
+| **20 kr** | 4,19 kr | **15,81 kr** | **79,0%** |
 
 **Vurdering:**
 - Du har allerede købt 30 kg mel — holder til ~200 dejkugler
 - Emballage bestilt: 50 sæt bægre + låg
-- Break-even på mixer: ~9–10 uger ved 50 stk/uge
-- Margin så høj, at du kan være aggressiv på pris uden at ofre fortjeneste
+- Break-even på mixer: ~8 uger ved 50 stk/uge og 20 kr salgspris
+- Margin så høj, at du har handlefrihed på pris
 
-> **Beslutning:** Start med **18 kr/stk** — giver 77% dækningsgrad inkl. moms. Du kan senere gå ned til 15 kr, hvis det skal til for volumen. Mixer betaler sig på under 10 uger ved realistiske små volumener.
+> **Beslutning:** Salgspris **20 kr/stk (incl. moms)** — giver 79% dækningsgrad. Mixer betaler sig på under 8 uger ved 50 stk/uge. Du kan senere tilbyde rabat for volumen uden at skade økonomien.
 
 ---
 
@@ -1706,9 +1706,9 @@ VK 4,19 kr/stk (30 kg mel + 50 sæt emballage, ingen fragt).
 
 | Salgspris | DB/stk | Break-even antal | Ved 50 stk/uge |
 |---|---|---|---|
-| 15 kr | 10,81 kr | 601 stk | **12 uger** |
-| 18 kr | 13,81 kr | **471 stk** | **~9,4 uger** |
-| 20 kr | 15,81 kr | 411 stk | ~8,2 uger |
+| 15 kr | 10,81 kr | 601 stk | 12 uger |
+| 18 kr | 13,81 kr | 471 stk | ~9,4 uger |
+| **20 kr** | **15,81 kr** | **411 stk** | **~8,2 uger** |
 
 **Break-even inkl. tidsbesparelse på surdejsboller:**
 
