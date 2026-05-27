@@ -1660,11 +1660,11 @@ Melmængde ca. 150g.
 
 **Verified pricing from Dagrofa (picked up — no shipping):**
 
-| Produkt | Mængde | Pris (ex. moms) | Pris/enhed (ex. moms) |
-|---|---|---|---|
-| Caputo Cuoco mel | 30 kg | 330 kr | **11,00 kr/kg** |
-| Salatbæger fixpack 750ml | 50 stk | 43,95 kr | **0,88 kr/stk** |
-| Låg til bæger | 50 stk | 35,95 kr | **0,72 kr/stk** |
+| Produkt | Mængde | Pris (ex. moms) | Pris (incl. moms 25%) | Pris/enhed (ex. moms) | Pris/enhed (incl. moms) |
+|---|---|---|---|---|---|
+| Caputo Cuoco mel | 30 kg | 330 kr | 412,50 kr | 11,00 kr/kg | 13,75 kr/kg |
+| Salatbæger fixpack 750ml | 50 stk | 43,95 kr | 54,94 kr | 0,88 kr/stk | 1,10 kr/stk |
+| Låg til bæger | 50 stk | 35,95 kr | 44,94 kr | 0,72 kr/stk | 0,90 kr/stk |
 
 **Ingredienser per dejkugle (250g rå dej, ~65% hydrering, 150g mel):**
 
@@ -1704,11 +1704,11 @@ Mixeren bruges til **begge produkter** — pizzadej og surdejsboller. Break-even
 
 VK 4,19 kr/stk (30 kg mel + 50 sæt emballage, ingen fragt).
 
-| Salgspris | DB/stk | Break-even antal | Ved 50 stk/uge |
+| Salgspris | DB/stk | Break-even antal | Ved 10 stk/uge |
 |---|---|---|---|
-| 15 kr | 10,81 kr | 601 stk | 12 uger |
-| 18 kr | 13,81 kr | 471 stk | ~9,4 uger |
-| **20 kr** | **15,81 kr** | **411 stk** | **~8,2 uger** |
+| 15 kr | 10,81 kr | 601 stk | ~60 uger |
+| 18 kr | 13,81 kr | 471 stk | ~47 uger |
+| **20 kr** | **15,81 kr** | **411 stk** | **~41 uger** |
 
 **Break-even inkl. tidsbesparelse på surdejsboller:**
 
@@ -1718,12 +1718,12 @@ Mixeren sparer formentlig 30–60 min pr. surdejsbatch vs. håndæltning. Ved 3 
 
 > Mixerens tidsbesparelse på surdejsboller alene finansierer ca. halvdelen af investeringen på 9 uger. Pizzadej er en **ekstraindtægt oveni**.
 
-**Anbefalet ambitionsniveau for sommer 2026:**
-- Sæt mål om 50 dejkugler/uge i 10 uger = 500 stk i alt
-- Omsætning ved 18 kr/stk: 500 × 18 kr = **9.000 kr**
-- Bidrag til mixer-break-even: 500 × 13,81 kr DB = **6.905 kr**
+**Ambitionsniveau for sommer 2026:**
+- Mål: 10 dejkugler/uge i 16 uger = 160 stk i alt
+- Omsætning ved 20 kr/stk: 160 × 20 kr = **3.200 kr**
+- Bidrag til mixer-break-even: 160 × 15,81 kr DB = **2.530 kr**
 
-Pizzadej alene kan **dække fuld mixer-break-even** på en sommer ved 50 stk/uge. Tidsbesparelsen på surdejsboller er rent gevinst.
+Pizzadej bidrager **39% af mixer-break-even**. Kombineret med tidsbesparelse på surdejsboller (450 kr/uge = 7.200 kr over 16 uger) finansierer du mixeren fuldt ud på en sommer.
 
 ---
 
@@ -1810,7 +1810,7 @@ Pizzadej alene kan **dække fuld mixer-break-even** på en sommer ved 50 stk/uge
 **Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
 **Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
 
-> **Bemærk:** Hjemmesiden siger i dag „Kun ét produkt — men det er perfekt." Denne tekst skal opdateres, hvis pizzadej tilføjes som fast tilbud. Forslag til ny produktsektion nedenfor.
+> **Bemærk:** Hjemmesiden siger i dag „Kun ét produkt — men det er perfekt." Denne tekst skal opdateres, hvis pizzadej tilføjes som fast tilbud. **VIGTIG NOTE:** Recipe og tider skal testes grundigt før denne tekst bruges på website, newsletter og sociale medier.
 
 **Label:** Nyt produkt · Sommer 2026
 **Overskrift:** Biga-pizzadejskugler
@@ -1818,12 +1818,12 @@ Pizzadej alene kan **dække fuld mixer-break-even** på en sommer ved 50 stk/uge
 **Brødtekst:**
 > Samme håndværk. Et andet produkt.
 >
-> En Biga-dej hæver 16–24 timer, inden den formes til kugler og fryses ned. Det er den lange tid, der giver smagen — en let, luftig bund med sprød kant, som du ikke kan skynde frem.
+> En Biga-dej hæver 48 timer ved kolde forhold — det er den lange, kolde gæring, der udvikler smagen og gør glutenen smidigt og elastisk. Resultatet er en let, luftig bund med tynd, sprød kant.
 >
 > Du køber en frossen dejkugle, optør den natten over og ruller den ud, når det passer dig. Ingen planke, ingen pose-kompromiser.
 
 **Egenskaber (punkter):**
-- Biga — 16–24 timers hævetid
+- Biga — 48 timers koldhævning for smag og struktur
 - Godt mel, ingen tilsætningsstoffer
 - Frossen — klar når du er det
 - Én kugle giver én pizza
@@ -1831,6 +1831,8 @@ Pizzadej alene kan **dække fuld mixer-break-even** på en sommer ved 50 stk/uge
 **CTA:** Bestil pizzadej →
 
 > **Note til implementering:** Tilføj som ny produktkort i `#produkter`-sektionen, eller opret en separat sektion med samme struktur som surdejsbollerne. Opdater FAQ med spørgsmål om optøning og bagning.
+> 
+> **⚠️ VIGTIG:** Test recipe og tider grundigt før publicering af denne tekst på hjemmesiden, i nyhedsbrev og på sociale medier. Dokumenter processen med noter om temperatur, hydrering og hævetid ved forskellige vejrforhold.
 
 ---
 
