@@ -403,6 +403,51 @@ Best times: weekday mornings 7–9, weekend afternoons 13–15, Sunday evenings 
 
 ---
 
+### O22 — Surdej i sommerheden
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede eller Story
+**Visual:** En glasburk med aktiv, boblende surdej ved siden af et termometer der viser 24–26°. Naturligt sommerlys fra et vindue. Ingen ekstra rekvisitter.
+
+**Caption:**
+> Om sommeren bager jeg tidligt.
+>
+> Varme accelererer fermenteringen. Surdej der normalt tager 8–10 timer ved 18 grader kan nå samme punkt på 5–6 timer ved 26 grader. Ellers oversyrer dejen og mister sin balance.
+>
+> Det er den slags ting man lærer sig at mærke. Ikke kun med et termometer — men med øjnene på glasset og hænderne i dejen.
+>
+> Bollerne er de samme hele året. Processen tilpasses vejret.
+>
+> Bestil via linket i bio.
+
+---
+
+### O23 — Det sker natten over
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karrusel (4 slides)
+**Visual:** Slide 1: en skål med dej sættes i køleskabet, hånden lukker døren. Slide 2 og 3: varm cremefarvet baggrund med mørk tekst, én pointe pr. slide. Slide 4: færdige boller på en rist i morgenlys.
+
+**Slide 1:** Hvad sker der egentlig natten over i køleskabet?
+**Slide 2:** Enzymer i melet — amylaser og proteaser — bryder stivelse og proteiner ned. De frigiver sukkerarter der karamelliserer under bagning og giver den dybe, mørke skorpe. Det tager mange timer.
+**Slide 3:** Mælkesyrebakterierne i surdejen producerer to syrer: mælkesyre (rund, mild smag) og eddikesyre (skarp, markant). Det er de to, der tilsammen giver den komplekse smag.
+**Slide 4:** Den tid på køl er ikke ventetid. Det er arbejdstid — bare ikke vores.
+
+**Caption:**
+> Lang hævetid er ikke et trick. Det er kemi.
+>
+> Fire ingredienser. En nat på køl. Bagt i hånden i Middelfart.
+>
+> Bestil via linket i bio.
+
+---
+
 ## Meta Ads
 
 Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignende kreativt materiale slår poleret produktion i madkategorien. Statiske billeder driver 60–70% af Meta-konverteringer; karruseller er i øjeblikket det bedst-konverterende format. ([Source](https://www.dataslayer.ai/blog/meta-ad-formats-in-2025-guide))
@@ -854,6 +899,35 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL11 — Inden du rejser
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — primo juni 2026
+**Formål:** Proaktiv kommunikation inden sommerferie — lad kunder bestille inden de rejser, og signalér at der bages videre hele sommeren
+**Visuel:** En papirpose med boller pænt sat frem i sommerlys. Afslappet og klar til afhentning.
+
+**Emnelinje:** Bestil inden du pakker kufferten
+**Preheader:** Jeg bager videre hele sommeren
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Sommerferie er tæt på for mange.
+>
+> Har du en dato inden du tager af sted, er du velkommen til at skrive — vi finder et afhentingstidspunkt der passer.
+>
+> Og er du hjemme i sommer, bager jeg videre som altid. Et hold ad gangen, fire ingredienser, ingen genveje. Bestil som du plejer.
+>
+> [Bestil nu →]
+>
+> God sommer,
+> [Navn]
+
+---
+
 ## Generel forretningsudvikling
 
 ---
@@ -1015,6 +1089,20 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 **Sådan gøres det:** Lav ét dedikeret opslag (statisk billede eller karrusel) om frøene — hvad de giver, hvorfor de er der, og at de ristes let i ovnen under bagningen. Kan også tilføjes til FAQ på hjemmesiden.
 
 **Kilde:** [Food trends in Denmark: High protein, premium indulgence and GLP-1s — FoodNavigator](https://www.foodnavigator.com/Article/2026/04/21/food-trends-in-denmark-high-protein-premium-indulgence-and-glp-1s/)
+
+---
+
+### BD14 — Lokalt netværk og events i Middelfart
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Kortlæg lokale Middelfart-events, markeder og caféer med fokus på lokal kvalitetsmad. Tag aktivt kontakt til 2–3 steder om et løst samarbejde eller tilstedeværelse — som sælger på et lokalt marked eller leverandør til en kaffebar.
+**Hvorfor det virker:** Lokal oprindelse er i 2026 et stærkt kvalitetssignal i dansk madforbrugerkultur. "Bagt to gader væk" er et konkurrenceparameter, ikke bare en detalje. Fysisk tilstedeværelse ved et lokalt event giver ny synlighed og salgsmuligheder uden markedsføringsbudget.
+**Sådan gøres det:** Søg efter lokale markeder og sommerfester i Middelfart-området. Identificér 2–3 lokale kaffesteder eller delikatessebutikker. Start med én uformel henvendelse og en gratis prøveleverance.
+
+**Kilde:** [Food market trends in Denmark — Innova Market Insights](https://www.innovamarketinsights.com/trends/food-market-trends-in-denmark-consumer-insights-and-preferences/)
 
 ---
 
