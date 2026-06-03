@@ -448,6 +448,52 @@ Best times: weekday mornings 7–9, weekend afternoons 13–15, Sunday evenings 
 
 ---
 
+### O24 — Morgenens første handling
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede eller kort Reel (10–15 sek.)
+**Visual:** Bagerens hænder fodrer surdejen i et køkken med tidligt morgenlys — glasburk med boblende surdej, en lille meldrev ved siden. Rolig, hverdagslig stemning. Ingen ekstra rekvisitter.
+
+**Caption:**
+> Det sker inden kaffen er klar.
+>
+> Surdejen fodres hver morgen — mel og vand i et bestemt forhold, blandet med en lille skefuld af gårsdagens starter. Det er en vane, der ikke tager mere end to minutter.
+>
+> Men de to minutter bestemmer, om bollerne er klar til weekend. Ingen fodring, ingen dej.
+>
+> Det er det, der skiller hjemmelavet surdej fra alt andet: den er levende. Den kræver opmærksomhed.
+>
+> Bestil via linket i bio.
+
+---
+
+### O25 — Surdej tager sig tid — også om sommeren
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karrusel (3–4 slides) eller statisk billede
+**Visual:** Slide 1: nærbillede af en boble-aktiv surdej i en glasburk i sommerlys. Slide 2–3: varm cremefarvet baggrund med stor, mørk tekst. Slide 4: færdige boller på en rist.
+
+**Caption:**
+> Surdej er ikke på ferie om sommeren. Men den opfører sig anderledes.
+>
+> Varme accelererer fermenteringen. Det, der tager 10 timer ved 18 grader, kan nå samme punkt på 5–6 timer ved 26 grader. Lader man den gå for længe, oversyrer dejen og mister sin balance.
+>
+> Det kræver mere opmærksomhed i varmen. Tidligere bagning. Hyppigere tjek.
+>
+> Bollerne er de samme hele året. Processen tilpasses vejret.
+>
+> Bestil via linket i bio.
+
+**Bemærk:** Dette er et teknisk supplement til O22 — kortere og mere sæsonaktuelt. O22 er den dybere version.
+
+---
+
 ## Meta Ads
 
 Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignende kreativt materiale slår poleret produktion i madkategorien. Statiske billeder driver 60–70% af Meta-konverteringer; karruseller er i øjeblikket det bedst-konverterende format. ([Source](https://www.dataslayer.ai/blog/meta-ad-formats-in-2025-guide))
@@ -621,6 +667,30 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 > Friskbagte surdejsboller til sommerturen, picnicen eller frokosten i haven.
 >
 > Bagt i hånden i Middelfart — klar til afhentning på Tyttebærkvisten.
+
+**CTA-knap:** Bestil nu
+
+---
+
+### A8 — Grillsæsonens bolle
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce
+**Placering:** Facebook & Instagram feed, målrettet Middelfart + 20 km radius
+**Objektiv:** Sales
+**Visuel:** En surdejsbolle snittet på midten og lagt klar på et skærebræt — naturligt sommerlys. Eventuelt grillkul eller en grill synlig blødt ude af fokus i baggrunden. Ingen overproduktion.
+
+**Overskrift:** En ordentlig bolle til grillmaden
+
+**Primær tekst:**
+> Den søde supermarkedsbolle holder ikke. En surdejsbolle gør.
+>
+> Sprød skorpe. Tæt krumme. Smag der holder hele vejen igennem — også når kødet er godt.
+>
+> Friskbagte surdejsboller fra Middelfart, bagt i hånden til afhentning på Tyttebærkvisten.
 
 **CTA-knap:** Bestil nu
 
@@ -928,6 +998,41 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL12 — Det gærede køkken
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Månedlig — send som vidensmail
+**Formål:** Fastholdelse og loyalitet — positionér surdej midt i en voksende madkulturel bevægelse mod gærede fødevarer
+**Visuel:** Procesfotos — glasburk med aktiv surdej, eventuelt en collage med andre gærede råvarer i baggrunden (kimchi, kombucha). Naturligt lys.
+
+**Kilde:** [The Quiet Ferment: Why Sourdough in 2026 is Having a Cultural Renaissance — Curation Edit](https://www.curationedit.com/post/the-quiet-ferment-why-sourdough-is-having-a-cultural-renaissance-in-2026)
+
+**Emnelinje:** Det gærede køkken — og hvad surdej har med det at gøre
+**Preheader:** En madtrend der lugter godt
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Fermentering er på mode.
+>
+> Kimchi, kombucha, kefir, miso — og surdej. Gærede fødevarer er ikke en ny opfindelse, men de oplever et nyt øjeblik i dansk madkultur. Det handler om smag. Og om maven.
+>
+> Surdejens fermentering er langsom og kontrolleret. Mælkesyrebakterierne nedbryder fytinsyre i melet — det anti-næringsstof, der ellers blokerer for optagelse af jern og zink. De sænker brødets glykæmiske respons. De skaber den dybe, let syrlige smag, der ikke lader sig fremstille på en dag.
+>
+> Det er det, der adskiller et rigtigt surdejsbrød fra et brød med "surdejssmag". Og det er grunden til, at folk begynder at lægge mærke til forskellen.
+>
+> Bollerne er de samme som altid. Det er bare verden, der er ved at indhente dem.
+>
+> [Bestil nu →]
+>
+> Mange hilsener,
+> [Navn]
+
+---
+
 ## Generel forretningsudvikling
 
 ---
@@ -1106,6 +1211,27 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### BD15 — Kundestory som indhold
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Opbyg en simpel rutine for at indsamle autentiske kundecitater og historier. Bed om tilladelse, gem dem og brug dem løbende i nyhedsbrev, sociale medier og annoncering.
+**Hvorfor det virker:** Social proof er den stærkeste konverteringsdriver for lokale madvarer. Et rigtigt citat fra en nabo i Middelfart er mere overbevisende end ethvert kreativt headline. I 2026 er community-drevne anbefalinger det format, der konverterer bedst på Meta og i e-mail — og det koster intet at producere.
+**Sådan gøres det:**
+- Send en kort WhatsApp- eller e-mail-opfølgning til kunden dagen efter afhentning: "Håber bollerne smagte godt — hvad syntes du?"
+- Bed om tilladelse til at bruge svaret, hvis det er brugbart
+- Gem citater i en simpel mappe i HubSpot-notater eller en Notes-fil med dato og fornavn
+- Brug dem til A5-annoncen (kundeanmeldelse), NL5 (den personlige hilsen) eller som caption-opener på sociale medier
+
+**Beskedskabelon til opfølgning:**
+> Hej [navn] — håber bollerne smagte godt. Vil du ikke fortælle mig kort, hvad du syntes? Jeg samler på ærlige reaktioner — og med din tilladelse bruger jeg det måske i et opslag engang. Ingen forpligtelse.
+
+**Kilde:** [How to Market a Home Bakery in 2026 — 2 Bliss of Baking](https://2blissofbaking.com/how-to-grow-a-small-food-business-on-instagram-in-2026/)
+
+---
+
 ---
 
 ## Nyt Produkt: Frosne Biga-pizzadejskugler
@@ -1260,7 +1386,7 @@ Pizzadej bidrager **39% af mixer-break-even**. Kombineret med tidsbesparelse på
 >
 > Jeg bager normalt kun boller. Men sommer kalder på pizza.
 >
-> Fra [dato] sælger jeg Biga-pizzadejskugler. Samme tankegang som surdejsbollerne: godt mel, lang tid, ingen genveje. Biga er en gammel italiensk teknik, hvor dejen hæver i 16–24 timer og udvikler en dyb smag og en let, sprød bund, du ikke får fra en pose.
+> Fra [dato] sælger jeg Biga-pizzadejskugler. Samme tankegang som surdejsbollerne: godt mel, lang tid, ingen genveje. Biga er en gammel italiensk teknik, hvor dejen hæver i 16–24 timer og udvikler en dyb smag og en let, sprød bund.
 >
 > Du køber en frossen dejkugle og bager den, når du har lyst. En enkelt kugle giver én pizza. Du lader den optø i køleskabet natten over, lader den hæve et par timer på køkkenbordet og ruller den ud. Det er det.
 >
