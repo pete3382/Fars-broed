@@ -494,6 +494,42 @@ Best times: weekday mornings 7–9, weekend afternoons 13–15, Sunday evenings 
 
 ---
 
+### O26 — Rock Under Broen
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Story eller statisk billede
+**Visual:** Et hold friskbagte boller i en brun papirpose, klar til at tage med — sommerlys, ingen overproduktion. Eventuelt Lillebælt eller en genkendelig Middelfart-stemning som blød baggrund.
+
+**Caption:**
+> Rock Under Broen er om en uge.
+>
+> Festivalen er her i Middelfart — og bollerne bages her. Bestil inden torsdag, og du har friskbagt frokost inden teltet er sat op.
+>
+> Bestil via linket i bio.
+
+---
+
+### O27 — Fibermaxxing: Surdejsbollens sundhedsargument
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karrusel (4 slides)
+**Visual:** Slide 1: nærbillede af den åbne krumme med frø og kerner synlige på overfladen. Slide 2–3: varm cremefarvet baggrund, stor mørk tekst — én pointe pr. slide. Slide 4: færdig bolle i naturligt lys.
+
+**Kilde:** [Sourdough Microbiome Comparison and Benefits — PMC/NIH](https://pmc.ncbi.nlm.nih.gov/articles/PMC8306212/)
+
+**Slide 1:** „Fibermaxxing" er en reel trend i 2026. Surdej hører med.
+**Slide 2:** Under lang fermentering nedbryder mælkesyrebakterierne FODMAP-kulhydraterne i melet. Det giver brødet lavere glykæmisk respons og letter fordøjelsen for de fleste.
+**Slide 3:** Fermenteringen skaber præbiotiske fibre. De ernærer de gode bakterier i tyktarmen. Samme princip som kombucha og kimchi — bare i et brød.
+**Slide 4:** Frø og kerner oven på giver ekstra kostfibre. Fire ingredienser, lang tid, bagt i hånden i Middelfart. Bestil via linket i bio.
+
+---
+
 ## Meta Ads
 
 Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignende kreativt materiale slår poleret produktion i madkategorien. Statiske billeder driver 60–70% af Meta-konverteringer; karruseller er i øjeblikket det bedst-konverterende format. ([Source](https://www.dataslayer.ai/blog/meta-ad-formats-in-2025-guide))
@@ -691,6 +727,30 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 > Sprød skorpe. Tæt krumme. Smag der holder hele vejen igennem — også når kødet er godt.
 >
 > Friskbagte surdejsboller fra Middelfart, bagt i hånden til afhentning på Tyttebærkvisten.
+
+**CTA-knap:** Bestil nu
+
+---
+
+### A9 — Sommerens Middelfart
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce
+**Placering:** Facebook feed, målrettet Middelfart + 15 km radius
+**Objektiv:** Sales → HubSpot bestillingsformular
+**Visuel:** Boller i naturligt sommerlys med et genkendelig Middelfart-bagtæppe — havn, kyst eller park. Ingen overproduktion.
+
+**Overskrift:** Sommeren er i Middelfart — og brødet bages her
+
+**Primær tekst:**
+> Festivaler, sejlads og lange sommerdage.
+>
+> Friskbagte surdejsboller til afhentning på Tyttebærkvisten. Bagt i hånden, fire ingredienser, ingen tilsætningsstoffer.
+>
+> Bestil til din næste weekend.
 
 **CTA-knap:** Bestil nu
 
@@ -1033,6 +1093,39 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL13 — Det sker om natten
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Månedlig — send som vidensmail
+**Formål:** Fastholdelse og personlig forbindelse — vis processen bag bolden fra bagerens synsvinkel
+**Visuel:** En skål dej tildækket med husholdningsfilm eller et viskestykke foran køleskabet — minimal, rolig stemning i svagt køkkenlys.
+
+**Emnelinje:** Det vigtigste sker, mens du sover
+**Preheader:** En nat med dej, kolde timer og langsom smag
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> De fleste dage sætter jeg dejen på køl, inden jeg går i seng.
+>
+> Den hæver natten over ved 4–6 grader. Koldt nok til at bremse gæraktiviteten — men ikke koldt nok til at stoppe de enzymer, der langsomt nedbryder stivelse og protein i melet. Det er de timer, der bygger smag.
+>
+> Mælkesyrebakterierne producerer to syrer undervejs. Mælkesyre giver den runde, milde smag. Eddikesyre giver det skarpe. Forholdet afhænger af temperatur og tid — og det er det, der giver hvert hold sin karakter.
+>
+> Om morgenen er dejen kold og fast. Jeg former bollerne i hånden og lader dem hvile lidt inden de ryger i ovnen.
+>
+> En del af processen er min. En del tilhører nætterne.
+>
+> [Bestil nu →]
+>
+> Mange hilsener,
+> [Navn]
+
+---
+
 ## Generel forretningsudvikling
 
 ---
@@ -1229,6 +1322,18 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 > Hej [navn] — håber bollerne smagte godt. Vil du ikke fortælle mig kort, hvad du syntes? Jeg samler på ærlige reaktioner — og med din tilladelse bruger jeg det måske i et opslag engang. Ingen forpligtelse.
 
 **Kilde:** [How to Market a Home Bakery in 2026 — 2 Bliss of Baking](https://2blissofbaking.com/how-to-grow-a-small-food-business-on-instagram-in-2026/)
+
+---
+
+### BD16 — VM i sejlsport i Middelfart 2026
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** To VM-stævner i sejlsport afholdes i Middelfart i 2026 og bringer besøgende udefra til byen. Planlæg et Social Media-opslag målrettet det lokale og besøgende publikum, og undersøg muligheden for leverance til arrangørernes catering eller stande ved havnefronten.
+**Hvorfor det virker:** Et VM bringer deltagere og tilskuere, der aktivt søger lokale oplevelser og mad. Lokal produktion er et stærkt salgsargument for den målgruppe — og en friskbagt bolle fra en hjemlig adresse i Middelfart er en oplevelse i sig selv.
+**Sådan gøres det:** Find datoer via visitmiddelfart.com [datoer ikke verificeret — tjek inden handling]. Lav ét Social Media-opslag med lokal reference til sejlsporten. Kontakt arrangørerne om mulighed for levering til catering. Brug Google Business Profile (BD8) til at dukke op i lokale søgninger fra tilrejsende.
 
 ---
 
