@@ -530,6 +530,44 @@ Best times: weekday mornings 7–9, weekend afternoons 13–15, Sunday evenings 
 
 ---
 
+### O28 — Grillet surdejsbolle
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Reel (15–20 sek.)
+**Visual:** En allerede bagt surdejsbolle lægges direkte ned på varme grillriste — tæt nærbilledperspektiv. Maillard-mærkerne dannes hurtigt. Damp og røg stiger op. Klip til: et tværsnit af den grillede bolle med de mørke striber og en dybere, sprødere overflade. Naturligt aftenlys.
+
+**Caption:**
+> En bagt bolle på grillen er ikke varm sandwich. Det er noget andet.
+>
+> Varmen fra grillen starter Maillard-reaktionen forfra. Sukker og aminosyrer i den ydre del af skorpen karamelliserer igen — denne gang med røgsmag. Resultatet er grillmærker, sprød kant og et lag smag, der ikke var der inden.
+>
+> Prøv det næste gang du griller. 2–3 minutter, direkte på risten.
+>
+> Bestil via linket i bio.
+
+---
+
+### O29 — LIVE Hindsgavl Slot
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Story eller statisk billede
+**Visual:** Boller i en brun papirpose mod en grøn, sommerlig skov- og slotskulisse — lys og åben sommerdag. Afslappet festival-stemning uden overproduktion.
+
+**Caption:**
+> LIVE Hindsgavl Slot er den 15. august.
+>
+> En lang dag i smukke omgivelser kræver et godt fundament. Bestil friskbagte surdejsboller til dagen — og hent dem om morgenen på Tyttebærkvisten.
+>
+> Bestil via linket i bio.
+
+---
+
 ## Meta Ads
 
 Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignende kreativt materiale slår poleret produktion i madkategorien. Statiske billeder driver 60–70% af Meta-konverteringer; karruseller er i øjeblikket det bedst-konverterende format. ([Source](https://www.dataslayer.ai/blog/meta-ad-formats-in-2025-guide))
@@ -751,6 +789,28 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 > Friskbagte surdejsboller til afhentning på Tyttebærkvisten. Bagt i hånden, fire ingredienser, ingen tilsætningsstoffer.
 >
 > Bestil til din næste weekend.
+
+**CTA-knap:** Bestil nu
+
+---
+
+### A10 — Sankt Hans-annonce
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce
+**Placering:** Facebook & Instagram feed, målrettet Middelfart + 20 km radius
+**Objektiv:** Sales → HubSpot bestillingsformular
+**Visuel:** Friskbagte surdejsboller på et udendørs bord i aftenlys — bål synlig og blødt ude af fokus i baggrunden. Varme gule og orange toner.
+
+**Overskrift:** Friskbagt til Sankt Hans — bestil inden søndag
+
+**Primær tekst:**
+> Friskbagte surdejsboller til bålaftenen den 23. juni.
+>
+> Bestil inden søndag den 21. juni og hent dem klar til afhentning på Tyttebærkvisten.
 
 **CTA-knap:** Bestil nu
 
@@ -1126,6 +1186,33 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL14 — Sankt Hans-brev
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — send ca. 18.–19. juni 2026
+**Formål:** Drive bestillinger til Sankt Hans-aftenen (23. juni) med en kort, sæsonaktuel e-mail
+**Visuel:** Produktfoto i aftensol eller bålstemning.
+
+**Emnelinje:** Sæt bollerne på bålmenuen
+**Preheader:** Bestil inden søndag den 21. juni
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Sankt Hans-aften er den 23. juni.
+>
+> Friskbagte surdejsboller hører til ved bålet. Bestil inden søndag den 21. juni — vi aftaler afhentning på Tyttebærkvisten i god tid inden aftenen.
+>
+> [Bestil nu →]
+>
+> God Sankt Hans,
+> [Navn]
+
+---
+
 ## Generel forretningsudvikling
 
 ---
@@ -1334,6 +1421,21 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 **Idé:** To VM-stævner i sejlsport afholdes i Middelfart i 2026 og bringer besøgende udefra til byen. Planlæg et Social Media-opslag målrettet det lokale og besøgende publikum, og undersøg muligheden for leverance til arrangørernes catering eller stande ved havnefronten.
 **Hvorfor det virker:** Et VM bringer deltagere og tilskuere, der aktivt søger lokale oplevelser og mad. Lokal produktion er et stærkt salgsargument for den målgruppe — og en friskbagt bolle fra en hjemlig adresse i Middelfart er en oplevelse i sig selv.
 **Sådan gøres det:** Find datoer via visitmiddelfart.com [datoer ikke verificeret — tjek inden handling]. Lav ét Social Media-opslag med lokal reference til sejlsporten. Kontakt arrangørerne om mulighed for levering til catering. Brug Google Business Profile (BD8) til at dukke op i lokale søgninger fra tilrejsende.
+
+---
+
+### BD17 — WhatsApp broadcast til faste kunder
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Opret en WhatsApp broadcast-liste til ugentlig batchbesked. Kunder der er med, modtager en kort, direkte besked om ugens hold — antal portioner, afhentningsdag og link til bestilling.
+**Hvorfor det virker:** WhatsApp-beskeder åbnes af 90%+ inden for 3 minutter — markant højere end e-mail. En broadcast-liste er envejs kommunikation: kunder svarer direkte til bageren, ikke hinanden. Det passer perfekt til en enkeltpersons bageri med en etableret kundekreds og gør den ugentlige batchopdatering hurtig og personlig.
+**Sådan gøres det:** Opret en WhatsApp broadcast-liste med faste kunder. Send én besked fredag morgen: "Ugens hold er klar — [X] portioner til lørdag. Bestil her: [link]." Tilføj nye kunder kun med aktivt tilsagn — f.eks. via HubSpot-formularen med spørgsmålet: "Må jeg sende dig en WhatsApp, når ugens hold er klar?"
+
+**Beskedskabelon:**
+> Ugens hold er klar — [X] portioner surdejsboller til afhentning [dag]. Bestil her: [link]. Tilgængeligt til søndag aften.
 
 ---
 
