@@ -568,6 +568,46 @@ Best times: weekday mornings 7–9, weekend afternoons 13–15, Sunday evenings 
 
 ---
 
+### O30 — Rock Under Broen 2026
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Story eller statisk billede
+**Visual:** Et hold friskbagte surdejsboller i en brun papirpose, klar til at tage med — Middelfart og Lillebæltsbroen som blød baggrund, varmt sommerlys. Simpelt og afslappet.
+
+**Caption:**
+> Rock Under Broen er den 12.–13. juni.
+>
+> Friskbagte surdejsboller til morgenmad inden festivalen eller til frokosten undervejs. Bestil inden onsdag den 10. juni — vi aftaler afhentning på Tyttebærkvisten.
+>
+> Bestil via linket i bio.
+
+---
+
+### O31 — Surdej som bevidst valg
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede
+**Visual:** En skål dej hviler stille under et linned klæde på et køkkenbord i naturligt morgenlys — ingen hænder, ingen bevægelse. Rolig og uforstyrret.
+
+**Kilde:** [The Quiet Ferment: Why Sourdough in 2026 is Having a Cultural Renaissance — Curation Edit](https://www.curationedit.com/post/the-quiet-ferment-why-sourdough-is-having-a-cultural-renaissance-in-2026)
+
+**Caption:**
+> Surdej er i 2026 et kulturelt signal.
+>
+> Ikke fordi det er trendy. Men fordi det kræver et valg. Et valg om at spise noget, der er lavet med opmærksomhed — ikke optimeret for volumen eller holdbarhed. Det er den modsatte bevægelse af færdigmad og poser: langsom, bevidst og personlig.
+>
+> Bollerne fra Fars Brød er bagt i et privat køkken i Middelfart, et hold ad gangen. Ikke fordi det er nemmere — men fordi det er bedre.
+>
+> Bestil via linket i bio.
+
+---
+
 ## Meta Ads
 
 Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignende kreativt materiale slår poleret produktion i madkategorien. Statiske billeder driver 60–70% af Meta-konverteringer; karruseller er i øjeblikket det bedst-konverterende format. ([Source](https://www.dataslayer.ai/blog/meta-ad-formats-in-2025-guide))
@@ -811,6 +851,30 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 > Friskbagte surdejsboller til bålaftenen den 23. juni.
 >
 > Bestil inden søndag den 21. juni og hent dem klar til afhentning på Tyttebærkvisten.
+
+**CTA-knap:** Bestil nu
+
+---
+
+### A11 — Forkæl dig selv med noget ægte
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce
+**Placering:** Facebook & Instagram feed, målrettet Middelfart + 20 km radius
+**Objektiv:** Sales → HubSpot bestillingsformular
+**Visuel:** En friskbagt surdejsbolle brudt åben på et køkkenbord i morgenlys — krummen synlig, damp stiger op. En kop kaffe delvist i billedets kant. Hjemligt og indbydende.
+
+**Overskrift:** Du fortjener bedre brød til morgenmaden
+
+**Primær tekst:**
+> Du spiser brød hver dag. Spørgsmålet er, hvilket brød.
+>
+> Surdejsboller bagt i hånden i Middelfart. Fire ingredienser, lang hævetid, ingen tilsætningsstoffer.
+>
+> Bestil til din næste weekend.
 
 **CTA-knap:** Bestil nu
 
@@ -1213,6 +1277,41 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL15 — Videnskaben har indhentet surdejen
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — sommer 2026
+**Formål:** Vidensmail der styrker surdejens sundhedsposition med ny forskning — fastholdelse og tillid
+**Visuel:** Nærbillede af aktiv, boblende surdej i en glasburk — varmt naturligt lys.
+
+**Kilde:** [The science of sourdough — Purdue University, april 2026](https://ag.purdue.edu/news/2026/04/the-science-behind-sourdough.html) / [HealthFerm — EU-projekt om fermenterede fødevarer](https://projects.research-and-innovation.ec.europa.eu/en/horizon-magazine/science-sourdough-how-citizens-are-helping-shape-future-fermented-foods)
+
+**Emnelinje:** Videnskaben har indhentet surdejen
+**Preheader:** Hvad ny forskning bekræfter
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> HealthFerm er det hidtil største europæiske studie af gærede fødevarer og sundhed. Det kører frem til 2026 — og surdejsbrød er et af de primære fokusområder.
+>
+> Konklusionerne er ikke overraskende for dem, der har spist surdej i årevis. Men det er godt at have videnskaben med.
+>
+> Lang fermentering nedbryder fytinsyre — det anti-næringsstof, der blokerer for optagelse af jern og zink i melet. Surdejsbrød leverer faktisk de mineraler, melet indeholder. Mælkesyrebakterierne sænker brødets pH og giver en lavere glykæmisk respons end gærhævet brød. Fermenteringen danner desuden præbiotiske fibre, der ernærer de gode bakterier i tarmen.
+>
+> Det er det, der sker natten over i køleskabet, mens dejen hviler.
+>
+> Bollerne er de samme som altid. Det er bare videnskaben, der er ved at bekræfte, hvad de allerede smagte af.
+>
+> [Bestil nu →]
+>
+> Mange hilsener,
+> [Navn]
+
+---
+
 ## Generel forretningsudvikling
 
 ---
@@ -1436,6 +1535,25 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 **Beskedskabelon:**
 > Ugens hold er klar — [X] portioner surdejsboller til afhentning [dag]. Bestil her: [link]. Tilgængeligt til søndag aften.
+
+---
+
+### BD18 — Sommerevent-kalender: Brug lokale begivenheder aktivt
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Lav en intern posting-plan for lokale Middelfart-events resten af sommeren. Kobl hvert event til en bestillingsdeadline og ét dedikeret opslag. Skabelonerne er allerede klar i IDEAS.md.
+**Hvorfor det virker:** Lokale events giver naturlige bestillingsanledninger med lokal relevans og urgency. En struktureret tilgang reducerer den mentale byrde ved indholdsplanlægning og sikrer, at mulighederne ikke glider forbi.
+
+**Events og statusoversigt (verificér datoer på visitmiddelfart.com):**
+- Rock Under Broen: 12.–13. juni 2026 ✓ — brug O30, bestillingsdeadline 10. juni
+- Metal Magic Festival: dato ikke verificeret — tjek rockunderbroen.dk
+- LIVE Hindsgavl Slot: 15. august 2026 ✓ — brug O29, bestillingsdeadline 12. august
+- VM i sejlsport: datoer ikke verificeret — se BD16
+
+**Sådan gøres det:** Opret en simpel note med kolonnerne: Event, Dato, Bestillingsdeadline, Opslag-ID, Postet (j/n). Sæt en kalendernotits 7–10 dage inden hvert event som påmindelse.
 
 ---
 
