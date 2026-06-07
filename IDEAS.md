@@ -608,6 +608,33 @@ Best times: weekday mornings 7–9, weekend afternoons 13–15, Sunday evenings 
 
 ---
 
+### O32 — Arabinoxylaner: ny forskning bekræfter surdejens fordele
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karrusel (4 slides)
+**Visual:** Slide 1: nærbillede af aktiv, boblende surdej i en glasburk — morgenlys, træoverflade. Slide 2–3: varm cremefarvet baggrund med stor mørk tekst. Slide 4: friskbagte boller på en rist.
+
+**Kilde:** [Scientists discover what really happens during sourdough fermentation — ScienceDaily, marts 2026](https://www.sciencedaily.com/releases/2026/03/260315225130.htm)
+
+**Slide 1:** Videnskaben er ved at indhente det, vi allerede vidste.
+**Slide 2:** Ny forskning fra marts 2026 viser, at enzymer i hvede — aktiveret af surdejens sure miljø — nedbryder arabinoxylaner under fermenteringen. Arabinoxylaner er kostfibre, der normalt sidder bundet i melet og er svære for kroppen at optage.
+**Slide 3:** Når de nedbrydes under lang fermentering, frigives de og bidrager til brødets fordøjelighed og struktur. Det kræver tid. Der er ingen genvej.
+**Slide 4:** Fire ingredienser. En nat på køl. Bagt i hånden i Middelfart. Bestil via linket i bio.
+
+**Caption:**
+> Videnskaben er ved at indhente det, vi allerede vidste.
+>
+> Ny forskning fra marts 2026 viser, at enzymer i hvede — aktiveret af surdejens sure miljø — nedbryder arabinoxylaner under fermenteringen. Arabinoxylaner er kostfibre, der normalt sidder bundet i melet. Under lang fermentering frigives de og bidrager til brødets fordøjelighed, tekstur og smag.
+>
+> Det er præcis det, der sker natten over i køleskabet, mens dejen hviler.
+>
+> Bestil via linket i bio.
+
+---
+
 ## Meta Ads
 
 Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignende kreativt materiale slår poleret produktion i madkategorien. Statiske billeder driver 60–70% af Meta-konverteringer; karruseller er i øjeblikket det bedst-konverterende format. ([Source](https://www.dataslayer.ai/blog/meta-ad-formats-in-2025-guide))
@@ -873,6 +900,30 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 > Du spiser brød hver dag. Spørgsmålet er, hvilket brød.
 >
 > Surdejsboller bagt i hånden i Middelfart. Fire ingredienser, lang hævetid, ingen tilsætningsstoffer.
+>
+> Bestil til din næste weekend.
+
+**CTA-knap:** Bestil nu
+
+---
+
+### A12 — Langsomt er det nye luksuriøse
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce
+**Placering:** Facebook & Instagram feed, målrettet Middelfart + 20 km radius
+**Objektiv:** Sales → HubSpot bestillingsformular
+**Visuel:** En enkelt friskbagt surdejsbolle brudt åben på et mørkt trægulv — krummen synlig, damp stiger op. Naturligt morgenlys. Intet andet i billedet.
+
+**Overskrift:** Noget ægte er svært at finde
+
+**Primær tekst:**
+> I 2026 beskriver Vogue surdej som „det hotteste accessory" — fordi det signalerer et bevidst valg: noget lavet med tid og opmærksomhed, ikke optimeret for holdbarhed.
+>
+> Fars Brød er bagt i hånden i et privat køkken i Middelfart. Fire ingredienser. Natten over på køl. Ingen genveje.
 >
 > Bestil til din næste weekend.
 
@@ -1312,6 +1363,37 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL16 — Midtsommer
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — send ca. 14.–16. juni 2026
+**Formål:** Sæsonaktuel hilsen i ugen efter Rock Under Broen og inden Sankt Hans — holder listen aktiv og skaber bestillingsanledning til begge begivenheder
+**Visuel:** Boller i naturligt sommerlys, gerne udendørs. Simpelt, ingen overproduktion.
+
+**Emnelinje:** Sommer er godt i gang
+**Preheader:** Bollerne er klar til weekenden
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Sommeren er for alvor i gang.
+>
+> Jeg bager videre et hold ad gangen — og holder mig til de fire ingredienser, der virker. Der er ikke meget mere at sige om det.
+>
+> Har du lyst til friskbagte surdejsboller til weekenden, bestiller du via linket herunder. Vi aftaler afhentning, når du har bestilt.
+>
+> Og husk: Sankt Hans-aftenen er den 23. juni. Bestil i god tid, hvis du vil have boller med til bålet.
+>
+> [Bestil nu →]
+>
+> God sommer,
+> [Navn]
+
+---
+
 ## Generel forretningsudvikling
 
 ---
@@ -1554,6 +1636,20 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 - VM i sejlsport: datoer ikke verificeret — se BD16
 
 **Sådan gøres det:** Opret en simpel note med kolonnerne: Event, Dato, Bestillingsdeadline, Opslag-ID, Postet (j/n). Sæt en kalendernotits 7–10 dage inden hvert event som påmindelse.
+
+---
+
+### BD19 — Metal Magic Festival i Middelfart
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Metal Magic Festival er et lokalt metal-musikfestival i Middelfart. Det bringer besøgende til byen i sommersæsonen og giver en naturlig bestillingsanledning med lokal relevans. Et enkelt Social Media-opslag med festivalreference og en tydelig deadline er tilstrækkeligt.
+**Hvorfor det virker:** Samme logik som O30 (Rock Under Broen) og BD16 (VM i sejlsport) — lokale events skaber urgency og giver indholdet lokal relevans. Festivalbesøgende og lokale søger begge mad tæt på, og en hjemmebagt bolle fra to gader væk er stærk konkurrence til festivalmaden.
+**Sådan gøres det:** Verificér dato på festivallens hjemmeside inden handling [datoer ikke verificeret i denne session]. Brug skabelonen fra O30 tilpasset Metal Magic. Sæt bestillingsdeadline 2 dage inden festivaldagen. Tilføj til sommerevent-oversigten i BD18.
+
+> **Bemærk:** Datoer ikke verificeret — tjek inden publicering.
 
 ---
 
