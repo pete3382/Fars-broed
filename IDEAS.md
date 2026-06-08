@@ -635,6 +635,53 @@ Best times: weekday mornings 7–9, weekend afternoons 13–15, Sunday evenings 
 
 ---
 
+### O33 — Rigtig surdej vs. supermarkedsbrød
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karrusel (4 slides)
+**Visual:** Slide 1: nærbillede af en friskbagt surdejsbolle ved siden af en pakke "surdejsbrød" fra supermarked. Slide 2–3: varm cremefarvet baggrund, stor mørk tekst — én pointe pr. slide. Slide 4: færdige boller fra Fars Brød på en rist.
+
+**Slide 1:** Det der står "surdej" på emballagen, er ikke altid surdej.
+**Slide 2:** Mange kommercielle "surdejsbrød" er bagt med gær og tilsat eddikesyre eller citronsyre for at efterligne surdejssmagen. Der er ingen levende kultur. Ingen fermentering. Ingen tid.
+**Slide 3:** Rigtig surdej er lavet med en levende kultur af vilde gærceller og mælkesyrebakterier. Dejen fermenterer i mange timer — nedbryder fytinsyre, reducerer FODMAP'er og udvikler smag undervejs. Det kan ikke efterlignes kemisk.
+**Slide 4:** Fars Brød bruger en surdejsstarter, der fodres hver dag. Dejen hæver natten over. Det er det eneste, der tæller. Bestil via linket i bio.
+
+**Caption:**
+> Mange supermarkedsbrød bærer ordet „surdej" på pakken. De fleste af dem er ikke surdej.
+>
+> Det er gærhævet brød med eddikesyre tilsat for smagens skyld. Ingen levende kultur. Ingen lang fermentering. Ingen af de fordele, rigtig surdej giver.
+>
+> Vi bager med en kultur, vi fodrer hver morgen, og en dej, der hæver natten over. Det kan smages.
+>
+> Bestil via linket i bio.
+
+---
+
+### O34 — Vandtemperaturen
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede eller kort Reel (10–15 sek.)
+**Visual:** Bagerens hånd holder et lille termometer ned i en skål vand — eller en skål med dej og en håndskrevet note med "måltemperatur: 24°" ved siden. Naturligt morgenlys. Ingen iscenesættelse.
+
+**Caption:**
+> Vandtemperaturen er ikke tilfældig.
+>
+> Dejens sluttemperatur efter æltning skal ligge på 24–26 grader for at give mælkesyrebakterierne de bedste arbejdsforhold. Den nås ved at justere vandtemperaturen, inden dejen blandes.
+>
+> Beregningen er enkel: ønsket dejtemperatur × 3 — minus meltemperatur og rumtemperatur — giver den vandtemperatur, du skal ramme.
+>
+> Om sommeren er mel og rum varmere, så vandtemperaturen sænkes. Om vinteren omvendt. En af de mange småting, der ikke er synlige i det færdige produkt — men som er der alligevel.
+>
+> Bestil via linket i bio.
+
+---
+
 ## Meta Ads
 
 Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignende kreativt materiale slår poleret produktion i madkategorien. Statiske billeder driver 60–70% af Meta-konverteringer; karruseller er i øjeblikket det bedst-konverterende format. ([Source](https://www.dataslayer.ai/blog/meta-ad-formats-in-2025-guide))
@@ -926,6 +973,30 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 > Fars Brød er bagt i hånden i et privat køkken i Middelfart. Fire ingredienser. Natten over på køl. Ingen genveje.
 >
 > Bestil til din næste weekend.
+
+**CTA-knap:** Bestil nu
+
+---
+
+### A13 — Er du træt af supermarkedssurdej?
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce
+**Placering:** Facebook & Instagram feed, målrettet Middelfart + 20 km radius
+**Objektiv:** Sales → HubSpot bestillingsformular
+**Visuel:** Nærbillede af en friskbagt surdejsbolle brudt åben — den åbne, luftige krumme synlig i naturligt lys. Ingen tekst på billedet.
+
+**Overskrift:** Det er ikke det samme som det fra supermarkedet
+
+**Primær tekst:**
+> Mange "surdejsbrød" i butikkerne er gærhævet brød med eddikesyre tilsat for smagens skyld. Ingen levende kultur. Ingen lang fermentering.
+>
+> Fars Brød bruger en surdejsstarter, vi fodrer hver dag. Dejen hæver natten over. Bagt i hånden i Middelfart.
+>
+> Det er forskellen — og den kan smages.
 
 **CTA-knap:** Bestil nu
 
@@ -1394,6 +1465,35 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL17 — VM i sejlsport i Middelfart
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — send ugen inden VM i sejlsport (datoer ikke verificeret — tjek visitmiddelfart.com inden afsendelse)
+**Formål:** Lokalt tilhørsforhold og bestillingsanledning tæt på en større begivenhed i Middelfart
+**Visuel:** Boller i papirpose med Lillebælt og sejlbåde som blød baggrund. Simpelt sommerlys.
+
+**Emnelinje:** VM er i Middelfart — vi er også her
+**Preheader:** Friskbagt til en aktiv dag ved vandet
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> I år er Middelfart vært for VM i sejlsport. To stævner, hundredvis af besøgende og en by i bevægelse.
+>
+> Vi bager videre som altid — et hold ad gangen, fire ingredienser, ingen genveje. Men det giver en god anledning til at bestille, hvis du vil have noget ægte til morgenmaden i en travl uge.
+>
+> Bestil via linket herunder. Vi aftaler afhentning, når du har bestilt.
+>
+> [Bestil nu →]
+>
+> God sommer,
+> [Navn]
+
+---
+
 ## Generel forretningsudvikling
 
 ---
@@ -1650,6 +1750,27 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 **Sådan gøres det:** Verificér dato på festivallens hjemmeside inden handling [datoer ikke verificeret i denne session]. Brug skabelonen fra O30 tilpasset Metal Magic. Sæt bestillingsdeadline 2 dage inden festivaldagen. Tilføj til sommerevent-oversigten i BD18.
 
 > **Bemærk:** Datoer ikke verificeret — tjek inden publicering.
+
+---
+
+### BD20 — Klassisk musikfestival ved Hindsgavl Slot (5.–12. juli 2026)
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** En klassisk musikfestival afholdes ved Hindsgavl Slot i Middelfart fra 5.–12. juli 2026. Det tiltrækker et kvalitetsorienteret publikum til byen og giver en naturlig bestillingsanledning — samme logik som BD18 og BD19.
+**Hvorfor det virker:** Festivalpublikummet ved klassisk musik er typisk kvalitetsbevidst og lokalt forankret. Det er præcis den målgruppe, der sætter pris på håndværk og ægte ingredienser — et stærkt match med Fars Brød.
+**Sådan gøres det:** Lav ét Social Media-opslag (statisk billede eller Story) med Hindsgavl-reference og tydelig bestillingsdeadline. Bestillingsdeadline: torsdag 3. juli. Tilføj til sommerevent-oversigten i BD18.
+
+**Opslag-caption (klar til brug):**
+> Klassisk musik ved Hindsgavl Slot starter den 5. juli.
+>
+> En uge med koncerter i smukke omgivelser ved Lillebælt. Friskbagte surdejsboller til morgenmaden — og du er klar til at nyde det.
+>
+> Bestil inden torsdag den 3. juli. Afhentning på Tyttebærkvisten.
+>
+> Bestil via linket i bio.
 
 ---
 
