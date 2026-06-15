@@ -682,6 +682,57 @@ Best times: weekday mornings 7–9, weekend afternoons 13–15, Sunday evenings 
 
 ---
 
+### O35 — Bagerens fingeraftryk på surdejen
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede eller karrusel (2–3 slides)
+**Visual:** Nærbillede af bagerens hænder der folder dej — dejen synlig mellem fingrene, naturligt lys. Intim og personlig.
+
+**Kilde:** [The hidden microbes that decide how sourdough tastes — ScienceDaily, januar 2026](https://www.sciencedaily.com/releases/2026/01/260121034132.htm)
+
+**Caption:**
+> Min surdej bærer mit fingeraftryk.
+>
+> Ny forskning viser, at de mikrober, der lever på bagerens hænder, faktisk påvirker sammensætningen af surdejens mikrobiom. Vilde gærceller og mælkesyrebakterier fra huden overføres til dejen ved berøring — og former langsomt kulturen over tid.
+>
+> Det er en af grundene til, at to surdeje sjældent smager ens, selv om de er lavet med de samme ingredienser. Og til, at et brød bagt i et privat køkken smager anderledes end et industrielt fremstillet — fordi det er det.
+>
+> Fire ingredienser. Et fingeraftryk. Bagt i Middelfart.
+>
+> Bestil via linket i bio.
+
+---
+
+### O36 — Surdej og FODMAP
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karrusel (4 slides)
+**Visual:** Slide 1: nærbillede af aktiv, boblende surdej i glasburk — morgenlys. Slide 2–3: varm cremefarvet baggrund, stor mørk tekst, én pointe pr. slide. Slide 4: friskbagte boller på en rist.
+
+**Kilde:** [Distinct sourdough microbiomes alter FODMAPs of final breads — Penn State / IPA World Congress + Probiota 2026](https://www.psu.edu/news/agricultural-sciences/story/penn-state-student-wins-international-award-sourdough-microbiome)
+
+**Slide 1:** Surdej kan gøre brødet lettere for maven. Det afhænger af starteren.
+**Slide 2:** FODMAPs er kulhydrater, som mange har svært ved at fordøje. De sidder naturligt i hvede og kan give oppustethed og ubehag hos følsomme.
+**Slide 3:** Ny forskning fra 2026 viser, at surdejsstartere med forskellig mikrobiel sammensætning nedbryder FODMAPs i forskellig grad. En levende surdejskultur, der fodres dagligt og fermenterer over lang tid, har de bedste forudsætninger.
+**Slide 4:** Lang fermentering, daglig fodring, aktiv surdej. Det er det, der gør forskellen. Bagt i hånden i Middelfart. Bestil via linket i bio.
+
+**Caption:**
+> Ikke al surdej er ens — heller ikke for maven.
+>
+> FODMAPs er kulhydrater, der kan give mavegener for mange. Ny forskning fra 2026 viser, at surdejsstartere med forskellig mikrobiel sammensætning nedbryder FODMAPs i forskellig grad i det færdige brød. En velfodret, aktiv starter og lang fermentering er afgørende.
+>
+> Jeg fodrer min surdej dagligt. Dejen hæver natten over. Det er den tid, der arbejder for dig.
+>
+> Bestil via linket i bio.
+
+---
+
 ## Meta Ads
 
 Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignende kreativt materiale slår poleret produktion i madkategorien. Statiske billeder driver 60–70% af Meta-konverteringer; karruseller er i øjeblikket det bedst-konverterende format. ([Source](https://www.dataslayer.ai/blog/meta-ad-formats-in-2025-guide))
@@ -997,6 +1048,32 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 > Fars Brød bruger en surdejsstarter, vi fodrer hver dag. Dejen hæver natten over. Bagt i hånden i Middelfart.
 >
 > Det er forskellen — og den kan smages.
+
+**CTA-knap:** Bestil nu
+
+---
+
+### A14 — Frø og protein i hvert bid
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce
+**Placering:** Facebook & Instagram feed, målrettet Middelfart + 20 km radius
+**Objektiv:** Sales → HubSpot bestillingsformular
+**Visuel:** Nærbillede oppefra af en friskbagt surdejsbolle — frøene og kernerne tydeligt synlige på overfladen. Naturligt lys, ingen rekvisitter. Tæt og appetitligt.
+
+**Kilde:** [Food trends in Denmark: High protein, premium indulgence and GLP-1s — FoodNavigator, april 2026](https://www.foodnavigator.com/Article/2026/04/21/food-trends-in-denmark-high-protein-premium-indulgence-and-glp-1s/)
+
+**Overskrift:** Protein, kostfibre og umættet fedt — i dit brød
+
+**Primær tekst:**
+> Sesamfrø, solsikkefrø og hørfrø. De sidder ikke bare der for syns skyld.
+>
+> Frøene drysses på bollerne inden bagning og ristes let under varmen. De tilfører naturlige proteiner, kostfibre og umættede fedtsyrer — uden tilsætningsstoffer, uden fortolkning.
+>
+> Surdejsboller bagt i hånden i Middelfart. Fire ingredienser — plus frøene.
 
 **CTA-knap:** Bestil nu
 
@@ -1494,6 +1571,37 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL18 — Det langsomme hører sommeren til
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — send primo juli 2026
+**Formål:** Reflekterende sæsonhilsen der forbinder bagerens langsomme proces med læserens sommertempo
+**Visuel:** En bolle på et morgenbord i haven — en kop kaffe delvist i kanten, sommerlys fra siden. Ingen iscenesættelse.
+
+**Emnelinje:** Det langsomme hører sommeren til
+**Preheader:** En god morgenmad behøver ikke hastværk
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Sommer er den tid, hvor langsom mad giver mening.
+>
+> Ikke fordi man har mere tid — men fordi man har mere lyst. Lang morgenmad i haven, et godt stykke brød og ingenting, der haster. Det er det, sommeren kan.
+>
+> Dejen bag bollerne er langsom af natur. Den hæver natten over. Den kan ikke skyndes. Og det er præcis den ro, der sidder i smagen.
+>
+> Bestil til næste weekend. Vi aftaler afhentning, når du har bestilt.
+>
+> [Bestil nu →]
+>
+> God sommer,
+> [Navn]
+
+---
+
 ## Generel forretningsudvikling
 
 ---
@@ -1771,6 +1879,27 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 > Bestil inden torsdag den 3. juli. Afhentning på Tyttebærkvisten.
 >
 > Bestil via linket i bio.
+
+---
+
+### BD21 — Marinaen Live i Middelfart
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Marinaen Live er et lokalt musikevent i Middelfart sommeren 2026. Kobl et Social Media-opslag og eventuelt en kort newsletter-hilsen til arrangementet med tydelig bestillingsdeadline. Samme logik som O30 (Rock Under Broen) og BD18 (Sommerevent-kalender).
+**Hvorfor det virker:** Lokal relevans og urgency. Et event i Middelfart samler lokale og besøgende, der begge er i stemning for noget ægte og lokalt. Friskbagte surdejsboller til morgenmad inden eller efter koncerten er et naturligt, konkret valg.
+**Sådan gøres det:** Verificér dato på arrangørens hjemmeside inden publicering [datoer ikke verificeret]. Lav ét opslag med festivalreference og bestillingsdeadline 2 dage inden event. Tilføj til sommerevent-oversigten i BD18.
+
+**Opslag-caption (klar til brug):**
+> Marinaen Live er i Middelfart.
+>
+> Friskbagte surdejsboller til morgenmaden inden — eller frokosten efter. Bestil inden [dato]. Afhentning på Tyttebærkvisten.
+>
+> Bestil via linket i bio.
+
+> **Bemærk:** Datoer ikke verificeret — tjek inden publicering.
 
 ---
 
@@ -2414,4 +2543,7 @@ Sequential swipe-ups:
 - [Meta Ads Benchmarks 2026 — Enrich Labs](https://www.enrichlabs.ai/blog/meta-ads-benchmarks-2025)
 - [HubSpot Email Marketing Review — MailerLite](https://www.mailerlite.com/blog/hubspot-email-marketing-review)
 - [HubSpot Free Plan Guide — Zeeg](https://zeeg.me/en/blog/post/hubspot-free)
+- [The hidden microbes that decide how sourdough tastes — ScienceDaily, januar 2026](https://www.sciencedaily.com/releases/2026/01/260121034132.htm)
+- [Distinct sourdough microbiomes alter FODMAPs of final breads — Penn State / IPA World Congress + Probiota 2026](https://www.psu.edu/news/agricultural-sciences/story/penn-state-student-wins-international-award-sourdough-microbiome)
+- [Food trends in Denmark: High protein, premium indulgence and GLP-1s — FoodNavigator, april 2026](https://www.foodnavigator.com/Article/2026/04/21/food-trends-in-denmark-high-protein-premium-indulgence-and-glp-1s/)
 - [Food trends in Denmark: High protein, premium indulgence and GLP-1s — FoodNavigator](https://www.foodnavigator.com/Article/2026/04/21/food-trends-in-denmark-high-protein-premium-indulgence-and-glp-1s/)
