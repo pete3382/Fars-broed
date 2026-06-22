@@ -733,6 +733,55 @@ Best times: weekday mornings 7–9, weekend afternoons 13–15, Sunday evenings 
 
 ---
 
+### O37 — Surdejens naturlige holdbarhed
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karrusel (4 slides)
+**Visual:** Slide 1: nærbillede af en surdejsbolle brudt åben — frisk, intakt krumme med god struktur. Slide 2–3: varm cremefarvet baggrund med stor mørk tekst, én pointe pr. slide. Slide 4: boller på en rist i naturligt lys.
+
+**Slide 1:** Surdejsboller holder sig friskere. Det er ikke tilfældigt.
+**Slide 2:** Under fermenteringen producerer mælkesyrebakterierne organiske syrer. De sænker brødets pH til under 4,5. Det er et fjendtligt miljø for skimmelsvampe og nedbrydende bakterier.
+**Slide 3:** Det er den samme mekanisme som i syltede grøntsager og ost. I surdej sker det naturligt, under fermenteringen. Ingen konserveringsmidler.
+**Slide 4:** Fire ingredienser. Bagt i hånden i Middelfart. Bestil via linket i bio.
+
+**Caption:**
+> Surdejsboller holder sig friskere end gærhævet brød. Det er kemi, ikke tilfældig.
+>
+> Under den lange fermentering producerer mælkesyrebakterierne organiske syrer — mælkesyre og eddikesyre. De sænker brødets pH-niveau til under 4,5. Det er præcis det miljø, skimmelsvampe og nedbrydende bakterier trives dårligt i.
+>
+> Det er den samme konserveringsmekanisme som i syltede grøntsager og ost. I surdej sker det naturligt, under fermenteringen, uden tilsætningsstoffer.
+>
+> En bolle fra Fars Brød er god til morgenmad — og til den næste. Fire ingredienser, ingen genveje.
+>
+> Bestil via linket i bio.
+
+---
+
+### O38 — Melet bag bollerne
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede eller karrusel (3 slides)
+**Visual:** Nærbillede oppefra: en lille bunke fint hvedemel på en mørk trioverflade. Enkelt og rent. Naturligt lys. Ingen andre rekvisitter.
+
+**Caption:**
+> Mel er ikke bare mel.
+>
+> Til surdejsboller bruger jeg hvedemel med højt proteinindhold — mindst 12–13%. Proteinet er det, der danner glutennetværket, når mel og vand blandes. Jo stærkere netværk, jo mere CO₂ kan dejen holde på under fermenteringen.
+>
+> Det er de gasbobler, der giver bollerne den åbne, luftige krumme. Brug mel med for lavt protein, og dejen kan ikke holde på luften — bollerne flader ud.
+>
+> Mel er fundamentet. Det er ikke stedet at gå på kompromis.
+>
+> Bestil via linket i bio.
+
+---
+
 ## Meta Ads
 
 Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignende kreativt materiale slår poleret produktion i madkategorien. Statiske billeder driver 60–70% af Meta-konverteringer; karruseller er i øjeblikket det bedst-konverterende format. ([Source](https://www.dataslayer.ai/blog/meta-ad-formats-in-2025-guide))
@@ -1074,6 +1123,28 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 > Frøene drysses på bollerne inden bagning og ristes let under varmen. De tilfører naturlige proteiner, kostfibre og umættede fedtsyrer — uden tilsætningsstoffer, uden fortolkning.
 >
 > Surdejsboller bagt i hånden i Middelfart. Fire ingredienser — plus frøene.
+
+**CTA-knap:** Bestil nu
+
+---
+
+### A15 — To kilometer fra dig
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce
+**Placering:** Facebook feed, målrettet Middelfart + 10 km radius
+**Objektiv:** Sales → HubSpot bestillingsformular
+**Visuel:** Boller i en brun papirpose set oppefra — naturligt morgenlys. Simpel, ingen iscenesættelse.
+
+**Overskrift:** Bagt to kilometer fra dit bord
+
+**Primær tekst:**
+> Du behøver ikke køre langt for at finde godt brød.
+>
+> Friskbagte surdejsboller, bagt i hånden i Middelfart. Fire ingredienser, ingen tilsætningsstoffer. Klar til afhentning på Tyttebærkvisten.
 
 **CTA-knap:** Bestil nu
 
@@ -1602,6 +1673,37 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL19 — God sommer fra køkkenet
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — send primo juli 2026
+**Formål:** Hold listen aktiv i juli — en personlig hilsen der holder kontakten uden at sælge hårdt
+**Visuel:** Et simpelt produktfoto i sommerlys. Afslappet og ægte.
+
+**Emnelinje:** God sommer fra køkkenet
+**Preheader:** Et hold er klar, når du er det
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Det er juli.
+>
+> Jeg bager videre et hold ad gangen. Surdejen fodres om morgenen. Dejen hviler natten over. Bollerne former sig under hænderne næste dag.
+>
+> Tempoet i bagningen ændrer sig ikke med årstiden — og det passer fint til sommer.
+>
+> Bestil til din næste weekend. Vi aftaler afhentning på Tyttebærkvisten, når det passer dig.
+>
+> [Bestil nu →]
+>
+> God sommer,
+> [Navn]
+
+---
+
 ## Generel forretningsudvikling
 
 ---
@@ -1900,6 +2002,22 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 > Bestil via linket i bio.
 
 > **Bemærk:** Datoer ikke verificeret — tjek inden publicering.
+
+---
+
+### BD22 — August-push: Reaktivér sommerkunder
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Plan en kommunikationsindsats i uge 32–34 (4.–21. august) rettet mod kunder der har holdt sommerferie og snart vender tilbage til hverdagsrytmen. Kobl bollerne til det at genoptage gode vaner og starte efteråret godt.
+**Hvorfor det virker:** August er en mental skillevej. Sommerferie slutter, og mange søger mod gode rutiner. En direkte, personlig henvendelse til kunder der ikke har bestilt i juli giver høj åbningsrate og konversion — fordi de allerede kender produktet.
+**Sådan gøres det:**
+- Send én newsletter til hele listen i uge 32 med emnelinje: „Sommer er ved at ebbe ud — bollerne er klar"
+- Send WhatsApp-besked til faste kunder der ikke har bestilt siden juni: „Var du på ferie? Bollerne er klar igen. Bestil her: [link]"
+- Lav ét Social Media-opslag med tema: „Tilbage til rutinen med noget ægte"
+- Tilbyd evt. et lille incitament til faste kunder: en ekstra bolle med i posen ved første bestilling efter ferien
 
 ---
 
