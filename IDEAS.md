@@ -782,6 +782,53 @@ Best times: weekday mornings 7–9, weekend afternoons 13–15, Sunday evenings 
 
 ---
 
+### O39 — Surdej i fermenteringsbevægelsen
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karrusel (4 slides)
+**Visual:** Slide 1: nærbillede af glasburk med aktiv surdej på et køkkenbord — kimchi, kombucha og kefir delvist synlige i baggrunden, ude af fokus. Naturligt morgenlys. Slide 2–3: varm cremefarvet baggrund, stor mørk tekst, én pointe pr. slide. Slide 4: friskbagte boller på en rist.
+
+**Kilde:** [25 madtrends du skal kende i 2026 — Madison](https://madison.dk/mad/madtrends-2026/)
+
+**Slide 1:** Fermentering er det, der sker i det danske køkken i 2026.
+**Slide 2:** Kimchi, kombucha, kefir, miso — og surdej. Gærede fødevarer er ikke en ny opfindelse. Det er en tilbagevenden til det, der faktisk virker: levende kulturer, tid og tålmodighed i stedet for hurtige genveje og tilsætningsstoffer.
+**Slide 3:** Mælkesyrebakterierne i en langtidshævet surdej nedbryder fytinsyre, sænker det glykæmiske respons og skaber præbiotiske fibre. Det er det samme princip, der gør kimchi og kefir til noget, kroppen kan lide.
+**Slide 4:** Surdejsboller, bagt i hånden i Middelfart. Levende kultur, lang tid, fire ingredienser. Bestil via linket i bio.
+
+**Caption:**
+> Fermentering er ikke en trend. Det er noget, vi glemte — og nu husker igen.
+>
+> Kimchi, kombucha, kefir og surdej deler den samme logik: levende kulturer og tid nedbryder det, der er svært for kroppen, og bygger smag, der ikke lader sig forcere.
+>
+> Surdejsbollerne fra Fars Brød er en del af den bevægelse. Bagt af en levende starter, hævet natten over, bagt med damp.
+>
+> Bestil via linket i bio.
+
+---
+
+### O40 — Hindsgavl Festival: Morgenmad inden musikken
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Story eller statisk billede
+**Visual:** Boller i en brun papirpose på et morgenbord i havesol — en grøn, sommerlig baggrund der antyder parkanlæg eller skov. Afslappet, ikke iscenesæt.
+
+> **Timing:** Hindsgavl Festival er 1.–8. juli 2026 (klassisk kammermusik ved Hindsgavl Slot). Post senest 30. juni for at drive bestillinger inden festivalen åbner. Verificér dato på hindsgavlfestival.dk inden publicering.
+
+**Caption:**
+> Hindsgavl Festival begynder den 1. juli.
+>
+> Otte dage med klassisk musik ved Lillebælt. En friskbagt surdejsbolle til morgenmaden sætter de rigtige rammer inden de første toner.
+>
+> Bestil via linket i bio — vi aftaler afhentning på Tyttebærkvisten, der passer til din festivaldag.
+
+---
+
 ## Meta Ads
 
 Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignende kreativt materiale slår poleret produktion i madkategorien. Statiske billeder driver 60–70% af Meta-konverteringer; karruseller er i øjeblikket det bedst-konverterende format. ([Source](https://www.dataslayer.ai/blog/meta-ad-formats-in-2025-guide))
@@ -1145,6 +1192,32 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 > Du behøver ikke køre langt for at finde godt brød.
 >
 > Friskbagte surdejsboller, bagt i hånden i Middelfart. Fire ingredienser, ingen tilsætningsstoffer. Klar til afhentning på Tyttebærkvisten.
+
+**CTA-knap:** Bestil nu
+
+---
+
+### A16 — Din tarm ved det allerede
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce
+**Placering:** Facebook & Instagram feed, målrettet Middelfart + 20 km radius
+**Objektiv:** Sales → HubSpot bestillingsformular
+**Visuel:** Nærbillede af aktiv, boblende surdej i en glasburk — varmt morgenlys. Ingen tekst på billedet. Autentisk og appetitligt.
+
+**Kilde:** [Rising together: exploring sourdough fermentation diversity — npj Science of Food, 2026](https://www.nature.com/articles/s41538-026-00725-7)
+
+**Overskrift:** Videnskaben indhenter surdejen
+
+**Primær tekst:**
+> HealthFerm er det hidtil største europæiske studie af fermenterede fødevarer og sundhed — og surdejsbrød er et af de primære fokusområder.
+>
+> Forskningen dokumenterer, at en langtidshævet surdej med aktiv levende kultur øger mængden af gavnlige tarmbakterier og producerer kortkædede fedtsyrer, der bidrager til fordøjelse og lavere inflammation.
+>
+> Fars Brød bager med en surdej, der fodres dagligt. Dejen hæver natten over. Fire ingredienser, bagt i hånden i Middelfart.
 
 **CTA-knap:** Bestil nu
 
@@ -1704,6 +1777,59 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL20 — Sæsonen holder stadig
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — send ca. 11.–14. august 2026
+**Formål:** Reaktivér listen efter sommerferien og skab bestillingsanledning i de sidste sommerdage — supplement til BD22 (August-push)
+**Visuel:** En bolle på et havebord i det sene, gyldne sommerlys. Afslappet og hjemligt.
+
+**Emnelinje:** Sommer holder stadig — bollerne er klar
+**Preheader:** Bestil inden september sniger sig ind
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> August er den måned, sommeren holder sig bedst.
+>
+> De lange aftensmåltider, maden man spiser udenfor, morgenmaden der ikke haster. Alt det holder endnu en lille stund.
+>
+> Jeg bager videre et hold ad gangen. Surdejen fodres om morgenen. Dejen hviler natten over. Bollerne er klar til afhentning på Tyttebærkvisten.
+>
+> Bestil til din næste weekend, inden hverdagen vender.
+>
+> [Bestil nu →]
+>
+> God sensommer,
+> [Navn]
+
+---
+
+### O41 — Middelfart Jazz Festival
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Story eller statisk billede
+**Visual:** Boller i en brun papirpose mod en sommerlig Middelfart-baggrundskulisse — havn, åbent vand eller parkanlæg i varmt aftenlys. Afslappet festivalstemning.
+
+> **Timing:** Middelfart Jazz Festival er 29. juli – 2. august 2026. Post i ugen inden eller på selve festivalens første dag. Verificér dato og program på arrangørens side inden publicering.
+
+**Caption:**
+> Middelfart Jazz Festival er her igen.
+>
+> Fem dage med jazz ved vandet. Friskbagte surdejsboller til morgenmaden inden musikken starter — eller frokosten på vej derhen.
+>
+> Bestil inden [dato]. Afhentning på Tyttebærkvisten.
+>
+> Bestil via linket i bio.
+
+---
+
 ## Generel forretningsudvikling
 
 ---
@@ -1941,7 +2067,9 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 **Events og statusoversigt (verificér datoer på visitmiddelfart.com):**
 - Rock Under Broen: 12.–13. juni 2026 ✓ — brug O30, bestillingsdeadline 10. juni
+- Hindsgavl Festival (klassisk kammermusik): 1.–8. juli 2026 ✓ — brug O40, bestillingsdeadline 30. juni
 - Metal Magic Festival: dato ikke verificeret — tjek rockunderbroen.dk
+- Middelfart Jazz Festival: 29. juli – 2. august 2026 ✓ — brug O41, bestillingsdeadline 27. juli
 - LIVE Hindsgavl Slot: 15. august 2026 ✓ — brug O29, bestillingsdeadline 12. august
 - VM i sejlsport: datoer ikke verificeret — se BD16
 
