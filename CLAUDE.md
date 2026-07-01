@@ -91,12 +91,14 @@ End of every session: update claude.md with new learnings
 - HubSpot (gratis) bruges til bestillingsformular og nyhedsbrev — maks. 1.000 kontakter, 2.000 e-mails/måned, ingen automatiserede workflows
 - IDEAS.md er det centrale arbejdsdokument for indhold og forretningsudvikling
 - Nyt produkt under overvejelse: frosne Biga-pizzadejskugler til salg om sommeren (se BD12 i IDEAS.md)
-- Anbefalet salgspris pizzadej: 18 kr/stk (DG 49% ved startvolumen, 61% ved fuld volumen)
-- Spiralmikser under overvejelse: EN KYS Pro Baker Easy 5, 6.500 kr — break-even ca. 15 uger ved 50 stk/uge og 18 kr/stk
+- Anbefalet salgspris pizzadej: 20 kr/stk (DG 79% baseret på Dagrofa-priser inkl. moms — se BD12 i IDEAS.md)
+- Spiralmikser under overvejelse: EN KYS Pro Baker Easy 5, 6.500 kr — break-even ca. 41 uger ved 10 stk/uge og 20 kr/stk (pizzadej alene), hurtigere inkl. tidsbesparelse på surdejsboller
 
 ## Indkøbspriser (verificerede, maj 2026)
 - **Caputo Cuoco mel:** 5 kg = 95 kr ekskl. fragt (19 kr/kg) · 25 kg = 449 kr ekskl. fragt fra Pizzafredag (17,96 kr/kg)
-- **Emballage pizzadej:** Delibægre 500ml rPET + låg fra Lomax.dk — 50 bægre (95 kr) + 50 låg (41 kr) + forsendelse = 300,10 kr samlet for 50 sæt = 6,02 kr/stk
+- **Caputo Cuoco mel (Dagrofa):** 30 kg = 330 kr ekskl. moms (11 kr/kg ekskl. moms / 13,75 kr/kg inkl. moms) — afhentes selv, ingen fragt
+- **Emballage pizzadej (Dagrofa):** Salatbæger 750ml: 50 stk = 43,95 kr ekskl. moms (0,88 kr/stk). Låg: 50 stk = 35,95 kr ekskl. moms (0,72 kr/stk). Samlet VK: 3,35 kr/stk ekskl. moms / 4,19 kr/stk inkl. moms
+- **Emballage pizzadej (Lomax.dk):** Delibægre 500ml rPET + låg — 50 bægre (95 kr) + 50 låg (41 kr) + forsendelse = 300,10 kr samlet for 50 sæt = 6,02 kr/stk (ældre pris — Dagrofa er billigere)
 - **Dejkugle-spec:** 250g rå dej, ~150g mel, 65% hydrering, én kugle = én pizza
 - Mel-forsendelse fra Pizzafredag: ikke verificeret endnu
 
@@ -121,3 +123,14 @@ End of every session: update claude.md with new learnings
 - O10: Blev ikke markeret — næste session starter her
 
 **Næste:** Fortsæt O10–O14, så Meta Ads (A1–A6), Newsletter (NL1–NL6), Business Dev (BD1–BD11).
+
+## Automatisk månedlig opdatering — 2026-07-01
+- Bot-kørslen arkiverede 0 idéer (ingen opfyldte arkiveringskriterierne)
+- 5 nye idéer tilføjet baseret på research (surdejstrends, Hindsgavl Festival, sommerhusmarked):
+  - **A17** — Convenience-annonce: "Det eneste du gør er at hente dem"
+  - **NL21** — Hindsgavl Festival-uge nyhedsbrev (1.–8. juli 2026)
+  - **O42** — Surdej og blodsukker (karrusel, kilde: PMC 2024 meta-analyse)
+  - **O43** — Surdejsstarter på ferie (praktisk sommerspørgsmål)
+  - **BD23** — Sommerhusmarkedet: radius-targeting 25 km i juli–august
+- IDEAS.md pushet til GitHub via lokal git proxy (`git push -u origin main`)
+- Git push via personlig PAT i URL-format fejler — brug altid `git push -u origin main` i dette miljø
