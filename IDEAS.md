@@ -1223,6 +1223,30 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### A17 — Det eneste du skal gøre er at hente dem
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce
+**Placering:** Facebook & Instagram feed, målrettet Middelfart + 20 km radius
+**Objektiv:** Sales → HubSpot bestillingsformular
+**Visuel:** En brun papirpose med boller set oppefra i naturligt morgenlys — enkelt, klart, appetitvækkende. Ingen rekvisitter.
+
+**Overskrift:** Bagt. Klar. Klar til dig.
+
+**Primær tekst:**
+> Det eneste du gør er at hente dem.
+>
+> Bollerne er bagt i hånden, kølet ned og klar. Bestil via linket, vi aftaler et tidspunkt der passer dig, og du ankommer på Tyttebærkvisten.
+>
+> Surdejsboller bagt i Middelfart. Fire ingredienser. Ingen tilsætningsstoffer.
+
+**CTA-knap:** Bestil nu
+
+---
+
 ## Newsletter (HubSpot Free)
 
 ### Hvad du har på gratisplanen
@@ -1808,6 +1832,35 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL21 — Hindsgavl Festival-uge
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — send 1.–2. juli 2026
+**Formål:** Drive bestillinger i Hindsgavl Festival-ugen (1.–8. juli) — timelighed og lokal relevans
+**Visuel:** Boller i papirpose i morgenlys med en grøn, sommerlig baggrund der antyder parkanlæg eller skov. Afslappet og ikke overproduceret.
+
+**Emnelinje:** Hindsgavl Festival er i gang
+**Preheader:** Godt fundament til en god festivaldag
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Hindsgavl Festival begyndte i dag.
+>
+> Otte dage med klassisk kammermusik ved Lillebælt og Hindsgavl Slot. For jer der skal derhen — eller bare er i stemningen for sommer og god mad — er friskbagte surdejsboller til morgenmaden et godt fundament.
+>
+> Bestil via linket herunder. Vi aftaler afhentning på Tyttebærkvisten, der passer til din festivaldag.
+>
+> [Bestil nu →]
+>
+> God festival,
+> [Navn]
+
+---
+
 ### O41 — Middelfart Jazz Festival
 
 **Kvalitet:** `[ ]` God `[ ]` Dårlig
@@ -1825,6 +1878,57 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 > Fem dage med jazz ved vandet. Friskbagte surdejsboller til morgenmaden inden musikken starter — eller frokosten på vej derhen.
 >
 > Bestil inden [dato]. Afhentning på Tyttebærkvisten.
+>
+> Bestil via linket i bio.
+
+---
+
+### O42 — Surdej og blodsukker
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karrusel (4 slides)
+**Visual:** Slide 1: nærbillede af aktiv, boblende surdej i en glasburk i naturligt morgenlys. Slide 2–3: varm cremefarvet baggrund med stor mørk tekst — én pointe pr. slide. Slide 4: friskbagte boller på en rist.
+
+**Kilde:** [Systematic review, 18 kliniske studier — PMC, 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC10103004/)
+
+**Slide 1:** Surdej giver kroppen et mildere blodsukkerrespons. Det er dokumenteret.
+**Slide 2:** En gennemgang af 18 kliniske studier viser, at surdejsbrød gav ca. 0,29 mmol/L lavere blodsukker ved 60-minutters-målet end industrielt hævet brød. Mekanismen: Den lange fermentering nedbryder hurtigt fordøjeligt stivelse og øger andelen af resistent stivelse.
+**Slide 3:** Glykæmisk indeks for surdejsbrød: ca. 54. Hvidt brød: 71. Standard fuldkornsbrød: 68. Kroppen optager kulhydraterne langsommere — blodsukkeret stiger mere jævnt.
+**Slide 4:** Fire ingredienser. En nat på køl. Bagt i hånden i Middelfart. Bestil via linket i bio.
+
+**Caption:**
+> Surdej giver kroppen et mildere blodsukkerrespons. Det er ikke en fornemmelse — det er dokumenteret.
+>
+> En gennemgang af 18 kliniske studier fra 2024 viser, at surdejsbrød gav ca. 0,29 mmol/L lavere blodsukker sammenlignet med industrielt hævet brød. Årsagen: Den lange fermentering nedbryder den stivelse, kroppen normalt optager hurtigt. Resten fordøjes langsommere.
+>
+> Glykæmisk indeks: Surdej ca. 54. Hvidt brød: 71.
+>
+> Fire ingredienser. Bagt i hånden i Middelfart. Bestil via linket i bio.
+
+---
+
+### O43 — Surdejsstarter på ferie
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede eller karrusel (3 slides)
+**Visual:** Slide 1: En hånd lukker et køleskab med en glasburk surdej synlig indenfor — naturligt køkkenlys. Slide 2: varm cremefarvet baggrund, stor mørk tekst. Slide 3: glasburken tages frem igen — aktiv og boblende i morgenlys.
+
+**Caption:**
+> Hvad sker der med min surdej, når jeg holder ferie?
+>
+> Det er et af de spørgsmål, der holder folk fra at starte med surdej.
+>
+> Svar: En velplejet starter kan holde sig i køleskabet i 2–3 uger uden fodring. Inden du rejser: en god fodring med dobbelt mel og direkte på køl. Ved 4 grader falder aktiviteten næsten til nul. Surdejen falder i dvale — men den dør ikke.
+>
+> Når du er hjemme igen: frem fra køl, temperere til stuetemperatur, én fodring. Næste dag er den klar til dej.
+>
+> Det er én af de ting ved surdej, der overrasker folk. Den er hårdere, end den ser ud.
 >
 > Bestil via linket i bio.
 
@@ -2146,6 +2250,18 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 - Send WhatsApp-besked til faste kunder der ikke har bestilt siden juni: „Var du på ferie? Bollerne er klar igen. Bestil her: [link]"
 - Lav ét Social Media-opslag med tema: „Tilbage til rutinen med noget ægte"
 - Tilbyd evt. et lille incitament til faste kunder: en ekstra bolle med i posen ved første bestilling efter ferien
+
+---
+
+### BD23 — Sommerhusmarkedet: Feriegæster i Lillebælt-området
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Udvid Meta-annoncernes radius-targeting til 25 km i juli–august for at nå sommerhusejere og feriegæster langs Lillebæltskysten og Midtfyn. Test en let tilpasset copy-variant af A9 (Sommerens Middelfart) med en linje om, at afhentning i Middelfart er en konkret lokal oplevelse.
+**Hvorfor det virker:** Midtfyn og Lillebæltskysten har mange sommerhuse. Feriegæster søger aktivt lokale madvarer og håndværk under ferien — supermarkedsvarer taber til det autentiske og lokale i feriemodus. En friskbagt surdejsbolle til afhentning hos bageren hjemme er en mini-oplevelse i sig selv. Radius-udvidelsen kræver ingen ekstra produktion — kun en lille annoncejustering.
+**Sådan gøres det:** Justér radius-targeting i A4 (lokalt kendskab) og A9 (Sommerens Middelfart) fra nuværende 15–20 km til 25 km i juli–august. Tilpas primærteksten med: "Uanset om du bor her eller er på besøg." Monitorér bestillinger fra postnumre udenfor Middelfart by i 4 uger og tilpas herefter.
 
 ---
 
