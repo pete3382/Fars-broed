@@ -1247,6 +1247,30 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### A18 — Du ved præcis, hvem der bagte den
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce
+**Placering:** Facebook & Instagram feed, målrettet Middelfart + 20 km radius
+**Objektiv:** Sales → HubSpot bestillingsformular
+**Visuel:** Bagerens hænder holder en friskbagt bolle — ansigtet ikke nødvendigt. Varmt, naturligt lys. Hjemligt og autentisk.
+
+**Overskrift:** Du ved præcis, hvem der bagte den
+
+**Primær tekst:**
+> En navngiven person, en privat adresse, fire ingredienser.
+>
+> Ingen fabrik, ingen kæde, ingen etiket med tyve ingredienser.
+>
+> Surdejsboller fra Fars Brød bages i hånden i Middelfart. Bestil, og du henter dem direkte.
+
+**CTA-knap:** Bestil nu
+
+---
+
 ## Newsletter (HubSpot Free)
 
 ### Hvad du har på gratisplanen
@@ -1861,6 +1885,37 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL22 — Middelfart Jazz Festival
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — send ca. 22.–24. juli 2026
+**Formål:** Drive bestillinger i Jazz Festival-ugen (29. juli – 2. august) — timelighed og lokal relevans
+**Visuel:** Et hold friskbagte boller i en brun papirpose i morgenlys. Sommerstemning, ingen overproduktion.
+
+> **Timing:** Verificér festivalens datoer på arrangørens hjemmeside inden afsendelse.
+
+**Emnelinje:** Jazz i Middelfart — og friskbagt til morgenmaden
+**Preheader:** Bestil inden 27. juli
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Middelfart Jazz Festival begynder den 29. juli.
+>
+> Fem dage med jazz ved vandet. Friskbagte surdejsboller til morgenmaden sætter de rigtige rammer, inden du tager hen til musikken.
+>
+> Bestil inden 27. juli — vi aftaler afhentning på Tyttebærkvisten, der passer til din festivaldag.
+>
+> [Bestil nu →]
+>
+> God festival,
+> [Navn]
+
+---
+
 ### O41 — Middelfart Jazz Festival
 
 **Kvalitet:** `[ ]` God `[ ]` Dårlig
@@ -1931,6 +1986,55 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 > Det er én af de ting ved surdej, der overrasker folk. Den er hårdere, end den ser ud.
 >
 > Bestil via linket i bio.
+
+---
+
+### O44 — Melet former smagen
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karrusel (3–4 slides)
+**Visual:** Slide 1: to skåle mel side om side — hvidt mel og fuldkornsmel — på en mørk trioverflade i naturligt lys. Slide 2–3: varm cremefarvet baggrund med stor mørk tekst, én pointe pr. slide. Slide 4: friskbagte boller på en rist.
+
+**Kilde:** [Flour type and feeding schedule shape sourdough starter microbiome composition — Microbiology Spectrum, 2026](https://journals.asm.org/doi/10.1128/spectrum.02380-25)
+
+**Slide 1:** Melet er ikke bare et råmateriale. Det former selve smagen.
+**Slide 2:** Et nyt studie fra 2026 viser, at meltypen direkte bestemmer, hvilke mælkesyrebakterier og vildgær der dominerer i en surdejsstarter. Mel med højt mineralindhold giver et mere artsrigt mikrobiom. Det resulterer i en mere kompleks smag i det færdige brød.
+**Slide 3:** Det er grunden til, at to surdeje lavet med de samme teknikker og hævetider kan smage forskelligt — hvis melet er anderledes, er mikrobiomet anderledes. Melet er ikke neutralt.
+**Slide 4:** Til Fars Brøds boller bruger jeg hvedemel med højt proteinindhold for at sikre en stærk glutenstruktur og et aktivt mikrobiom. Valgt med omhu. Bagt i hånden i Middelfart. Bestil via linket i bio.
+
+**Caption:**
+> Melet bestemmer mere end glutenstrukturen. Det former selve smagen.
+>
+> Et nyt studie fra 2026 viser, at meltypen direkte påvirker sammensætningen af de mælkesyrebakterier og vildgær, der lever i en surdejsstarter. Fuldkornsmel med højt mineralindhold giver et mere artsrigt mikrobiom — og det giver en mere kompleks og nuanceret smag i det færdige brød.
+>
+> Det forklarer, hvad erfarne bagere allerede ved: skift melet, og brødet ændrer karakter. Ikke fordi dejen æltes anderledes — men fordi mikrobiomet er et andet.
+>
+> Mel er ikke tilfældig. Det er valgt.
+>
+> Bestil via linket i bio.
+
+---
+
+### O45 — Hvad hedder din starter?
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede eller Story med spørgsmål-sticker
+**Visual:** En glasburk med aktiv, boblende surdej i naturligt morgenlys — en håndskrevet label med et navn på glasset. Roligt og personligt.
+
+**Caption:**
+> Min starter har et navn. Det virker fjollet, indtil man fodrer den to gange om dagen i et år.
+>
+> En surdejsstarter er levende. Den reagerer på temperatur, årstid og det mel du giver den. Den har dage, hvor den er aktiv og boblende, og dage, hvor den er ked af det. Man lærer den at kende.
+>
+> Har du selv en starter? Hvad hedder den?
+
+*(Tilføj Story-sticker med spørgsmål: "Hvad hedder din starter?" eller en afstemning: "Har den et navn? Ja / Nej")*
 
 ---
 
@@ -2262,6 +2366,28 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 **Idé:** Udvid Meta-annoncernes radius-targeting til 25 km i juli–august for at nå sommerhusejere og feriegæster langs Lillebæltskysten og Midtfyn. Test en let tilpasset copy-variant af A9 (Sommerens Middelfart) med en linje om, at afhentning i Middelfart er en konkret lokal oplevelse.
 **Hvorfor det virker:** Midtfyn og Lillebæltskysten har mange sommerhuse. Feriegæster søger aktivt lokale madvarer og håndværk under ferien — supermarkedsvarer taber til det autentiske og lokale i feriemodus. En friskbagt surdejsbolle til afhentning hos bageren hjemme er en mini-oplevelse i sig selv. Radius-udvidelsen kræver ingen ekstra produktion — kun en lille annoncejustering.
 **Sådan gøres det:** Justér radius-targeting i A4 (lokalt kendskab) og A9 (Sommerens Middelfart) fra nuværende 15–20 km til 25 km i juli–august. Tilpas primærteksten med: "Uanset om du bor her eller er på besøg." Monitorér bestillinger fra postnumre udenfor Middelfart by i 4 uger og tilpas herefter.
+
+---
+
+### BD24 — Skolestart: Start efteråret med noget ægte
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Brug skolestart og sommerferiens afslutning (uge 33, ca. 11.–15. august 2026) som bestillingsanledning. En kort kommunikationsindsats — ét Social Media-opslag og ét nyhedsbrev — der forbinder bollerne med hverdagsrytmens tilbagevenden og gode morgenvaner.
+**Hvorfor det virker:** Skolestart er et af årets mest markante adfærdsskift. Familier genopretter rutiner og søger faste gode vaner. En friskbagt surdejsbolle til mandagens morgenmad er et konkret, let valg i en uge med mange beslutninger. Kortsigtede knaphedsargumenter ("uge 33 — bestil nu") driver urgency.
+**Sådan gøres det:**
+- Send nyhedsbrev i uge 32 (ca. 4.–7. august) med emnelinje: „Skolestart er snart — bestil inden torsdag"
+- Lav ét Social Media-opslag: boller på et morgenbord, caption om at starte efteråret med noget ordentligt
+- Koordinér med BD22 (August-push) og NL20 (Sæsonen holder stadig)
+
+**Copy til Social Media-opslag (klar til brug):**
+> Skolestart er om en uge.
+>
+> Gode morgener starter med noget ordentligt på bordet. Friskbagte surdejsboller til mandagsmorgenmaden — bestil inden torsdag.
+>
+> Bestil via linket i bio.
 
 ---
 
