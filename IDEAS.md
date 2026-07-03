@@ -1916,6 +1916,37 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL23 — Klimafolkemødet i Middelfart
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — send ca. 24.–25. august 2026
+**Formål:** Drive bestillinger op til Klimafolkemødet (27.–29. august) og nå både lokale og tilrejsende besøgende
+**Visuel:** Simpelt produktfoto i sommerlys — en papirpose med boller på et udendørsbord.
+
+> **Timing:** Klimafolkemødet er 27.–29. august 2026 på KulturØpladsen i Middelfart. Verificér dato på klimafolkemoedet.dk inden afsendelse.
+
+**Emnelinje:** Klimafolkemødet er i Middelfart — vi bager stadig
+**Preheader:** Bestil inden tirsdag den 25. august
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Klimafolkemødet er i Middelfart den 27.–29. august.
+>
+> Det samler folk, der tager fremtiden alvorligt. Det passer godt til surdejsboller lavet af fire ingredienser, lang tid og ingen genveje.
+>
+> Bestil inden tirsdag den 25. august. Vi aftaler afhentning på Tyttebærkvisten, der passer til din uge.
+>
+> [Bestil nu →]
+>
+> God sommer,
+> [Navn]
+
+---
+
 ### O41 — Middelfart Jazz Festival
 
 **Kvalitet:** `[ ]` God `[ ]` Dårlig
@@ -2035,6 +2066,53 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 > Har du selv en starter? Hvad hedder den?
 
 *(Tilføj Story-sticker med spørgsmål: "Hvad hedder din starter?" eller en afstemning: "Har den et navn? Ja / Nej")*
+
+---
+
+### O46 — Klimafolkemødet 2026
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Story eller statisk billede
+**Visual:** Boller i en brun papirpose sat frem udendørs i sommerlys — Middelfarts byrum som blød baggrund. Naturligt og afslappet.
+
+> **Timing:** Klimafolkemødet er 27.–29. august 2026 på KulturØpladsen i Middelfart. Post senest 25. august. Verificér dato på klimafolkemoedet.dk inden publicering.
+
+**Caption:**
+> Klimafolkemødet er i Middelfart den 27.–29. august.
+>
+> Det samler folk, der tager fremtiden alvorligt — og det passer godt til surdejsboller bagt af fire ingredienser, lang tid og ingen genveje.
+>
+> Bestil inden tirsdag den 25. august. Afhentning på Tyttebærkvisten.
+>
+> Bestil via linket i bio.
+
+---
+
+### O47 — Surdej er bæredygtigt
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karrusel (4 slides)
+**Visual:** Slide 1: nærbillede af de fire ingredienser på en mørk trioverflade — mel, vand, salt, en glasburk med aktiv surdej. Naturligt morgenlys. Slide 2–3: varm cremefarvet baggrund med stor mørk tekst. Slide 4: friskbagte boller på en rist.
+
+**Slide 1:** Bæredygtigt brød behøver ingen certificering. Det behøver fire ingredienser.
+**Slide 2:** Ingen tilsætningsstoffer. Ingen industriemballage. Lang holdbarhed — fordi mælkesyrebakterierne under fermenteringen sænker brødets pH og naturligt modvirker skimmel. Det er det, der giver surdejsbrød bedre holdbarhed end gærhævet brød.
+**Slide 3:** Fars Brød bages i et privat køkken i Middelfart. Et hold ad gangen. Intet overproduceres.
+**Slide 4:** Fire ingredienser, lang tid, ingen genveje. Bagt i hånden i Middelfart. Bestil via linket i bio.
+
+**Caption:**
+> Bæredygtigt brød behøver ingen certificering.
+>
+> Fire ingredienser. Lang fermentering. Ingen tilsætningsstoffer. Mælkesyrebakterierne i dejen sænker brødets pH under fermenteringen — det giver en naturlig modstandskraft mod skimmel. Ingen konserveringsmidler nødvendige.
+>
+> Fars Brød bages i et privat køkken i Middelfart. Et hold ad gangen. Intet overproduceres.
+>
+> Bestil via linket i bio.
 
 ---
 
@@ -2388,6 +2466,24 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 > Gode morgener starter med noget ordentligt på bordet. Friskbagte surdejsboller til mandagsmorgenmaden — bestil inden torsdag.
 >
 > Bestil via linket i bio.
+
+---
+
+### BD25 — Klimafolkemødet: Nå ud til en ny målgruppe
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Klimafolkemødet (27.–29. august 2026) afholdes på KulturØpladsen i Middelfart og samler deltagere med stærk affinitet til lokale fødevarer, gennemsigtighed og håndværk. Brug ugen til en koordineret kommunikationsindsats med Social Media (O46), nyhedsbrev (NL23) og lokal Meta-annoncering.
+**Hvorfor det virker:** Klimafolkemøde-deltagere er en naturlig målgruppe for et hjemmebageri med fire ingredienser og lokal produktion. „Bagt to gader fra mødet" er et stærkt argument for præcis den gruppe. Ingen ny produktion nødvendig.
+**Sådan gøres det:**
+- Send NL23 den 24.–25. august
+- Post O46 (Klimafolkemødet-opslag) senest 25. august
+- Justér Meta-annoncer til Middelfart + 10 km radius i ugen 25.–31. august
+- Undersøg mulighed for smagsprøver til arrangørerne — kræver tidlig kontakt (senest primo august)
+
+> **Bemærk:** Verificér datoer og program på klimafolkemoedet.dk inden kommunikation med konkrete tal.
 
 ---
 
