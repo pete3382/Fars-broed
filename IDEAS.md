@@ -1271,6 +1271,32 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### A19 — Danskerne spiser mere sukker — her er modpolen
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce
+**Placering:** Facebook & Instagram feed, målrettet Middelfart + 20 km radius
+**Objektiv:** Sales → HubSpot bestillingsformular
+**Visuel:** Nærbillede af en surdejsbolle brudt åben — den åbne krumme, frø og kerner synlige. Naturligt morgenlys. Ingen tekst på billedet.
+
+**Kilde:** [Danskernes kostvaner 2026 — Fødevarestyrelsen, februar 2026](https://foedevarestyrelsen.dk/nyheder/pressemeddelelser/2026/feb/dansda)
+
+**Overskrift:** Fire ingredienser. Ingen sukker tilsat.
+
+**Primær tekst:**
+> Nye tal fra Fødevarestyrelsen viser, at danskernes sukkerforbrug stiger. Vi bevæger os den modsatte vej.
+>
+> Surdejsboller bagt med mel, vand, salt og surdej. Ingen tilsætningsstoffer. Ingen sukker tilsat. Lang hævetid sænker det glykæmiske respons — kroppen optager sukkeret langsommere.
+>
+> Bagt i hånden i Middelfart. Fire ingredienser, ingen genveje.
+
+**CTA-knap:** Bestil nu
+
+---
+
 ## Newsletter (HubSpot Free)
 
 ### Hvad du har på gratisplanen
@@ -1947,6 +1973,39 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL24 — Halv sommer bag os
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — send ca. 4.–6. juli 2026
+**Formål:** Hold listen aktiv midt i sommersæsonen med en ærlig, personlig opdatering fra bageriets juli
+**Visuel:** Et simpelt produktfoto i morgensommerlys — en papirpose med boller på et bord udenfor.
+
+**Emnelinje:** Halv sommer bag os — her er hvad jeg ved nu
+**Preheader:** Surdej i varmen og det, der er på vej
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Vi er halvvejs igennem sommeren.
+>
+> Surdejen opfører sig anderledes i varmen — den er hurtigere, mere aktiv, kræver mere opmærksomhed. Jeg bager tidligere om morgenen og holder bedre øje med hævetiderne. Det er den slags tilpasninger, man ikke kan lære fra en opskrift.
+>
+> Bollerne er de samme. Processen tilpasses vejret.
+>
+> Bestil til din næste weekend. Vi aftaler afhentning på Tyttebærkvisten, når det passer dig.
+>
+> [Bestil nu →]
+>
+> God sommer fortsat,
+> [Navn]
+
+> **Bemærk:** Tilføj eventuelt et afsnit om Biga-pizzadejskuglerne, hvis de er lanceret: „[Pizzadejskuglerne er nu på salg — 20 kr/stk. Optø natten over, hæv et par timer, rul ud. Det er det.]"
+
+---
+
 ### O41 — Middelfart Jazz Festival
 
 **Kvalitet:** `[ ]` God `[ ]` Dårlig
@@ -2111,6 +2170,26 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 > Fire ingredienser. Lang fermentering. Ingen tilsætningsstoffer. Mælkesyrebakterierne i dejen sænker brødets pH under fermenteringen — det giver en naturlig modstandskraft mod skimmel. Ingen konserveringsmidler nødvendige.
 >
 > Fars Brød bages i et privat køkken i Middelfart. Et hold ad gangen. Intet overproduceres.
+>
+> Bestil via linket i bio.
+
+---
+
+### O48 — Sommer kalder på en langsom morgenmad
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede
+**Visual:** Et sommerbord i tidligt morgenlys — to surdejsboller, en kop kaffe, åbent vindue eller dør mod haven. Ingen iscenesættelse. Rolig, hverdagslig og ægte.
+
+**Caption:**
+> Juli minder dig om, at morgener kan tage tid.
+>
+> Et hold friskbagte surdejsboller, en kop kaffe og en halv time til det. Dejen er lagt natten inden, surdejen er fodret om morgenen, bollerne er formede og bagte. Det er det, du smager.
+>
+> Det er ikke hurtig mad. Det er maden, der minder dig om, at der ikke er noget, der haster.
 >
 > Bestil via linket i bio.
 
@@ -2484,6 +2563,18 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 - Undersøg mulighed for smagsprøver til arrangørerne — kræver tidlig kontakt (senest primo august)
 
 > **Bemærk:** Verificér datoer og program på klimafolkemoedet.dk inden kommunikation med konkrete tal.
+
+---
+
+### BD26 — Feedback-loop: Hvad synes kunderne om pizzadejen?
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** 3–4 uger efter pizzadejslanseringen (ca. medio juli 2026), kontakt de første 5–10 kunder direkte. Spørg om tre ting: Fungerede instruktionerne? Hvad synes de om smagen? Ville de bestille igen? Brug svarene til at justere produktet, emballagen og vejledningen — inden du investerer yderligere i annoncer eller skalering.
+**Hvorfor det virker:** De første kunder er de mest motiverede. De giver ærlig feedback og de vil gerne hjælpe. Det er dit bedste signal om, hvad der virker, inden du skalerer.
+**Sådan gøres det:** Skriv en kort, personlig besked pr. e-mail eller SMS til kunder der har bestilt pizzadej. Max fem spørgsmål. Gem svarene i et enkelt ark eller note. Opdater NL8-vejledningen og produktbeskrivelsen baseret på fund.
 
 ---
 
