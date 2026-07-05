@@ -134,3 +134,12 @@ End of every session: update claude.md with new learnings
   - **BD23** — Sommerhusmarkedet: radius-targeting 25 km i juli–august
 - IDEAS.md pushet til GitHub via lokal git proxy (`git push -u origin main`)
 - Git push via personlig PAT i URL-format fejler — brug altid `git push -u origin main` i dette miljø
+- Detached HEAD: brug `git push -u origin HEAD:main` (ikke `git push -u origin main`) når HEAD er detached
+
+## Automatisk månedlig opdatering — 2026-07-05
+- Bot-kørslen arkiverede 0 idéer (ingen opfyldte arkiveringskriterierne)
+- 4 nye idéer tilføjet baseret på research (nordisk fermenteringstradition, frysertip, gennemsigtighed som salgsargument, europæisk surdejsforskning):
+  - **O49** — Fermentering er nordisk, ikke trendy (karrusel, kilde: Falstaff Fermentation Nation)
+  - **O50** — Surdejsboller i fryseren (praktisk fryse/optø-tip til sommerkunder)
+  - **A20** — Fire ingredienser. Ingen hemmeligheder. (Meta ad, gennemsigtighed som salgsargument)
+  - **NL25** — 1.000 hjemmebagere kortlægges i Europa (newsletter, HealthFerm/Nature 2026)
