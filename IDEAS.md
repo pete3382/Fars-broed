@@ -1297,6 +1297,30 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### A20 — Fire ingredienser. Ingen hemmeligheder.
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce
+**Placering:** Facebook & Instagram feed, målrettet Middelfart + 20 km radius
+**Objektiv:** Sales → HubSpot bestillingsformular
+**Visuel:** Flatlay oppefra: de fire ingredienser på et mørkt trægulv — mel, vand, salt, en glasburk med aktiv surdej. Enkelt og rent. Ingen tekst på billedet.
+
+**Kilde:** [Food market trends in Denmark — Innova Market Insights](https://www.innovamarketinsights.com/trends/food-market-trends-in-denmark-consumer-insights-and-preferences/)
+
+**Overskrift:** Fire ingredienser. Ingen hemmeligheder.
+
+**Primær tekst:**
+> Du kender ingredienserne. Du kender adressen. Du kender personen, der bagte dem.
+>
+> Surdejsboller fra Fars Brød. Bagt i hånden i Middelfart af fire ingredienser og lang hævetid. Ingen tilsætningsstoffer. Ingen genveje.
+
+**CTA-knap:** Bestil nu
+
+---
+
 ## Newsletter (HubSpot Free)
 
 ### Hvad du har på gratisplanen
@@ -2006,6 +2030,39 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL25 — 1.000 hjemmebagere kortlægges i Europa
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — sommer 2026
+**Formål:** Vidensmail der sætter hjemmebagning i et større, europæisk perspektiv — styrker tilliden til hjemmebagt surdej som noget seriøst og dokumenteret
+**Visuel:** Nærbillede af aktiv, boblende surdej i en glasburk — varmt morgenlys.
+
+**Kilde:** [Rising together: exploring sourdough fermentation diversity — npj Science of Food / Nature, 2026](https://www.nature.com/articles/s41538-026-00725-7)
+
+**Emnelinje:** 1.000 hjemmebagere kortlægges — og det viser noget interessant
+**Preheader:** Hvad europæisk surdejsforskning siger om det vi gør
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> HealthFerm-projektet har kortlagt over 1.000 hjemmebagere på tværs af 33 lande i Europa. Fokus: forskellene i hjemmegæring — og hvad de fortæller om surdejens mikrobielle diversitet.
+>
+> Det, de finder, er ikke overraskende for den der bager: hvert køkken producerer sin egen unikke fermenteringskultur. Temperatur, mel, fodringshyppighed og bagerens egne hænder bestemmer tilsammen, hvad der lever i surdejen.
+>
+> Det er grunden til, at to surdejsboller aldrig smager præcis ens — selv om de er lavet med de samme ingredienser og den samme opskrift.
+>
+> Min surdej er min. Din bolle er lavet i mit køkken, med min starter, den dag din ordre faldt ind.
+>
+> [Bestil nu →]
+>
+> Mange hilsener,
+> [Navn]
+
+---
+
 ### O41 — Middelfart Jazz Festival
 
 **Kvalitet:** `[ ]` God `[ ]` Dårlig
@@ -2190,6 +2247,55 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 > Et hold friskbagte surdejsboller, en kop kaffe og en halv time til det. Dejen er lagt natten inden, surdejen er fodret om morgenen, bollerne er formede og bagte. Det er det, du smager.
 >
 > Det er ikke hurtig mad. Det er maden, der minder dig om, at der ikke er noget, der haster.
+>
+> Bestil via linket i bio.
+
+---
+
+### O49 — Fermentering er nordisk, ikke trendy
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karrusel (3–4 slides)
+**Visual:** Slide 1: et lille udvalg af nordiske gærede råvarer på et rustikt bord — en glasburk med aktiv surdej i centrum, rugbrød i baggrunden, naturligt sommerlys. Slide 2–3: varm cremefarvet baggrund med stor mørk tekst, én pointe pr. slide. Slide 4: friskbagte surdejsboller på en rist.
+
+**Kilde:** [Fermentation Nation: The Taste of the Nordics — Falstaff](https://www.falstaff.com/en/news/fermentation-nation-the-taste-of-the-nordics)
+
+**Slide 1:** Fermentering er ikke et nyt påfund. Det er det nordiske grundkøkken.
+**Slide 2:** Rugbrød, sildestuvning, hytteost, koldskål, surmælk — det gærede har altid stået centralt i det nordiske køkken. Lange vintre krævede naturlig konservering. Gæring var svaret.
+**Slide 3:** Surdej er det samme princip: en levende kultur, lang tid og ingen tilsætningsstoffer. Det er ikke noget vi har lært fra en trend. Det er noget, vi aldrig holdt op med.
+**Slide 4:** Fire ingredienser. Bagt i hånden i Middelfart. Bestil via linket i bio.
+
+**Caption:**
+> Fermentering er ikke et nyt påfund.
+>
+> Det nordiske køkken er bygget på gæring. Rugbrød, sildestuvning, hytteost, koldskål. Lange vintre krævede naturlig konservering — og gæring var det, der virkede.
+>
+> Surdej er det samme princip. En levende kultur, lang tid og ingen tilsætningsstoffer. Det er ikke en trend fra udlandet. Det er noget, vi aldrig holdt op med i Norden.
+>
+> Bestil via linket i bio.
+
+---
+
+### O50 — Surdejsboller i fryseren
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede eller karrusel (3 slides)
+**Visual:** Slide 1: en lille stak surdejsboller pakket tæt i en frysepose — tydeligt dateret med en håndskrevet etiket. Naturligt lys. Slide 2: varm cremefarvet baggrund med stor mørk tekst. Slide 3: en optøet bolle brudt åben i morgenlys — krummen intakt og frisk.
+
+**Caption:**
+> Surdejsboller egner sig bedre til fryseren end de fleste tror.
+>
+> Frys dem ned den dag, du henter dem — pakket tæt i en pose uden luft. De holder 2–3 måneder og bevarer skorpe og krumme overraskende godt.
+>
+> Optø ved stuetemperatur i 1–2 timer, eller varm dem 8 minutter i en ovn ved 175 grader. Skorpen vender tilbage.
+>
+> Det giver dig mulighed for at bestille et hold nu — og have friskbagt madglæde klar en travl hverdag om tre uger.
 >
 > Bestil via linket i bio.
 
