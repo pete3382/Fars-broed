@@ -1321,6 +1321,30 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### A21 — Du holder ferie. Bollerne gør ikke.
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce
+**Placering:** Facebook & Instagram feed, målrettet Middelfart + 25 km radius
+**Objektiv:** Sales → HubSpot bestillingsformular
+**Visuel:** En friskbagt surdejsbolle i en brun papirpose sat klar på en dørsten i morgensol. Ingen mennesker. Huset blødt i baggrunden. Roligt og lyst.
+
+**Overskrift:** Friskbagt — klar til dig, når ferien er slut
+
+**Primær tekst:**
+> Du holder ferie. Bagningen holder ikke pause.
+>
+> Fars Brød bager videre hele sommeren — et hold ad gangen, fire ingredienser, ingen genveje. Bestil en dato der passer din ferie, og hent dem friskbagte på Tyttebærkvisten.
+>
+> Surdejsboller i Middelfart.
+
+**CTA-knap:** Bestil nu
+
+---
+
 ## Newsletter (HubSpot Free)
 
 ### Hvad du har på gratisplanen
@@ -2063,6 +2087,43 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL26 — Bollerne i tal
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — juli 2026
+**Formål:** En kort vidensmail i et anderledes format — tal og fakta fra bagerens køkken i stedet for fortælling
+**Visuel:** Et nærbillede af en friskbagt bolle i morgenlys — simpelt og appetitligt.
+
+**Emnelinje:** Et hold boller — hvad det egentlig kræver
+**Preheader:** Lidt nørderi fra køkkenet
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Lidt nørderi fra køkkenet denne gang.
+>
+> Hvert hold surdejsboller, du afhenter, er resultatet af:
+>
+> **[X]** — surdejsstartens alder i år
+> **4** — antal ingredienser (mel, vand, salt, surdej)
+> **24–26°** — optimal sluttemperatur for dejen efter blanding
+> **4–5** — antal fold af dejen under første hævning
+> **8–10** — antal timer dejen hviler på køl natten over
+> **0** — tilsætningsstoffer
+> **1** — bager
+>
+> Det er dem, der tilsammen bestemmer, hvad du smager om søndagen.
+>
+> [Bestil nu →]
+>
+> Mange hilsener,
+> [Navn]
+
+---
+
 ### O41 — Middelfart Jazz Festival
 
 **Kvalitet:** `[ ]` God `[ ]` Dårlig
@@ -2296,6 +2357,48 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 > Optø ved stuetemperatur i 1–2 timer, eller varm dem 8 minutter i en ovn ved 175 grader. Skorpen vender tilbage.
 >
 > Det giver dig mulighed for at bestille et hold nu — og have friskbagt madglæde klar en travl hverdag om tre uger.
+>
+> Bestil via linket i bio.
+
+---
+
+### O51 — Autolyse: Glutennetværket starter af sig selv
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede eller karrusel (2–3 slides)
+**Visual:** Slide 1: en skål med mel og vand dækket af husholdningsfilm — ingen hænder, stille i naturligt morgenlys. Slide 2: varm cremefarvet baggrund med stor mørk tekst. Slide 3: dejen strakt mod lyset — fine glutentråde synlige.
+
+**Caption:**
+> Dejen arbejder, inden hænderne rører den.
+>
+> Autolyse er teknikken, hvor mel og vand blandes og hviler i 20–60 minutter — inden surdejen og saltet tilsættes. I den tid begynder enzymerne i melet at hydratisere glutenproteinerne. Glutenin og gliadin absorberer vandet og danner de første kæder af glutennetværket. Spontant. Uden æltning.
+>
+> Resultatet: en dej, der kræver færre fold for at nå god styrke, og en krumme med mere åben og ensartet struktur. En lille investering i ventetid i begyndelsen betaler sig resten af vejen.
+>
+> Bestil via linket i bio.
+
+---
+
+### O52 — Fem uger til skolestart
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede eller Story
+**Visual:** En lille stak surdejsboller i en klar frysepose med en håndskrevet etiket — „August". Lagt i en fryseskuffe. Naturligt lys, simpelt.
+
+**Caption:**
+> Der er fem uger til skolestart.
+>
+> Frys et hold boller ned nu, og du har friskbagt brød klar til mandagsmorgener i august — uden at tænke over det.
+>
+> Frys dem ned den dag du henter dem, pakket tæt i en pose uden luft. De holder 2–3 måneder. Varm dem 8 minutter ved 175 grader. Skorpen er tilbage.
+>
+> Bestil et ekstra hold. Hent dem nu. Sæt dem i fryseren.
 >
 > Bestil via linket i bio.
 
@@ -2681,6 +2784,26 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 **Idé:** 3–4 uger efter pizzadejslanseringen (ca. medio juli 2026), kontakt de første 5–10 kunder direkte. Spørg om tre ting: Fungerede instruktionerne? Hvad synes de om smagen? Ville de bestille igen? Brug svarene til at justere produktet, emballagen og vejledningen — inden du investerer yderligere i annoncer eller skalering.
 **Hvorfor det virker:** De første kunder er de mest motiverede. De giver ærlig feedback og de vil gerne hjælpe. Det er dit bedste signal om, hvad der virker, inden du skalerer.
 **Sådan gøres det:** Skriv en kort, personlig besked pr. e-mail eller SMS til kunder der har bestilt pizzadej. Max fem spørgsmål. Gem svarene i et enkelt ark eller note. Opdater NL8-vejledningen og produktbeskrivelsen baseret på fund.
+
+---
+
+### BD27 — Forhåndsbestilling til august: Sikr dine slots nu
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Åbn et dedikeret bestillingsvindue i uge 27–29 (juli) for kunder der vil reservere augustdatoer på forhånd. Kommunikér aktivt at kapaciteten er begrænset, og at det er klogt at reservere nu — inden ferien slutter og hverdagen vender.
+
+**Hvorfor det virker:** August er den travleste overgangsperiode: børn starter i skole, arbejdsrytmer genoptages, madvanerne strammes op. Kunder der bestiller i juli, er allerede i cyklussen. Forhåndsbestillinger giver bageren overblik over produktion og kunderne tryghed for, at de ikke står uden boller den første travle uge i september.
+
+**Sådan gøres det:**
+- Send WhatsApp-besked (BD17) til faste kunder i uge 27–28 med en direkte invitation til at reservere augustdato
+- Koordinér med NL26 (Bollerne i tal), BD22 (August-push) og BD24 (Skolestart) som del af én kommunikationsindsats
+- Overvej at tilbyde to augustleverancer som én samlet bestilling — ét valg frem for to reducerer friktionen
+
+**Beskedskabelon (WhatsApp):**
+> Hej [navn] — augustdatoer åbner nu. Vil du reservere din første uge, inden pladserne er taget? Skriv en dato der passer dig.
 
 ---
 

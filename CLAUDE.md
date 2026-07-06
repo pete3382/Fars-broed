@@ -143,3 +143,13 @@ End of every session: update claude.md with new learnings
   - **O50** — Surdejsboller i fryseren (praktisk fryse/optø-tip til sommerkunder)
   - **A20** — Fire ingredienser. Ingen hemmeligheder. (Meta ad, gennemsigtighed som salgsargument)
   - **NL25** — 1.000 hjemmebagere kortlægges i Europa (newsletter, HealthFerm/Nature 2026)
+
+## Automatisk månedlig opdatering — 2026-07-06
+- Bot-kørslen arkiverede 0 idéer (ingen opfyldte arkiveringskriterierne)
+- 5 nye idéer tilføjet baseret på juli-sæson, bageteknisk indhold og forretningsudvikling:
+  - **A21** — Meta ad: „Du holder ferie. Bollerne gør ikke." (ferievinkel, juli–august radius 25 km)
+  - **NL26** — Bollerne i tal (nyt email-format: tal og fakta fra køkkenet)
+  - **O51** — Autolyse: Glutennetværket starter af sig selv (bageteknisk nørdet, ny vinkel)
+  - **O52** — Fem uger til skolestart (juli-urgency + frysertip til august)
+  - **BD27** — Forhåndsbestilling til august: Sikr dine slots nu (forretningsudvikling)
+- WebSearch utilgængeligt under denne kørsel — idéer baseret på dokumenteret bageteknisk viden og sæsonlogik
