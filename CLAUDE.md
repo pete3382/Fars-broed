@@ -153,3 +153,13 @@ End of every session: update claude.md with new learnings
   - **O52** — Fem uger til skolestart (juli-urgency + frysertip til august)
   - **BD27** — Forhåndsbestilling til august: Sikr dine slots nu (forretningsudvikling)
 - WebSearch utilgængeligt under denne kørsel — idéer baseret på dokumenteret bageteknisk viden og sæsonlogik
+
+## Automatisk månedlig opdatering — 2026-07-07
+- Bot-kørslen arkiverede 0 idéer (ingen opfyldte arkiveringskriterierne)
+- 5 nye idéer tilføjet baseret på research (UPF-trend, surdejsvækst 45% YoY, LIVE Hindsgavl bekræftet 15. aug):
+  - **O53** — Hvad er der egentlig i dit brød? (UPF-kontrast, ultraforarbejdede fødevarer 2026)
+  - **O54** — Interessen for surdej er vokset 45% på ét år (kilde: Accio/Tribeca Oven 2026)
+  - **A22** — Meta ad: LIVE Hindsgavl Slot 15. august (timing: kør 10.–14. august)
+  - **NL27** — Hvad ingredienslisten fortæller dig (UPF-vinkel, send primo august)
+  - **BD28** — Efterårsklargøring: Kommunikationsplan for september (forretningsudvikling)
+- LIVE Hindsgavl Slot bekræftet: 15. august 2026 (kilde: hindsgavl.dk via visitmiddelfart-søgning)

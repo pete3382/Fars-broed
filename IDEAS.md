@@ -1345,6 +1345,30 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### A22 — LIVE Hindsgavl Slot 15. august
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce
+**Placering:** Facebook & Instagram feed, målrettet Middelfart + 20 km radius
+**Objektiv:** Sales → HubSpot bestillingsformular
+**Visuel:** Boller i en brun papirpose i morgenlys — grøn, sommerlig skov- eller parkstemning som blød baggrund. Afslappet og ikke overproduceret.
+
+> **Timing:** Kør 10.–14. august. LIVE Hindsgavl Slot er bekræftet til 15. august 2026.
+
+**Overskrift:** En god festivaldag starter med god morgenmad
+
+**Primær tekst:**
+> LIVE Hindsgavl Slot er den 15. august.
+>
+> Friskbagte surdejsboller til afhentning på Tyttebærkvisten. Bestil inden den 13. august — vi aftaler tidspunkt der passer til din dag.
+
+**CTA-knap:** Bestil nu
+
+---
+
 ## Newsletter (HubSpot Free)
 
 ### Hvad du har på gratisplanen
@@ -2124,6 +2148,39 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL27 — Hvad ingredienslisten fortæller dig
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — send primo august 2026
+**Formål:** Vidensmail om ultraforarbejdede fødevarer som kontrast til surdejsbollerne — positionering og loyalitet
+**Visuel:** Nærbillede af de fire ingredienser: mel, vand, salt og en glasburk med aktiv surdej — enkelt og rent.
+
+**Kilde:** [Ultraforarbejdede fødevarer: Hvad er op og ned? — Ernæringsfokus](https://www.ernaeringsfokus.dk/livsstil/ultraforarbejdede-foedevarer/)
+
+**Emnelinje:** En ingrediensliste siger mere end et reklameforsøg
+**Preheader:** Hvad er der egentlig i dit brød?
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Ultraforarbejdede fødevarer er i 2026 et tema, der vinder mere opmærksomhed.
+>
+> Det handler om et enkelt spørgsmål: Hvad er der egentlig i det, vi spiser? For brødets vedkommende er svaret ofte overraskende. Mange produkter, der kalder sig surdejsbrød, indeholder eddikesyre tilsat for smagens skyld, emulgatorer og enzymer — stoffer, der giver brødet den rette tekstur og holdbarhed, men som ikke er del af den fermentering, der giver rigtig surdej sin karakter.
+>
+> Bollerne fra Fars Brød er fire ingredienser: mel, vand, salt og surdej. Surdejen fodres dagligt. Dejen hæver natten over. Ingen tilsætningsstoffer, ingen fortolkning.
+>
+> Det er ikke et reklameforsøg. Det er en ingrediensliste.
+>
+> [Bestil nu →]
+>
+> Mange hilsener,
+> [Navn]
+
+---
+
 ### O41 — Middelfart Jazz Festival
 
 **Kvalitet:** `[ ]` God `[ ]` Dårlig
@@ -2399,6 +2456,55 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 > Frys dem ned den dag du henter dem, pakket tæt i en pose uden luft. De holder 2–3 måneder. Varm dem 8 minutter ved 175 grader. Skorpen er tilbage.
 >
 > Bestil et ekstra hold. Hent dem nu. Sæt dem i fryseren.
+>
+> Bestil via linket i bio.
+
+---
+
+### O53 — Hvad er der egentlig i dit brød?
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karrusel (4 slides)
+**Visual:** Slide 1: nærbillede af en ingrediensliste på en pose "surdejsbrød" fra supermarkedet — lang og svær at læse. Slide 2–3: varm cremefarvet baggrund med stor mørk tekst, én pointe pr. slide. Slide 4: de fire ingredienser til Fars Brøds boller på en mørk trioverflade.
+
+**Kilde:** [Ultraforarbejdede fødevarer: Hvad er op og ned? — Ernæringsfokus](https://www.ernaeringsfokus.dk/livsstil/ultraforarbejdede-foedevarer/) / [2026 Bread Trends — TRIBECA OVEN](https://tribecaoven.com/2026/01/19/2026-bread-trends/)
+
+**Slide 1:** Kan du læse ingredienslisten på dit brød?
+**Slide 2:** I 2026 er ultraforarbejdede fødevarer på dagsordenen. Brød med 15+ ingredienser, emulgatorer, surhedsregulatorer og enzymer fylder hylderne. Det ser ud som brød — men fermenteringen er kemisk, ikke biologisk.
+**Slide 3:** Surdejsboller bagt med en levende kultur kræver fire ingredienser: mel, vand, salt og surdej. Fermenteringen gør resten. Lang tid, ingen tilsætningsstoffer, ingen genveje.
+**Slide 4:** Fire ingredienser. Bagt i hånden i Middelfart. Bestil via linket i bio.
+
+**Caption:**
+> Ultraforarbejdede fødevarer er i 2026 et tema, der vinder opmærksomhed i Danmark.
+>
+> Det handler om et enkelt spørgsmål: Hvad er der egentlig i det, vi spiser? En lang ingrediensliste er et signal om, at noget er skjult. Fire ingredienser er et signal om, at der ikke er noget at skjule.
+>
+> Mel, vand, salt, surdej. Det er det.
+>
+> Bestil via linket i bio.
+
+---
+
+### O54 — Interessen for surdej er vokset 45% på ét år
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede eller karrusel (2–3 slides)
+**Visual:** Slide 1: nærbillede af aktiv, boblende surdej i en glasburk — naturligt morgenlys. Slide 2: varm cremefarvet baggrund med stor mørk tekst.
+
+**Kilde:** [2025–2026 Sourdough Bread Trends — Accio](https://www.accio.com/business/sourdough_bread_trend) / [2026 Bread Trends — TRIBECA OVEN](https://tribecaoven.com/2026/01/19/2026-bread-trends/)
+
+**Caption:**
+> Interessen for surdej er vokset 45% på ét år. Det overrasker mig ikke.
+>
+> Folk begynder at lægge mærke til forskellen. Ikke bare i smagen — men i, hvad der faktisk er i brødet. Og i hvad lang fermentering gør ved næringsstofferne: den nedbryder det, kroppen ellers har svært ved at optage.
+>
+> Det er ikke en trend. Det er folk, der vender tilbage til noget rigtigt.
 >
 > Bestil via linket i bio.
 
@@ -2804,6 +2910,25 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 **Beskedskabelon (WhatsApp):**
 > Hej [navn] — augustdatoer åbner nu. Vil du reservere din første uge, inden pladserne er taget? Skriv en dato der passer dig.
+
+---
+
+### BD28 — Efterårsklargøring: Kommunikationsplan for september
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Brug den første uge af august til at planlægge efterårets bestillingsflow og kommunikationsrytme. Definér ét fast ugentligt vindue: hvornår bestillingsvinduet åbner, hvornår WhatsApp-listen kontaktes, hvornår nyhedsbrevet sendes. Hav skabelonerne klar inden skolestart.
+
+**Hvorfor det virker:** September er den travleste overgangsperiode. Familier genopretter rutiner, og en klar kommunikationsrytme fra bagerens side giver kunder klare forventninger. En bager, der kommunikerer proaktivt — "næste hold er klar fredag" — er nemmere at bestille hos end én, der kommunikerer uregelmæssigt. Planlægningen i august koster intet, men betaler sig i september, oktober og november.
+
+**Sådan gøres det:**
+- Beslut ét fast bestillingsvindue per uge (f.eks. åbner mandag, lukker onsdag, afhentning fredag–lørdag)
+- Sæt en fast WhatsApp-besked til udsendelse mandag morgen (brug skabelon fra BD17)
+- Beslut kadence for nyhedsbrev: ugentlig, to-ugentlig eller månedlig — og hold fast i det
+- Gennemgå IDEAS.md og markér hvilke efterårsidéer der er klar til brug
+- Sæt tre kalendernotitser: uge 37 (skolestart overstået), uge 40 (efterårsferie nærmer sig), uge 47 (julesæsonen begynder)
 
 ---
 
