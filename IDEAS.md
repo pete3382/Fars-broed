@@ -1369,6 +1369,32 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### A23 — Spis færre ting. Men de rigtige.
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce
+**Placering:** Facebook & Instagram feed, målrettet Middelfart + 20 km radius
+**Objektiv:** Sales → HubSpot bestillingsformular
+**Visuel:** Én surdejsbolle brudt åben på et hvidt bord — den åbne krumme fylder billedet. Naturligt morgenlys. Ingenting andet i billedet.
+
+**Kilde:** [Food trends in Denmark: High protein, premium indulgence and GLP-1s — FoodNavigator, april 2026](https://www.foodnavigator.com/Article/2026/04/21/food-trends-in-denmark-high-protein-premium-indulgence-and-glp-1s/)
+
+**Overskrift:** Færre ting. Bedre ting.
+
+**Primær tekst:**
+> Mange spiser mindre i 2026 — men de spiser bedre.
+>
+> En surdejsbolle bagt med fire ingredienser og natten over på køl er morgenmad, der mætter dig frem til frokost. Ingen tilsætningsstoffer. Ingen genveje. Bare det, der faktisk smager af noget.
+>
+> Surdejsboller fra Fars Brød. Bagt i hånden i Middelfart.
+
+**CTA-knap:** Bestil nu
+
+---
+
 ## Newsletter (HubSpot Free)
 
 ### Hvad du har på gratisplanen
@@ -2181,6 +2207,41 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL28 — Det ved jeg om at gemme surdejsboller
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — juli 2026
+**Formål:** Praktisk vidensmail om opbevaring og brug af surdejsboller — giver kunder konkrete tips og holder listen aktiv midt i sommeren
+**Visuel:** Et nærbillede af en bolle på en skærebræt i morgenlys — simpelt og hjemligt.
+
+**Emnelinje:** Det ved jeg om at gemme surdejsboller
+**Preheader:** Tre ting, der er værd at vide
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Jeg sender ikke denne mail for at sælge. Jeg sender den, fordi folk spørger.
+>
+> Tre ting om surdejsboller, der er værd at vide:
+>
+> **De holder sig godt.** Surdejens lave pH hæmmer skimmel naturligt. En bolle ved stuetemperatur holder sig frisk i 2–3 dage — i en papirpose, ikke plastik. Plastik trapper fugt ind og blødgør skorpen.
+>
+> **De kan fryses og vende tilbage.** Frys dem den dag du henter dem, pakket tæt i en pose uden luft. Optø ved stuetemperatur i 1–2 timer, eller varm dem 8 minutter ved 175 grader. Skorpen er der igen.
+>
+> **En gammel bolle er ikke spild.** Riv den i stykker og rist dem med lidt olivenolie — det er pangrattato, og det er godt på pasta eller salat. Eller skær den i skiver og rist dem direkte på en tør pande. Maillard-reaktionen starter forfra. Det smager anderledes, men ikke dårligere.
+>
+> Det er det for denne gang.
+>
+> [Bestil nu →]
+>
+> Mange hilsener,
+> [Navn]
+
+---
+
 ### O41 — Middelfart Jazz Festival
 
 **Kvalitet:** `[ ]` God `[ ]` Dårlig
@@ -2505,6 +2566,53 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 > Folk begynder at lægge mærke til forskellen. Ikke bare i smagen — men i, hvad der faktisk er i brødet. Og i hvad lang fermentering gør ved næringsstofferne: den nedbryder det, kroppen ellers har svært ved at optage.
 >
 > Det er ikke en trend. Det er folk, der vender tilbage til noget rigtigt.
+>
+> Bestil via linket i bio.
+
+---
+
+### O55 — Mæthed, der holder
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karrusel (4 slides)
+**Visual:** Slide 1: én surdejsbolle brudt åben på et hvidt bord i morgenlys — simpel og stilren. Slide 2–3: varm cremefarvet baggrund med stor, mørk tekst. Slide 4: friskbagte boller på en rist.
+
+**Kilde:** [Systematic review, 18 kliniske studier — PMC, 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC10103004/)
+
+**Slide 1:** Surdejsboller holder dig mæt. Det er ikke tilfældigt.
+**Slide 2:** Under lang fermentering omdannes noget af stivelsen i dejen til resistent stivelse — et kulhydrat, kroppen ikke kan nedbryde hurtigt. Det fordøjes langsomt. Blodsukkeret stiger gradvist. Mæthedsfornemmelsen varer markant længere end ved gærhævet brød.
+**Slide 3:** Det glykæmiske indeks for surdejsbrød: ca. 54. Hvidt brød: 71. Standard fuldkornsbrød: 68. Det lavere tal er ikke bare godt for blodsukkeret — det er grunden til, at du ikke er sulten igen en time efter morgenmaden.
+**Slide 4:** Fire ingredienser. En nat på køl. Bagt i hånden i Middelfart. Bestil via linket i bio.
+
+**Caption:**
+> Surdejsboller holder dig mæt. Det er kemi, ikke indbildning.
+>
+> Under lang fermentering omdannes noget af stivelsen til resistent stivelse — kulhydrater, kroppen fordøjer langsomt. Blodsukkeret stiger jævnt. Mæthedsfornemmelsen holder sig markant længere end efter gærhævet brød.
+>
+> Glykæmisk indeks: Surdej ca. 54. Hvidt brød: 71.
+>
+> Fire ingredienser. Bagt i hånden i Middelfart. Bestil via linket i bio.
+
+---
+
+### O56 — Brød til at tage med
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede
+**Visual:** En brun papirpose med surdejsboller holdt frem af to hænder — som om den gives videre til nogen. Sommerlys, udendørs eller på en dørsten. Naturligt og uiscenesæt.
+
+**Caption:**
+> Det er den enkleste gave.
+>
+> Friskbagte surdejsboller i en brun pose. Ingen indpakning. Ingen sløjfe. Du møder op med noget ægte, bagt af en person du kender adressen på — og det husker folk.
+>
+> Bestil til næste gang du besøger nogen. Vi lægger et kort i posen, hvis du vil.
 >
 > Bestil via linket i bio.
 
@@ -2929,6 +3037,30 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 - Beslut kadence for nyhedsbrev: ugentlig, to-ugentlig eller månedlig — og hold fast i det
 - Gennemgå IDEAS.md og markér hvilke efterårsidéer der er klar til brug
 - Sæt tre kalendernotitser: uge 37 (skolestart overstået), uge 40 (efterårsferie nærmer sig), uge 47 (julesæsonen begynder)
+
+---
+
+### BD29 — Fast ugentlig abonnement: Fars Brød på autopilot
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Tilbyd faste kunder muligheden for at tilmelde sig et ugentligt abonnement. De reserverer en fast portion og betaler ved afhentning. Bageren ved altid præcis, hvad der skal bages. Kunden slipper for at tænke over det.
+
+**Hvorfor det virker:** Forudsigelighed for begge parter. Kunden bygger en fast vane — bollerne henter sig selv, så at sige. Bageren kan planlægge produktion med minimalt spild og uden ugevis usikkerhed om, hvor mange portioner der er i spil. Faste abonnenter er den mest loyale del af kundebasen og svarer til BD1 (faste bestillingsvinduер) men med en eksplicit forpligtelse.
+
+**Forskel fra BD1:** BD1 handler om at strukturere bestillingsvinduet. BD29 handler om at tilbyde kunder en formel, løbende reservation — én beslutning der rækker fremad i stedet for en ny bestilling hver uge.
+
+**Sådan gøres det:**
+- Opret en simpel HubSpot-formular til abonnementstilmelding: navn, e-mail, antal portioner, foretrukken afhentningsdag
+- Bekræft tilmelding via e-mail og notér i kontaktkortet
+- Kunden kan til enhver tid pause eller afmelde — ingen binding, ingen forudbetaling
+- Promovér primært til eksisterende kunder via WhatsApp (BD17) og nyhedsbrev
+- Test med 3–5 kunder inden bred lancering
+
+**Beskedskabelon til promovering (WhatsApp):**
+> Hej [navn] — jeg har åbnet for fast ugentlig reservation. Vil du tilmelde dig, sparer du dig at bestille hver uge. Skriv, hvis det lyder som noget for dig.
 
 ---
 

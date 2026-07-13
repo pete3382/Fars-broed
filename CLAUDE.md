@@ -163,3 +163,14 @@ End of every session: update claude.md with new learnings
   - **NL27** — Hvad ingredienslisten fortæller dig (UPF-vinkel, send primo august)
   - **BD28** — Efterårsklargøring: Kommunikationsplan for september (forretningsudvikling)
 - LIVE Hindsgavl Slot bekræftet: 15. august 2026 (kilde: hindsgavl.dk via visitmiddelfart-søgning)
+
+## Automatisk månedlig opdatering — 2026-07-13
+- Bot-kørslen arkiverede 0 idéer (ingen opfyldte arkiveringskriterierne)
+- 5 nye idéer tilføjet baseret på research (mæthed/resistent stivelse, GLP-1-madtrend, dansk madkultur 2026, gavekultur, praktisk opbevaring):
+  - **O55** — Mæthed, der holder (resistent stivelse og glykæmisk indeks — mæthedsvinklen)
+  - **O56** — Brød til at tage med (gavekultur uden anledning — friskbagte boller som hverdagsgave)
+  - **A23** — Meta ad: Spis færre ting. Men de rigtige. (GLP-1/quality-over-quantity, kilde: FoodNavigator 2026)
+  - **NL28** — Det ved jeg om at gemme surdejsboller (praktisk opbevaring, frysning og brug af rester)
+  - **BD29** — Fast ugentlig abonnement: Fars Brød på autopilot (subscription-model, løbende reservation)
+- Ny indsigt: Fermentering er gået fra hipster-køkken til hverdagspraksis i Danmark (kilde: Madison/madtrends-2026)
+- Ny indsigt: GLP-1 (Ozempic-lignende medicin) er en voksende madtrend i Danmark — folk spiser mindre men vil have bedre kvalitet (kilde: FoodNavigator april 2026)
