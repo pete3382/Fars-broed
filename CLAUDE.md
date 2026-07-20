@@ -174,3 +174,14 @@ End of every session: update claude.md with new learnings
   - **BD29** — Fast ugentlig abonnement: Fars Brød på autopilot (subscription-model, løbende reservation)
 - Ny indsigt: Fermentering er gået fra hipster-køkken til hverdagspraksis i Danmark (kilde: Madison/madtrends-2026)
 - Ny indsigt: GLP-1 (Ozempic-lignende medicin) er en voksende madtrend i Danmark — folk spiser mindre men vil have bedre kvalitet (kilde: FoodNavigator april 2026)
+
+## Automatisk månedlig opdatering — 2026-07-20
+- Bot-kørslen arkiverede 0 idéer (ingen opfyldte arkiveringskriterierne)
+- 5 nye idéer tilføjet baseret på research (augustsæson, surdejsteknik/hydrering, lokal Middelfart-event, dansk bevidst forbrug):
+  - **O57** — Augustlyset over bollerne (sæsonbillede, sensommer-stemning, statisk billede)
+  - **O58** — Hydrering: Hvad vand gør ved dejen (nørdet karrusel om hydreringsprocent og dejstruktur)
+  - **A24** — D-A-D på Tråden 22. august (lokal koncert som bestillingsanledning — kør 17.–21. aug)
+  - **NL29** — Surdej og sommervejret (teknisk vidensmail om fermentering i varmen, til primo august)
+  - **BD30** — Evaluer sommeren: Hvad virkede, og hvad bør gentages (intern performancereview primo august)
+- Ny indsigt: D-A-D spiller på Tråden i Middelfart lørdag 22. august 2026 (kilde: WebSearch)
+- Ny indsigt: Dansk madkultur 2026 — reduceret sukker og lokale råvarer som hverdagspraksis er dominerende tendenser (kilde: Madison/madtrends-2026)

@@ -1395,6 +1395,30 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### A24 — D-A-D på Tråden — 22. august
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce
+**Placering:** Facebook & Instagram feed, målrettet Middelfart + 20 km radius
+**Objektiv:** Sales → HubSpot bestillingsformular
+**Visuel:** Friskbagte surdejsboller i en brun papirpose, sat frem i augustlys — enkel og appetitlig. Ingen overproduktion.
+
+> **Timing:** Kør 17.–21. august. D-A-D spiller på Tråden i Middelfart lørdag 22. august 2026. Verificér på tråden.dk inden publicering.
+
+**Overskrift:** En god dag starter med godt brød
+
+**Primær tekst:**
+> D-A-D spiller på Tråden i Middelfart den 22. august.
+>
+> Start dagen rigtigt. Friskbagte surdejsboller til morgenmaden inden koncerten — bagt i hånden, fire ingredienser. Afhentning på Tyttebærkvisten.
+
+**CTA-knap:** Bestil nu
+
+---
+
 ## Newsletter (HubSpot Free)
 
 ### Hvad du har på gratisplanen
@@ -2242,6 +2266,37 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL29 — Surdej og sommervejret
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — send primo august 2026
+**Formål:** Teknisk vidensmail om surdejens reaktion på sommervarmen — relevant, nørdet og personlig
+**Visuel:** Et termometer placeret ved siden af en glasburk med aktiv surdej i morgenlys. Naturligt og roligt.
+
+**Emnelinje:** Surdej og sommervejret
+**Preheader:** Hvad der sker, når det er 26 grader i køkkenet
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Sommer er den tid, hvor jeg holder mest øje med dejen.
+>
+> Mælkesyrebakterierne arbejder hurtigere i varmen. Det, der normalt tager 8–10 timer, kan nå samme punkt på 5–6 timer ved 26 grader. Der er også en smagsforskel: eddikesyre — den skarpe, markante smag — dannes primært ved kølige temperaturer. Mælkesyre — den runde, milde smag — dannes hurtigere i varmen. Sommerboller tenderer derfor mod en blødere, mildere surdejssmag.
+>
+> For at kompensere bager jeg tidligere om morgenen og holder dejen på køl lidt længere end om vinteren. Det er den slags tilpasning, man lærer sig at mærke — ikke kun med termometeret, men med øjnene på glasset og hænderne i dejen.
+>
+> Bollerne er de samme. Processen tilpasses vejret.
+>
+> [Bestil nu →]
+>
+> Mange hilsener,
+> [Navn]
+
+---
+
 ### O41 — Middelfart Jazz Festival
 
 **Kvalitet:** `[ ]` God `[ ]` Dårlig
@@ -2613,6 +2668,53 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 > Friskbagte surdejsboller i en brun pose. Ingen indpakning. Ingen sløjfe. Du møder op med noget ægte, bagt af en person du kender adressen på — og det husker folk.
 >
 > Bestil til næste gang du besøger nogen. Vi lægger et kort i posen, hvis du vil.
+>
+> Bestil via linket i bio.
+
+---
+
+### O57 — Augustlyset over bollerne
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede
+**Visual:** En friskbagt surdejsbolle på en vindueskarme i det gyldne, bløde augustlys — solen lav, lyset varmt og sidebelyst. Ingen rekvisitter. Stille og smukt.
+
+**Caption:**
+> August lyser anderledes.
+>
+> Solen er lavere. Lyset er varmere og mere vandret. Det giver det sidelys, der gør alt det, du lægger på et bord, smukt — et glas vand, en kop kaffe, et brød.
+>
+> Jeg bager videre som altid. Et hold ad gangen. Fire ingredienser.
+>
+> Bestil via linket i bio.
+
+---
+
+### O58 — Hydrering: Hvad vand gør ved dejen
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karrusel (3–4 slides)
+**Visual:** Slide 1: nærbillede af en dej der strækkes i naturligt lys — translucent og elastisk, glutentråde synlige. Slide 2–3: varm cremefarvet baggrund, stor mørk tekst. Slide 4: færdige boller med åben, luftig krumme.
+
+**Slide 1:** Vand er ikke neutral i en surdejsdej.
+**Slide 2:** Hydrering er forholdet mellem vand og mel — angivet i procent. 70% hydrering: 70g vand per 100g mel. Jo højere tal, jo blødere og mere åben krumme — og jo sværere at forme.
+**Slide 3:** Til Fars Brøds boller bruges 72–75% hydrering. Det er det søde punkt, der giver åben krumme og god skorpe — uden at dejen mister sin form under bagning.
+**Slide 4:** Fire ingredienser. Et nøje valgt forhold. Bagt i hånden i Middelfart. Bestil via linket i bio.
+
+**Caption:**
+> Bag de fire ingredienser gemmer sig en vigtig beslutning: forholdet mellem mel og vand.
+>
+> Det kalder man hydrering. En dej med 72% hydrering indeholder 72 gram vand per 100 gram mel. Jo mere vand, jo blødere dej — og jo mere åben og uregelmæssig krumme. Men en blød dej er sværere at forme.
+>
+> Til surdejsboller arbejder jeg med 72–75%. Det er højt nok til at give en åben krumme med god struktur — og lavt nok til, at dejen kan holdes i form. I sommervarmen justeres det lidt nedad, fordi dejen bliver mere klæbrig ved høj temperatur.
+>
+> Vand er ikke tilfældig. Det er en parameter.
 >
 > Bestil via linket i bio.
 
@@ -3061,6 +3163,25 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 **Beskedskabelon til promovering (WhatsApp):**
 > Hej [navn] — jeg har åbnet for fast ugentlig reservation. Vil du tilmelde dig, sparer du dig at bestille hver uge. Skriv, hvis det lyder som noget for dig.
+
+---
+
+### BD30 — Evaluer sommeren: Hvad virkede, og hvad bør gentages
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Brug den første uge af august til at evaluere sommerens kommunikationsindsats. Gennemgå hvert Social Media-opslag, nyhedsbrev og event-tilknytning og notér: hvad gav flest reaktioner, hvad konverterede til bestillinger, og hvad fik ingen respons?
+
+**Hvorfor det virker:** Den viden, du samler nu, er mere værd end en ny idé. Et ustruktureret overblik over sommerens performance giver konkrete beslutningsgrundlag for, hvad der skal gentages i efteråret, hvad der skal skæres fra og hvad der bør testes anderledes. Det tager 30–45 minutter — men giver klarhed for de næste tre måneder.
+
+**Sådan gøres det:**
+- Gennemgå Instagram/Facebook-statistik for alle sommeropslag: hvad fik flest likes, kommentarer og gemmer?
+- Kig på HubSpot-bestillingsdata: Hvilke uger var travlest? Var der sammenhæng med et opslag eller nyhedsbrev?
+- Skriv tre linjer: „Det her virkede. Det her virkede ikke. Det her vil jeg gentage."
+- Gem screenshot af de tre bedst-performende opslag — brug dem som referencepunkt for tone og format i september
+- Tilføj fund som en note under BD28 (Efterårsklargøring)
 
 ---
 
