@@ -1419,6 +1419,30 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### A25 — Rutinen starter igen
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce
+**Placering:** Facebook & Instagram feed, målrettet Middelfart + 20 km radius
+**Objektiv:** Sales → HubSpot bestillingsformular
+**Visuel:** En friskbagt surdejsbolle på et morgenbord i det gyldne sensommerlys — en skoletaske delvist synlig i billedets kant. Hjemligt og ægte.
+
+> **Timing:** Kør ultimo juli – primo august, inden skolestart uge 33.
+
+**Overskrift:** Mandagsmorgen kommer. Giv den et godt fundament.
+
+**Primær tekst:**
+> Hverdagsrytmen starter snart igen.
+>
+> Friskbagte surdejsboller fra Middelfart. Fire ingredienser, ingen tilsætningsstoffer, bagt i hånden. Hent dem fredag — og du har noget ægte til weekenden og mandagsmorgenen.
+
+**CTA-knap:** Bestil nu
+
+---
+
 ## Newsletter (HubSpot Free)
 
 ### Hvad du har på gratisplanen
@@ -2297,6 +2321,39 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL30 — August er her — her er hvad der sker
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — send 1.–2. august 2026
+**Formål:** Overbliksbrev over augustens begivenheder og bestillingsanledninger — hold listen aktiv og skab urgency tidligt i måneden
+**Visuel:** Et simpelt produktfoto i augustlys — varmt og gyldt sidelys, boller på et bord.
+
+**Emnelinje:** August er her — her er hvad der sker
+**Preheader:** Og hvornår du skal bestille
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> August er kommet.
+>
+> Her er datoerne, der er værd at have i kalenderen — og hvornår du skal bestille, hvis du vil have friskbagte surdejsboller klar:
+>
+> **15. august** — LIVE Hindsgavl Slot. Bestil inden 12. august.
+> **22. august** — D-A-D på Tråden i Middelfart. Bestil inden 19. august.
+> **27.–29. august** — Klimafolkemødet i Middelfart. Bestil inden 25. august.
+>
+> Du behøver ikke at være med til arrangementerne. Men de er alle en god anledning til at starte dagen med noget ordentligt.
+>
+> [Bestil nu →]
+>
+> God august,
+> [Navn]
+
+---
+
 ### O41 — Middelfart Jazz Festival
 
 **Kvalitet:** `[ ]` God `[ ]` Dårlig
@@ -2717,6 +2774,50 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 > Vand er ikke tilfældig. Det er en parameter.
 >
 > Bestil via linket i bio.
+
+---
+
+### O59 — Knaset: Hvad der sker i skorpen
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Reel (10–15 sek.) eller statisk nærbillede
+**Visual:** Ekstrem nærbillede af en hånd der river en friskbagt surdejsbolle over — maillard-mørk skorpe, det splitøjeblik der giver knas. Ingen musik, kun lyden af skorpen der knækker.
+
+**Kilde:** [Consumer interest in crunchy textures up 19% in 2026 — Accio/Bread Trends 2026](https://www.accio.com/business/bread-trends)
+
+**Caption:**
+> Det der lyd er ikke tilfældig.
+>
+> Skorpen på en surdejsbolle er sprød, fordi to ting sker på samme tid i ovnen. Stivelse og sukker karamelliserer under høj varme og danner en hård, maillard-brun overflade. Dampinjektionen tidligt i bagningen holder overfladen blød, mens dejen hæver — og trækkes ud, så ovnen tørrer og stivner skorpen i de sidste minutter.
+>
+> Det er den sekvens, der giver knas. Mangler dampen, flader skorpen. Mangler varmen, bliver den sej. Begge dele kræver timing.
+>
+> Fire ingredienser og den rigtige ovn. Bestil via linket i bio.
+
+---
+
+### O60 — Discarden: Hvad sker der med det der tages ud?
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede eller Story
+**Visual:** En skål med surdejsdiscard ved siden af et halvt fyldt starterglas — morgenlys, melet køkkenbord. Roligt og autentisk.
+
+**Caption:**
+> Hver morgen fodres min surdej.
+>
+> Det betyder, at halvdelen af glasset fjernes inden den nye mel og vand blandes i. Det, der tages ud, hedder discard. Det smides ikke ud.
+>
+> Pandekager, knækbrød, vafler. Et par skeer discard i en pandekagedej giver let syre og dybde. Bagenatron neutraliserer syren, så de hæver som normalt. Tricket er proportionerne.
+>
+> Den aktive surdej er bagkroppen. Discarden er alt det andet, den kan.
+>
+> Bestil bollerne via linket i bio.
 
 ---
 
@@ -3182,6 +3283,32 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 - Skriv tre linjer: „Det her virkede. Det her virkede ikke. Det her vil jeg gentage."
 - Gem screenshot af de tre bedst-performende opslag — brug dem som referencepunkt for tone og format i september
 - Tilføj fund som en note under BD28 (Efterårsklargøring)
+
+---
+
+### BD31 — Madpakke-vinklen: Surdejsboller til hverdag og skoletaske
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Brug skolestart som anledning til at positionere surdejsbollerne aktivt som et hverdagsvalg til madpakker. Mange forældre tænker over madpakkerne op til skolestart — surdejsboller er mere mættende end industrielt sandwichbrød og et ærligt alternativ til tomme kulhydrater.
+
+**Hvorfor det virker:** Madpakken er en daglig beslutning for familier med børn. En surdejsbolle holder sig frisk ved stuetemperatur i 1–2 dage, er nem at have med og mætter bedre end gærhævet brød (lavere glykæmisk indeks, resistent stivelse). Det er en ny brugsvinkel, der ikke kræver et nyt produkt — kun ny kommunikation.
+
+**Sådan gøres det:**
+- Lav ét Social Media-opslag med madpakke-vinklen i uge 32–33 (primo august) — brug O52's frysertip som fundament
+- Tilføj én linje til hjemmesiden: "Gode til morgenmad og madpakken"
+- Fremhæv frysningsmulighederne aktivt: bestil et hold, frys dem, tag én ud om aftenen
+
+**Copy til Social Media-opslag (klar til brug):**
+> Skolestart er om et par uger.
+>
+> En surdejsbolle mætter bedre end en skive toastbrød. Fermenteringen sænker brødets glykæmiske indeks — sukkeret optages langsommere, og man er mæt til frikvarteret.
+>
+> Frys dem ned den dag du henter dem. Tag én ud aftenen inden. Den er frisk om morgenen.
+>
+> Bestil via linket i bio.
 
 ---
 

@@ -185,3 +185,15 @@ End of every session: update claude.md with new learnings
   - **BD30** — Evaluer sommeren: Hvad virkede, og hvad bør gentages (intern performancereview primo august)
 - Ny indsigt: D-A-D spiller på Tråden i Middelfart lørdag 22. august 2026 (kilde: WebSearch)
 - Ny indsigt: Dansk madkultur 2026 — reduceret sukker og lokale råvarer som hverdagspraksis er dominerende tendenser (kilde: Madison/madtrends-2026)
+
+## Automatisk månedlig opdatering — 2026-07-27
+- Bot-kørslen arkiverede 0 idéer (ingen opfyldte arkiveringskriterierne)
+- 5 nye idéer tilføjet baseret på research (surdejsteknik/teksturtrend, discard/nul-spild, skolestart-transition, august-overblik, madpakke-vinkel):
+  - **A25** — Rutinen starter igen (Meta ad til skolestart-transition, kør ultimo juli – primo august)
+  - **NL30** — August er her — her er hvad der sker (overbliksbrev med augustkalender: Hindsgavl, D-A-D, Klimafolkemødet)
+  - **O59** — Knaset: Hvad der sker i skorpen (teknisk nørdet om maillard/damp/tekstur — teksturtrend 19% vækst i 2026)
+  - **O60** — Discarden: Hvad sker der med det der tages ud? (zero-waste/discard-trend — pandekager, knækbrød, vafler)
+  - **BD31** — Madpakke-vinklen: Surdejsboller til hverdag og skoletaske (ny brugsvinkel til skolestart)
+- Ny indsigt: Consumer interest in crunchy textures up 19% in 2026 (kilde: Accio/Bread Trends 2026)
+- Ny indsigt: Sourdough discard/zero-waste baking er en voksende trend i 2026 — nul-spild som indholdsvinkel (kilde: deliveryrank.com/bakingstarter.com)
+- Ny indsigt: Copenhagen Cooking 2026 afholdes 21.–30. august i København med æblet som tema
