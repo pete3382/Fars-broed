@@ -197,3 +197,16 @@ End of every session: update claude.md with new learnings
 - Ny indsigt: Consumer interest in crunchy textures up 19% in 2026 (kilde: Accio/Bread Trends 2026)
 - Ny indsigt: Sourdough discard/zero-waste baking er en voksende trend i 2026 — nul-spild som indholdsvinkel (kilde: deliveryrank.com/bakingstarter.com)
 - Ny indsigt: Copenhagen Cooking 2026 afholdes 21.–30. august i København med æblet som tema
+
+## Automatisk månedlig opdatering — 2026-08-01
+- Bot-kørslen arkiverede 0 idéer (ingen opfyldte arkiveringskriterierne)
+- 5 nye idéer tilføjet baseret på research (surdejsteknik/teksturkontrast, NiMe-mikrobiomforskning, Gelsted Marked, dansk lokalheds-trend):
+  - **A26** — Gelsted Marked 2026 (Meta ad 9.–12. august, Fyns største marked 13.–16. august)
+  - **NL31** — Fermentering som det nye grundkøkken (NiMe-diet, Probiota 2026, send primo august)
+  - **O61** — Det første bid (teksturkontrast: sprød skorpe + sej krumme, surdej som supertrend)
+  - **O62** — Lavet i Danmark. Bagt i Middelfart. (dansk lokalheds-signal som kvalitetsstempel)
+  - **BD32** — Gelsted Marked: Undersøg mulighed for stand eller salgspunkt (fysisk tilstedeværelse)
+- Ny indsigt: Gelsted Marked afholdes 13.–16. august 2026 — et af Fyns største markeder med 350+ handlende (kilde: VisitMiddelfart.com)
+- Ny indsigt: NiMe-diet (Non-industrialized Microbiome Restore) fra Probiota 2026 — fermenterede fødevarer positioneres som klinisk relevant for tarmflora-diversitet (kilde: NutraIngredients/Probiota 2026)
+- Ny indsigt: Surdej bekræftet som global supertrend i 2026 — markedet vurderet til USD 4,9 mia, vækst mod USD 7,35 mia i 2034 (kilde: Fortune Business Insights / Puratos Taste Tomorrow)
+- Ny indsigt: "Danskhed" som kvalitetssignal — dansk forbrugerforskning 2026 viser at lokal oprindelse er en stærk tillids- og kvalitetsdriver (kilde: Innova Market Insights)
