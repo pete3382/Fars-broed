@@ -1443,6 +1443,30 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### A26 — Gelsted Marked 2026
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce
+**Placering:** Facebook & Instagram feed, målrettet Middelfart + 25 km radius
+**Objektiv:** Sales → HubSpot bestillingsformular
+**Visuel:** Friskbagte surdejsboller i en brun papirpose, sat frem på et bord i varmt augustlys. Simpelt og appetitligt.
+
+> **Timing:** Gelsted Marked afholdes 13.–16. august 2026. Kør annoncen 9.–12. august. Verificér datoer på VisitMiddelfart.com inden publicering.
+
+**Overskrift:** Gelsted Marked er i næste uge — og vi bager
+
+**Primær tekst:**
+> Fyns største marked er i Gelsted den 13.–16. august.
+>
+> En god markedsdag kræver en god start. Friskbagte surdejsboller til afhentning på Tyttebærkvisten — bestil inden lørdag den 11. august.
+
+**CTA-knap:** Bestil nu
+
+---
+
 ## Newsletter (HubSpot Free)
 
 ### Hvad du har på gratisplanen
@@ -2354,6 +2378,39 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL31 — Fermentering som det nye grundkøkken
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — send primo august 2026
+**Formål:** Vidensmail der sætter surdejsbollerne i et større videnskabeligt perspektiv — ny forskning på fermentering og mikrobiom, fortalt i letforståeligt sprog
+**Visuel:** Nærbillede af aktiv, boblende surdej i en glasburk — varmt morgenlys.
+
+**Kilde:** [From pills to plates: major health-promoting potential of microbiome diets — NutraIngredients / Probiota 2026](https://www.nutraingredients.com/Article/2026/01/14/from-pills-to-plates-major-health-promoting-potential-of-microbiome-diets-and-fermented-foods/)
+
+**Emnelinje:** Fermentering er ikke en trend. Det er det, der manglede.
+**Preheader:** Hvad ny forskning siger om det vi allerede vidste
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Et nyt begreb hedder NiMe — Non-industrialized Microbiome Restore. Det er ikke en diæt. Det er en hypotese: at det industrielle fødevaresystem de seneste årtier har udhulet diversiteten i vores tarmflora — og at gærede fødevarer er den mest direkte vej til at genoprette den.
+>
+> Det er præsenteret på Probiota 2026, en af de ledende europæiske konferencer for mikrobiomforskning. Pointen er enkel: fermenterede fødevarer er ikke tilbehør. De er det, der manglede fra vores kost.
+>
+> Hvad det har med dine boller at gøre? Rigtig surdej — lavet med en levende starter, hævet over lang tid — er en af de fødevarer, der bringer aktive mikrobielle processer med. Det er ikke det samme som et brød med „surdejssmag" tilsat eddikesyre.
+>
+> Bollerne er de samme som altid. Det er bare videnskaben, der begynder at forstå, hvad de gør.
+>
+> [Bestil nu →]
+>
+> Mange hilsener,
+> [Navn]
+
+---
+
 ### O41 — Middelfart Jazz Festival
 
 **Kvalitet:** `[ ]` God `[ ]` Dårlig
@@ -2818,6 +2875,52 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 > Den aktive surdej er bagkroppen. Discarden er alt det andet, den kan.
 >
 > Bestil bollerne via linket i bio.
+
+---
+
+### O61 — Det første bid
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Reel (10–15 sek.) eller statisk nærbillede
+**Visual:** Ekstremt nærbillede af en hånd der river en friskbagt surdejsbolle over — den sprøde, mørke skorpe knækker, den åbne seje krumme trækker sig. Ingen musik, kun lyden af skorpen.
+
+**Kilde:** [Sourdough moves from niche to supertrend in 2026 — Prism Media](https://www.prismedia.ai/news/sourdough-moves-from-niche-trend-to-bakery-supertrend-in-2026)
+
+**Caption:**
+> Det er kontrasten, der gør det.
+>
+> En sprød, karamelliseret skorpe. En sej, åben krumme. To teksturer i ét bid — og det er præcis den kontrast, der adskiller et rigtigt surdejsbrød fra alt andet.
+>
+> Skorpen dannes, når stivelse og sukker i melet karamelliserer under høj varme og damp. Krummen opstår, fordi glutennetværket er stærkt nok til at holde på de gasbobler, surdejen producerer under lang fermentering.
+>
+> De to ting kan ikke skilles ad.
+>
+> Bestil via linket i bio.
+
+---
+
+### O62 — Lavet i Danmark. Bagt i Middelfart.
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede
+**Visual:** En friskbagt surdejsbolle holdt frem i to hænder — Middelfart-havn, en lokal park, eller et hverdagsligt dansk køkken i morgenlys som baggrund. Naturligt og uiscenesæt.
+
+**Kilde:** [Consumer food trends in Denmark — Innova Market Insights](https://www.innovamarketinsights.com/trends/consumer-food-trends-in-denmark/)
+
+**Caption:**
+> Dansk mad er bedre, når du ved, hvem der lavede den.
+>
+> Forbrugerforskning viser, at lokalt produceret mad i Danmark signalerer kvalitet og tillid på en måde, ingen mærkning kan erstatte. Det handler om, at folk gerne vil vide, hvem der rørte ved det, de spiser.
+>
+> Fars Brød bages på Tyttebærkvisten i Middelfart. Et hold ad gangen. Fire ingredienser. Ingen fabrik.
+>
+> Bestil via linket i bio.
 
 ---
 
@@ -3309,6 +3412,24 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 > Frys dem ned den dag du henter dem. Tag én ud aftenen inden. Den er frisk om morgenen.
 >
 > Bestil via linket i bio.
+
+---
+
+### BD32 — Gelsted Marked: Undersøg mulighed for stand eller salgspunkt
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Gelsted Marked afholdes 13.–16. august 2026 og er et af Fyns største markeder med 350+ handlende og stor folkelig opbakning. Det er en potentiel salgskanal for Fars Brød — enten som stand med friskbagte boller til salg, eller som samarbejdspartner med en allerede etableret madstandholder.
+**Hvorfor det virker:** Markedet samler præcis den målgruppe, der er åben for lokal håndværksproduktion: familier fra Fyn og omegn, der aktivt søger lokale madvarer. En prøvesmag er det bedste salgsargument. Synlighed på markedet giver en ny kundekreds, der ellers ikke ville finde Fars Brød via sociale medier.
+**Sådan gøres det:**
+- Tjek udstillerpris og regler på VisitMiddelfart.com eller Gelsted Marked-arrangørens hjemmeside [ikke verificeret — tjek inden handling]
+- Vurder om det er praktisk muligt at bage et ekstra hold til markedsdagene
+- Alternativt: kontakt en eksisterende madstandholder om at sælge bollerne via dem
+- Hav en seddel klar med QR-kode til bestillingsformularen til folk, der vil bestille fremover
+
+> **Timing:** Gelsted Marked er 13.–16. august 2026. Kontakt arrangøren senest primo august hvis du vil deltage med stand. Verificér datoer og udstilleroplysninger på arrangørens hjemmeside.
 
 ---
 
