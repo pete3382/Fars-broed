@@ -210,3 +210,15 @@ End of every session: update claude.md with new learnings
 - Ny indsigt: NiMe-diet (Non-industrialized Microbiome Restore) fra Probiota 2026 — fermenterede fødevarer positioneres som klinisk relevant for tarmflora-diversitet (kilde: NutraIngredients/Probiota 2026)
 - Ny indsigt: Surdej bekræftet som global supertrend i 2026 — markedet vurderet til USD 4,9 mia, vækst mod USD 7,35 mia i 2034 (kilde: Fortune Business Insights / Puratos Taste Tomorrow)
 - Ny indsigt: "Danskhed" som kvalitetssignal — dansk forbrugerforskning 2026 viser at lokal oprindelse er en stærk tillids- og kvalitetsdriver (kilde: Innova Market Insights)
+
+## Automatisk månedlig opdatering — 2026-08-02
+- Bot-kørslen arkiverede 0 idéer (ingen opfyldte arkiveringskriterierne)
+- 5 nye idéer tilføjet baseret på research (high-protein trend, solformørkelse 12. aug, efterårsskifte, sensommerbrev, rugmel-variant):
+  - **O63** — Frøene giver dig mere end knas (karrusel, high-protein trend 2026 +17%)
+  - **O64** — Solformørkelsen 12. august (Story/statisk, lokal anledning, post 10.–11. aug)
+  - **A27** — September nærmer sig — start den godt (Meta ad, overgang sommer→hverdag)
+  - **NL32** — Sommer er ved at ebbe ud (personligt augustbrev, send 9.–13. august)
+  - **BD33** — Rugmel-variant til efteråret: Test en ny produktidé (sæsonvariant, fiber-trend 2026)
+- Ny indsigt: Solformørkelse delvist synlig over Danmark 12. august 2026 (kilde: lex.dk)
+- Ny indsigt: High-protein bagværk er den hurtigst voksende trend i 2026 — samtaler om proteinrigt bagværk vokser 17% YoY (kilde: Chewco / Accio Bread Trends 2026)
+- Ny indsigt: Fiber er den største maddagsorden i Danmark 2026 — "Fiber, kål og kødet er tilbage" (kilde: Mandekogebogen.dk)

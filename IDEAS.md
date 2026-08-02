@@ -1467,6 +1467,30 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### A27 — September nærmer sig — start den godt
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce
+**Placering:** Facebook & Instagram feed, målrettet Middelfart + 20 km radius
+**Objektiv:** Sales → HubSpot bestillingsformular
+**Visuel:** En friskbagt surdejsbolle på et morgenbord i det gyldne sensommerlys — en kop kaffe ved siden, varmt og hjemligt udtryk. Intet der haster — alt der signalerer ro og rutine.
+
+> **Timing:** Kør primo august – primo september, mens overgangen fra sommerferie til hverdagsrytme er aktuel.
+
+**Overskrift:** September nærmer sig — start den godt
+
+**Primær tekst:**
+> Sommerferien er snart slut. Mandagsmorgenen er lige om hjørnet.
+>
+> Friskbagte surdejsboller fra Middelfart — fire ingredienser, lang hævetid, ingen tilsætningsstoffer. Bestil til weekenden og giv hverdagen et godt afsæt.
+
+**CTA-knap:** Bestil nu
+
+---
+
 ## Newsletter (HubSpot Free)
 
 ### Hvad du har på gratisplanen
@@ -2411,6 +2435,39 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL32 — Sommer er ved at ebbe ud
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — send ca. 9.–13. august 2026
+**Formål:** Personlig augusthilsen i overgangen fra sommer til hverdag — refleksiv, ægte og med blik fremad mod september og nye rutiner
+**Visuel:** Simpelt produktfoto i augustlys — boller på et bord udendørs i det gyldne, lave lys.
+
+**Emnelinje:** Sommer er ved at ebbe ud — og det er okay
+**Preheader:** Et brev fra køkkenet
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Vi er i august. De lange aftener holder endnu — men lyset er anderledes nu. Lavere. Varmere. Det er den del af sommeren, jeg holder mest af.
+>
+> I køkkenet mærker man det også. Surdejen er aktiv og hurtig i varmen. Dejen er blødere end om vinteren. Men det begynder at føles, som om tingene snart falder på plads igen.
+>
+> September er den måned, man bygger nye rutiner. For mange er det nu, de tænker over morgenerne: hvad der skal stå på bordet, hvad der virker til en travl uge, hvad der er værd at gøre sig umage med.
+>
+> Bollerne er klar. Fire ingredienser, en nat på køl, bagt i hånden. Det er det samme som altid.
+>
+> Bestil til din næste weekend. Vi aftaler afhentning, når du har bestilt.
+>
+> [Bestil nu →]
+>
+> God sensommer,
+> [Navn]
+
+---
+
 ### O41 — Middelfart Jazz Festival
 
 **Kvalitet:** `[ ]` God `[ ]` Dårlig
@@ -2924,6 +2981,55 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### O63 — Frøene giver dig mere end knas
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karrusel (3–4 slides)
+**Visual:** Slide 1: nærbillede oppefra af en friskbagt surdejsbolle — sesamfrø, solsikkefrø og hørfrø tydeligt synlige på overfladen i naturligt morgenlys. Slide 2–3: varm cremefarvet baggrund med stor mørk tekst. Slide 4: friskbagte boller på en rist.
+
+**Kilde:** [High-Protein Sourdough Bread: The Fastest-Growing Innovation in the U.S. Bakery Market — Chewco](https://www.chewco.co/High-Protein-Sourdough-Bread-The-Fastest-Growing-Innovation-in-the-US-Bakery-Market)
+
+**Slide 1:** Frøene er ikke dekoration.
+**Slide 2:** Sesamfrø indeholder ca. 5g protein per 30g. Hørfrø: ca. 5,1g. Solsikkefrø: ca. 5,5g. Et drys af alle tre giver en bolle med markant mere protein end en standard surdejsbolle — og frøene ristes let under bagningen, som øger tilgængeligheden af de umættede fedtsyrer.
+**Slide 3:** Protein er den hurtigst voksende ernæringstrend i bagværk i 2026. Samtaler om proteinrigt bagværk vokser med 17% på årsbasis. Bollerne fra Fars Brød har altid haft frøene — det er ikke noget nyt. Men det er godt at vide.
+**Slide 4:** Frø. Surdej. Fire ingredienser. Bagt i hånden i Middelfart. Bestil via linket i bio.
+
+**Caption:**
+> Frøene sidder ikke bare der for syns skyld.
+>
+> Sesamfrø, solsikkefrø og hørfrø giver tilsammen et naturligt proteintilskud per bolle — uden tilsætningsstoffer og uden proteinpulver. Under bagning ristes frøene let, som øger tilgængeligheden af de umættede fedtsyrer i dem.
+>
+> Protein er den hurtigst voksende trend i bagværk i 2026. Bollerne fra Fars Brød har altid haft dem. Det er ikke nyt — men det er godt at vide.
+>
+> Bestil via linket i bio.
+
+---
+
+### O64 — Solformørkelsen: 12. august
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Story eller statisk billede
+**Visual:** En surdejsbolle i dramatisk sidelys — mørk baggrund, lyset kun fra siden, skorpens karamelliserede overflade fremhævet. Stille og næsten teatralsk. Ingen rekvisitter.
+
+> **Timing:** Post 10.–11. august. Solformørkelsen over Danmark er 12. august 2026. Verificér synlighed i dit område inden publicering.
+
+**Caption:**
+> Den 12. august formørkes solen delvist over Danmark.
+>
+> En sjælden begivenhed. Bollerne bages tidligt om morgenen — inden solen er helt fremme. Det er det eneste, der ikke ændrer sig.
+>
+> Bestil inden tirsdag den 10. august. Afhentning på Tyttebærkvisten.
+>
+> Bestil via linket i bio.
+
+---
+
 ## Generel forretningsudvikling
 
 ---
@@ -3430,6 +3536,26 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 - Hav en seddel klar med QR-kode til bestillingsformularen til folk, der vil bestille fremover
 
 > **Timing:** Gelsted Marked er 13.–16. august 2026. Kontakt arrangøren senest primo august hvis du vil deltage med stand. Verificér datoer og udstilleroplysninger på arrangørens hjemmeside.
+
+---
+
+### BD33 — Rugmel-variant til efteråret: Test en ny produktidé
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Undersøg muligheden for at introducere en rugmel-variant af surdejsbollen i efterårssæsonen (september–november). Rugmel tilføjer fiber, en mere markant surdejssmag og en mørk, robust krumme — det passer naturligt til efterårets tungere morgenbord. Det er en variant, ikke et nyt produkt: samme teknik, samme surdejsstarter, men med 20–30% rugmel i blandingen.
+
+**Hvorfor det virker:** Fiber er den største maddagsorden i Danmark i 2026. En rugvariant appellerer til det segment, der allerede er overbevist om surdej, men ønsker noget tungere og mere sæsonrelevant. Efteråret er det naturlige tidspunkt — rugbrød og rugmel er kulturelt forankret i den mørke del af danskernes køkken. En begrænset testsæson (oktober–november) giver data uden at forpligte sig til et permanent sortiment.
+
+**Hvad der skal afklares:**
+- Opskrift: Hvad er det ideelle rugmelsforhold (20%? 30%)? Test 2–3 varianter.
+- Hævetid: Rugmel optager mere vand og hæver anderledes — forlænget koldhævning anbefales.
+- Pris: Rugmel er billigere end hvedemel, men produktet bør ikke prissættes lavere. Rugbrødets kulturelle status understøtter samme eller lidt højere pris.
+- Kommunikation: "Sæsonbolle med rugmel" — kun tilgængeligt i 8 uger. Kommunikeres som noget begrænset, ikke som en permanent udvidelse.
+
+**Kilde:** [De største madtrends i 2026: Fiber, kål og kødet er tilbage — Mandekogebogen.dk](https://mandekogebogen.dk/de-stoerste-madtrends-i-2026-fiber-kaal-og-koedet-er-tilbage/)
 
 ---
 
