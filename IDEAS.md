@@ -1491,6 +1491,32 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### A28 — Fredericia Streetfood Festival: Og bagefter noget der holder
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce
+**Placering:** Facebook & Instagram feed, målrettet Middelfart + 40 km radius
+**Objektiv:** Sales → HubSpot bestillingsformular
+**Visuel:** Friskbagte surdejsboller i en brun papirpose i morgenlys — enkelt og appetitligt. Ingen festivalreferencer i billedet.
+
+> **Timing:** Fredericia Streetfood Festival er ca. 5.–8. september 2026. Kør annoncen 1.–4. september. Verificér datoer på fredericiashopping.dk inden publicering.
+
+**Overskrift:** Og bagefter — noget der holder
+
+**Primær tekst:**
+> Fredericia Streetfood Festival er en god anledning til at smage meget.
+>
+> Men der er noget ved fire ingredienser og en nat på køl, der holder sig anderledes. Surdejsboller fra Fars Brød — bagt i hånden i Middelfart, klar til afhentning på Tyttebærkvisten.
+>
+> Bestil til weekenden.
+
+**CTA-knap:** Bestil nu
+
+---
+
 ## Newsletter (HubSpot Free)
 
 ### Hvad du har på gratisplanen
@@ -2468,6 +2494,37 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL33 — Det køle i luften
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — send 1.–3. september 2026
+**Formål:** Sæsonhilsen der markerer overgangen fra sommer til efterår og genaktiverer listen til hverdagsrytme
+**Visuel:** Boller på et morgenbord i det tidlige, kølige septemberlys. Simpelt og autentisk.
+
+**Emnelinje:** Det køle i luften — og bollerne er klar
+**Preheader:** September er bagerens bedste måned
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Der er noget i luften i september.
+>
+> Morgenerne er køligere. Lyset er lavere. Surdejsdejen hæver langsommere — og smagsmæssigt runder den lidt af. Koldere fermentering favoriserer mælkesyren frem for eddikesyren. Det giver en blødere, mere afdæmpet smag end sommerens boller.
+>
+> Det er en af de ting, man ikke lægger mærke til. Men som sidder i det bid, der smager rigtigt.
+>
+> Bollerne er klar. Bestil til din første uge med ordentlige morgener.
+>
+> [Bestil nu →]
+>
+> God start på efteråret,
+> [Navn]
+
+---
+
 ### O41 — Middelfart Jazz Festival
 
 **Kvalitet:** `[ ]` God `[ ]` Dårlig
@@ -3030,6 +3087,48 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### O65 — Hvad kulden gør ved surdejen
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karrusel (3–4 slides)
+**Visual:** Slide 1: et termometer ved siden af en glasburk med surdej i køligere morgenlys — efterårsagtig stemning. Slide 2–3: varm cremefarvet baggrund med stor mørk tekst, én pointe pr. slide. Slide 4: friskbagte boller på en rist.
+
+**Caption:**
+> September er bagerens mest loyale måned.
+>
+> Temperaturen falder. Surdejen opfører sig anderledes. Om sommeren arbejder mælkesyrebakterierne hurtigt — fermenteringen er aggressiv og kræver tæt opmærksomhed. Om efteråret sænkes aktiviteten naturligt. Dejen kan hvile lidt længere på køl uden at oversyre.
+>
+> Det giver en anden smag. Koldere fermentering favoriserer mælkesyren — den runde, milde smag — frem for eddikesyren, der dominerer i varmen. Efterårsbollerne er lidt mere afdæmpede. Ikke svagere. Bare anderledes.
+>
+> Fire ingredienser. Et ændret vejr. Bagt i hånden i Middelfart.
+>
+> Bestil via linket i bio.
+
+---
+
+### O66 — September: Frisk start, langsom morgen
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede
+**Visual:** Surdejsboller på et morgenbord i lavt, køligt septemberlys — en damp-fyldt kop kaffe i billedets kant. Lyset er blødere og mere sidelyst end sommerlyset. Ingen iscenesættelse.
+
+**Caption:**
+> September er den bedste måned til en langsom morgenmad.
+>
+> Ikke fordi du har mere tid — men fordi morgenerne endelig er tilpas kølige til, at det føles rigtigt. En friskbagt bolle, en varm kop og ingen hastværk.
+>
+> Jeg bager videre. Fire ingredienser, natten over på køl, bagt i hånden.
+>
+> Bestil via linket i bio.
+
+---
+
 ## Generel forretningsudvikling
 
 ---
@@ -3556,6 +3655,23 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 - Kommunikation: "Sæsonbolle med rugmel" — kun tilgængeligt i 8 uger. Kommunikeres som noget begrænset, ikke som en permanent udvidelse.
 
 **Kilde:** [De største madtrends i 2026: Fiber, kål og kødet er tilbage — Mandekogebogen.dk](https://mandekogebogen.dk/de-stoerste-madtrends-i-2026-fiber-kaal-og-koedet-er-tilbage/)
+
+---
+
+### BD34 — Fredericia Streetfood Festival: Nå ud til en ny målgruppe
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Fredericia Streetfood Festival (ca. 5.–8. september 2026) afholdes 30 km fra Middelfart og samler et fødevareinteresseret publikum fra hele Trekantområdet. Brug festivaltidspunktet til en koordineret kommunikationsindsats: Meta-annonce (A28) med radius-targeting 40 km og eventuelt en fysisk tilstedeværelse med seddel og QR-kode til bestillingsformularen.
+**Hvorfor det virker:** Streetfood-festivaler samler folk, der aktivt opsøger madoplevelser og er åbne for nye producenter. Det er præcis den målgruppe, der sætter pris på fire ingredienser, lokal produktion og håndværk. En annonce der positionerer Fars Brøds boller som „det der holder" efter festivalens overforbrug, er en stærk kontrastvinkel.
+**Sådan gøres det:**
+- Kør A28 (Meta ad) 1.–4. september med 40 km radius
+- Overvej at tage visitkort eller QR-kort med til festivalen, hvis du alligevel er til stede som gæst
+- Verificér festivalens datoer og program på fredericiashopping.dk inden publicering
+
+> **Bemærk:** Datoer ikke verificeret i denne session — tjek inden handling.
 
 ---
 
