@@ -222,3 +222,15 @@ End of every session: update claude.md with new learnings
 - Ny indsigt: Solformørkelse delvist synlig over Danmark 12. august 2026 (kilde: lex.dk)
 - Ny indsigt: High-protein bagværk er den hurtigst voksende trend i 2026 — samtaler om proteinrigt bagværk vokser 17% YoY (kilde: Chewco / Accio Bread Trends 2026)
 - Ny indsigt: Fiber er den største maddagsorden i Danmark 2026 — "Fiber, kål og kødet er tilbage" (kilde: Mandekogebogen.dk)
+
+## Automatisk månedlig opdatering — 2026-08-03
+- Bot-kørslen arkiverede 0 idéer (ingen opfyldte arkiveringskriterierne)
+- 5 nye idéer tilføjet baseret på research (efterårsskifte/surdejstemperatur, Fredericia Streetfood Festival, september-sæson):
+  - **A28** — Fredericia Streetfood Festival (Meta ad, radius 40 km, kør 1.–4. september)
+  - **NL33** — Det køle i luften (september-sæsonbrev, send 1.–3. september)
+  - **O65** — Hvad kulden gør ved surdejen (teknisk nørdet, sommer→efterår-overgang)
+  - **O66** — September: Frisk start, langsom morgen (sæsonstatisk, efterårsmorgen)
+  - **BD34** — Fredericia Streetfood Festival: Nå ud til en ny målgruppe (koordineret sept-indsats)
+- Ny indsigt: Fredericia Streetfood Festival afholdes ca. 5.–8. september 2026 (~30 km fra Middelfart, Trekantområdet) — kilde: fredericiashopping.dk
+- Ny indsigt: Food Festival Aarhus 2026 (4.–6. sept) har æblet som årets råvare — første gang det er en frugt (kilde: Things to Do in Denmark)
+- Ny indsigt: Koldere vejr favoriserer mælkesyre frem for eddikesyre i surdejsfermentering — efterårsbollerne smagsmæssigt rundere og mildere end sommerboller
