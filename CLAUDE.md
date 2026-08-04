@@ -234,3 +234,16 @@ End of every session: update claude.md with new learnings
 - Ny indsigt: Fredericia Streetfood Festival afholdes ca. 5.–8. september 2026 (~30 km fra Middelfart, Trekantområdet) — kilde: fredericiashopping.dk
 - Ny indsigt: Food Festival Aarhus 2026 (4.–6. sept) har æblet som årets råvare — første gang det er en frugt (kilde: Things to Do in Denmark)
 - Ny indsigt: Koldere vejr favoriserer mælkesyre frem for eddikesyre i surdejsfermentering — efterårsbollerne smagsmæssigt rundere og mildere end sommerboller
+
+## Automatisk månedlig opdatering — 2026-08-04
+- Bot-kørslen arkiverede 0 idéer (ingen opfyldte arkiveringskriterierne)
+- 5 nye idéer tilføjet baseret på research (heritage korn-renæssance, surdejskemi mælkesyre/eddikesyre, mandagsmorgen-overgang, august personligt brev, ølandshvede produkttest):
+  - **A29** — Mandagsmorgenerne er på vej igen (Meta ad, overgang sommerferie→hverdagsrytme, primo aug–primo sept)
+  - **NL34** — August i køkkenet (personlig augusthilsen fra bagerperspektiv, send 4.–7. august)
+  - **O67** — De gamle korn vender tilbage (karrusel, ølandshvede/spelt/emmer, heritage grain-renæssance)
+  - **O68** — To syrer. Et bid. (teknisk nørdet, mælkesyre vs eddikesyre, sæsonvariation i surdej)
+  - **BD35** — Ølandshvede-variant: Test en premium efterårsbolle (ny produkttest, 20–30% ølandshvede)
+- Ny indsigt: Heritage korn (ølandshvede, spelt, emmer) oplever renæssance i 2026 — forbrugere forbinder dem med autenticitet og lokale råvarer (kilde: BKD madtendenser-2025)
+- Ny indsigt: Ølandshvede absorberer anderledes end standardhvede — hydreringsjustering nødvendig ved test
+- Ny indsigt: Fytinsyreindhold i ølandshvede reduceres effektivt af surdejsfermentering — mineraloptagelse forbedres (faglig vinkel til indhold)
+- Ny indsigt: Arabinoxylaner i kerner er et kommende funktionelt ingrediens-fokusområde i 2026 — relevant for teknisk indhold om fuldkorn

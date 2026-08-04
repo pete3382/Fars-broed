@@ -1517,6 +1517,32 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### A29 — Mandagsmorgenerne er på vej igen
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce
+**Placering:** Facebook & Instagram feed, målrettet Middelfart + 20 km radius
+**Objektiv:** Sales → HubSpot bestillingsformular
+**Visuel:** En friskbagt surdejsbolle på et morgenbord i det gyldne augustlys — en kop kaffe ved siden. Hjemligt og roligt. Ingen hastværk i billedet.
+
+> **Timing:** Kør primo august – primo september, i overgangen fra sommerferie til hverdagsrytme.
+
+**Overskrift:** Mandagsmorgenerne er på vej igen
+
+**Primær tekst:**
+> Hverdagsrytmen starter snart. Mandagsmorgen, skoletaske, rutinen.
+>
+> En friskbagt surdejsbolle giver mandagen et godt fundament. Bagt i hånden i Middelfart. Fire ingredienser, ingen tilsætningsstoffer.
+>
+> Bestil til fredag — og start den næste uge rigtigt.
+
+**CTA-knap:** Bestil nu
+
+---
+
 ## Newsletter (HubSpot Free)
 
 ### Hvad du har på gratisplanen
@@ -2525,6 +2551,39 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL34 — August i køkkenet
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — send 4.–7. august 2026
+**Formål:** Personlig augusthilsen fra bagerens perspektiv — sæsonaktuel, ægte, ingen hard sell
+**Visuel:** Et simpelt produktfoto i augustmorgenens gyldne sidelys — boller på et bord, intet ekstra.
+
+**Emnelinje:** August i køkkenet — og hvad jeg lægger mærke til
+**Preheader:** Et par ord om dejen, vejret og det der er på vej
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> August er en mærkelig god måned at bage i.
+>
+> Morgenerne er stadig lyse, men lyset er anderledes — lavere, varmere og mere sidelyst end om sommeren. Dejen opfører sig stadig aktivt, men man begynder at mærke, at temperaturen langsomt sniger sig ned. Fermenteringen tager lidt længere tid end for tre uger siden.
+>
+> Det er den slags ting, man kun opdager, hvis man bager i samme køkken, hele året rundt. Sæsonen skifter ikke dramatisk. Den siver.
+>
+> Bollerne er de samme. Fire ingredienser, en nat på køl, bagt i hånden. Men august-bollerne smager en anelse rundere end julis — fordi mælkesyren begynder at tage lidt mere over fra eddikesyren, når temperaturen falder.
+>
+> Bestil til din næste weekend. Vi aftaler afhentning på Tyttebærkvisten, når du har bestilt.
+>
+> [Bestil nu →]
+>
+> God august fortsat,
+> [Navn]
+
+---
+
 ### O41 — Middelfart Jazz Festival
 
 **Kvalitet:** `[ ]` God `[ ]` Dårlig
@@ -3129,6 +3188,57 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### O67 — De gamle korn vender tilbage
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karrusel (4 slides)
+**Visual:** Slide 1: tre skåle med forskelligt mel side om side — hvidt hvedemel, let gulligt speltmel og et mørkere fuldkornsmel — på en mørk trioverflade i naturligt lys. Slide 2–3: varm cremefarvet baggrund med stor mørk tekst, én pointe pr. slide. Slide 4: friskbagte boller på en rist.
+
+**Kilde:** [Renæssancen for gamle kornsorter i dansk bagning — BKD](https://bkd.dk/madtendenser-2025/) / [Ølandshvede og surdejsbagning — Hjemmeriet](https://hjemmeriet.com/da/visprodukt.php?id=1212)
+
+**Slide 1:** Det var ikke det moderne hvede, der fik nordisk brød til at smage af noget.
+**Slide 2:** Ølandshvede, spelt og emmer er gamle skandinaviske kornsorter, der i årtier var fortrængt af højtydende industrihvede. Nu vender de tilbage. Bagere og møllere genopdager dem — fordi de indeholder mere protein, flere mineraler og en smagsdybde, der ikke lader sig optimere bort.
+**Slide 3:** De samarbejder godt med surdej. Enzymer og mælkesyrebakterier arbejder under den lange fermentering og frigiver smag og næringsstoffer, der sidder bundet i de gamle kornsorter. Kombinationen er enkel. Resultatet er anderledes.
+**Slide 4:** Fars Brød bager med stærkt hvedemel. Men de gamle korn er en del af den tradition, vi kan lide at kende til. Fire ingredienser. Bagt i hånden i Middelfart. Bestil via linket i bio.
+
+**Caption:**
+> Det var ikke det moderne hvede, der fik nordisk brød til at smage af noget.
+>
+> Ølandshvede, spelt og emmer er gamle skandinaviske kornsorter. De har naturligt mere protein og flere mineraler end den højtydende industrihvede, der tog over i det meste af 1900-tallet. Nu vender de tilbage — fordi bagere og forbrugere begynder at mærke forskellen.
+>
+> De samarbejder godt med surdej. Fermenteringens enzymer nedbryder strukturerne i de gamle korn og frigiver smag og næringsstoffer på en måde, standard industrihvede ikke kan matche.
+>
+> Det er en tradition, vi kan lide at holde øje med.
+>
+> Bestil via linket i bio.
+
+---
+
+### O68 — To syrer. Et bid.
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karrusel (3 slides) eller statisk billede
+**Visual:** Slide 1: nærbillede af en surdejsbolle brudt åben — den åbne, luftige krumme i naturligt morgenlys. Slide 2: varm cremefarvet baggrund med stor mørk tekst, ét nøglepunkt om mælkesyre. Slide 3: samme baggrund, ét nøglepunkt om eddikesyre. Slut med caption-pointen.
+
+**Caption:**
+> Smagen af surdej er ikke én ting. Det er to.
+>
+> Mælkesyre og eddikesyre. De dannes begge under fermenteringen — men under forskellige betingelser. Mælkesyre dannes hurtigst ved varmere temperaturer og giver den runde, milde smag. Eddikesyre dannes primært ved kolde temperaturer og lang hævetid — og giver det skarpe, markante.
+>
+> Forholdet mellem de to bestemmes af temperatur, fermentationstid og vandindhold i dejen. Intet er tilfældigt.
+>
+> Om sommeren er bollerne lidt mildere. Om efteråret lidt mere markante. Det er det, der giver surdej sin karakter fra hold til hold.
+>
+> Bestil via linket i bio.
+
+---
+
 ## Generel forretningsudvikling
 
 ---
@@ -3672,6 +3782,27 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 - Verificér festivalens datoer og program på fredericiashopping.dk inden publicering
 
 > **Bemærk:** Datoer ikke verificeret i denne session — tjek inden handling.
+
+---
+
+### BD35 — Ølandshvede-variant: Test en premium efterårsbolle
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Test en ny surdejsbollevariant med 20–30% ølandshvede blandet med standardhvede. Ølandshvede er et gammelt nordisk korn med en markant nøddeagtig smag, højere mineralindhold og god synergi med surdejsfermentering. Positionér som en sæsonvariant til efteråret — et begrænset udbud, ikke et permanent produkt.
+**Hvorfor det virker:** Heritage-korn oplever en stærk renæssance i 2026. Forbrugere forbinder ølandshvede, spelt og emmer med autenticitet, lokale råvarer og bedre næringsværdi. En efterårsvariant giver et naturligt samtaleemne, differentierer Fars Brød og tester markedet uden at forpligte på et nyt fast produkt. Fermentering fremhæver ølandshvedens mineraler og reducerer fytinsyre — der er en ægte faglig historie at fortælle.
+**Sådan gøres det:**
+- Bag en testbatch med 20% ølandshvede — juster hydrering (ølandshvede absorberer anderledes end standardhvede)
+- Sammenlign smag, skorpe og holdbarhed med standard-surdejsboller
+- Hvis resultatet er godt: Lav en begrænset efterårskørsel med kommunikation via O67 (heritage grains-post) og nyhedsbrev
+- Indhent ølandshvede hos Hjemmeriet eller en dansk mølle — verificér pris og tilgængelighed
+- Se BD33 (rugmel-variant) for parallelspor med en anden sæsonvariant
+
+**Kilde:** BKD madtendenser-2025 / Hjemmeriet ølandshvede-produktside
+
+> **Bemærk:** Priser på ølandshvede ikke verificeret i denne session — tjek inden indkøb.
 
 ---
 
