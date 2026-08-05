@@ -1543,6 +1543,32 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### A30 — Ingen tilsat sukker. Ikke én gram.
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce
+**Placering:** Facebook & Instagram feed, målrettet Middelfart + 20 km radius
+**Objektiv:** Sales → HubSpot bestillingsformular
+**Visuel:** Nærbillede af en friskbagt surdejsbolle oppefra — frøene på toppen tydeligt synlige, den karamelliserede skorpe. Ingen rekvisitter. Naturligt morgenlys.
+
+**Kilde:** [25 madtrends du skal kende i 2026 — Madison](https://madison.dk/mad/madtrends-2026/)
+
+**Overskrift:** Ingen tilsat sukker. Ikke én gram.
+
+**Primær tekst:**
+> Reduceret sukker er en af de stærkeste madtrends i Danmark i 2026.
+>
+> Surdejsboller fra Fars Brød er bagt med mel, vand, salt og surdej. Ingen tilsat sukker. Ingen tilsætningsstoffer. Lang hævetid sænker derudover det glykæmiske respons — kroppen optager kulhydraterne langsommere.
+>
+> Bagt i hånden i Middelfart. Fire ingredienser.
+
+**CTA-knap:** Bestil nu
+
+---
+
 ## Newsletter (HubSpot Free)
 
 ### Hvad du har på gratisplanen
@@ -2584,6 +2610,41 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL35 — Madfestival og bagekøkken
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — send 21.–23. august 2026
+**Formål:** Koble Fars Brød til den større madkulturelle bevægelse i Danmark, med Copenhagen Cooking som afsæt — fastholdelse og identitet
+**Visuel:** Boller i naturligt augustlys — enkelt og ægte. Ingen overproduktion.
+
+**Kilde:** [Copenhagen Cooking 2026 — copenhagencooking.dk](https://www.copenhagencooking.dk/)
+
+**Emnelinje:** Madfestivalen kører i København — og vi bager i Middelfart
+**Preheader:** To køkkener. Samme tankegang.
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Denne uge åbner Copenhagen Cooking — Nordeuropas største madfestival — dørene i København. Otte dage med topkokke, lokale producenter og det bedste af dansk gastronomi.
+>
+> Vi er ikke der.
+>
+> Men vi er en del af den samme bevægelse. Bevægelsen mod mad der er lavet med opmærksomhed — med kendskab til hvad der er i den, og respekt for den tid, det tager.
+>
+> Hos os er det fire ingredienser. En nat på køl. Bagt i hånden. Klar til afhentning på Tyttebærkvisten.
+>
+> Festivalen slutter den 30. august. Bollerne bages videre.
+>
+> [Bestil nu →]
+>
+> Mange hilsener,
+> [Navn]
+
+---
+
 ### O41 — Middelfart Jazz Festival
 
 **Kvalitet:** `[ ]` God `[ ]` Dårlig
@@ -3239,6 +3300,63 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### O69 — Copenhagen Cooking og det ægte køkken
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karrusel (3 slides) eller statisk billede
+**Visual:** Slide 1: nærbillede af en friskbagt surdejsbolle i augustmorgenens lys — simpel, ægte, ingen rekvisitter. Slide 2: varm cremefarvet baggrund, stor mørk tekst. Slide 3: boller i en brun papirpose, klar til afhentning.
+
+> **Timing:** Post i perioden 21.–30. august, mens Copenhagen Cooking kører i København. Verificér årets tema og datoer på copenhagencooking.dk inden publicering.
+
+**Kilde:** [Copenhagen Cooking 2026 — copenhagencooking.dk](https://www.copenhagencooking.dk/)
+
+**Slide 1:** København koger med madfestival. Vi bager i Middelfart.
+**Slide 2:** Copenhagen Cooking er Nordeuropas største madfestival — otte dage med topkokke, lokale producenter og det bedste af dansk gastronomi.
+**Slide 3:** Vi er ikke der. Men vi er en del af den samme bevægelse: mad der er lavet med opmærksomhed. Fire ingredienser, bagt i hånden. Den slags er ikke en trend — det er bare det, der virker.
+
+**Caption:**
+> Copenhagen Cooking løber af stablen den 21.–30. august.
+>
+> Nordeuropas største madfestival fejrer dansk gastronomi, lokale råvarer og ægte håndværk. Vi er ikke til festivalen. Men vi er en del af det samme.
+>
+> Et privat køkken i Middelfart. Fire ingredienser. Natten over på køl. Bagt i hånden.
+>
+> Det behøver ikke at være en festival for at smage godt.
+>
+> Bestil via linket i bio.
+
+---
+
+### O70 — Hvad er der i dit brød? Læs listen.
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karrusel (4 slides)
+**Visual:** Slide 1: nærbillede af en industri-brødpose med ingrediensliste — ingen branding synlig, kun den lange ingrediensliste i fokus. Slide 2: varm cremefarvet baggrund med stor mørk tekst, kun fire ord: „Mel. Vand. Salt. Surdej." Slide 3: nærbillede af frøene på toppen af en friskbagt surdejsbolle. Slide 4: boller på en rist i naturligt morgenlys.
+
+**Kilde:** [25 madtrends du skal kende i 2026 — Madison](https://madison.dk/mad/madtrends-2026/)
+
+**Slide 1:** Tag en pose brød fra supermarkedet. Læs ingredienslisten.
+**Slide 2:** Mel. Vand. Salt. Surdej. Det er hvad der er i bollerne fra Fars Brød.
+**Slide 3:** Plus sesamfrø, solsikkefrø og hørfrø — drysset på inden bagning. Det er hele listen.
+**Slide 4:** Ingen emulgatorer. Ingen konserveringsmidler. Ingen tilsat sukker. Ingen genveje. Bestil via linket i bio.
+
+**Caption:**
+> Reducerede ingredienslister er et af de stærkeste signaler i dansk madkultur i 2026.
+>
+> Bollerne fra Fars Brød har fire ingredienser. Plus frøene på toppen.
+>
+> Ingen tilsat sukker. Ingen E-numre. Ingen genveje.
+>
+> Bestil via linket i bio.
+
+---
+
 ## Generel forretningsudvikling
 
 ---
@@ -3803,6 +3921,23 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 **Kilde:** BKD madtendenser-2025 / Hjemmeriet ølandshvede-produktside
 
 > **Bemærk:** Priser på ølandshvede ikke verificeret i denne session — tjek inden indkøb.
+
+---
+
+### BD36 — Fast ugentlig bestillingsfrist til efterårssæsonen
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Indfør og kommunikér en fast ugentlig bestillingsfrist til efterårssæsonen — f.eks. onsdag kl. 20 som deadline for fredag/lørdag afhentning. Kommunikér det tydeligt på hjemmesiden, i nyhedsbrevet og med en fast onsdag-Story som påmindelse.
+**Hvorfor det virker:** Skolestart uge 33 ændrer familiers hverdag markant. Forudsigelige frister giver forældre mulighed for at sætte bollerne ind i ugeplanen. Det reducerer ad-hoc-kommunikation, giver bageren en forudsigelig rytme til indkøb og batches — og skaber naturlig urgency uden at skrive "bestil nu" hele tiden. En klar frist er et signal om professionalisme.
+**Sådan gøres det:**
+- Beslut og kommunikér fristen: onsdag kl. 20 → afhentning fredag eller lørdag
+- Opdater hjemmesidens bestillingssektion med fristen tydeligt markeret
+- Tilføj en fast linje i nyhedsbrevets signatur: „Bestil inden onsdag kl. 20 — afhentning fredag eller lørdag"
+- Post en fast onsdag-Story som påmindelse — kan genanvendes ugentligt
+- Evaluer efter 4 uger: Reducerer det bestillingstimingens kaos og giver bedre overblik?
 
 ---
 
