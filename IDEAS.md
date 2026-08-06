@@ -1569,6 +1569,32 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### A31 — 217% flere søger hjemmebagt surdej — vi bager det for dig
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce
+**Placering:** Facebook & Instagram feed, målrettet Middelfart + 20 km radius
+**Objektiv:** Sales → HubSpot bestillingsformular
+**Visuel:** Boller i en brun papirpose i naturligt morgenlys — enkelt, klart. Ingen rekvisitter.
+
+**Kilde:** [5 Years In, Sourdough Bakers Still Haven't Quit — Food Drink Life, 2026](https://fooddrinklife.com/sourdough-trend/)
+
+**Overskrift:** 217% flere søger hjemmebagt surdej — vi bager det for dig
+
+**Primær tekst:**
+> Søgninger efter hjemmebagt surdej er steget 217% det seneste år.
+>
+> Det er nemmere at lade nogen gøre det ordentligt og hente det klar.
+>
+> Friskbagte surdejsboller, bagt i hånden i Middelfart. Fire ingredienser, natten over på køl, klar til afhentning på Tyttebærkvisten.
+
+**CTA-knap:** Bestil nu
+
+---
+
 ## Newsletter (HubSpot Free)
 
 ### Hvad du har på gratisplanen
@@ -2645,6 +2671,41 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL36 — Food Festival Aarhus: Dansk mad er i bevægelse
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — send 1.–3. september 2026
+**Formål:** Koble Fars Brød til dansk madkulturel bevægelse med Food Festival Aarhus som afsæt — identitets- og fastholdelsesmail for september
+**Visuel:** Boller i naturligt lys — enkelt, ægte. Ingen overproduktion.
+
+**Kilde:** [Food Festival 2026: Danmarks største madfestival — gogoevents.dk](https://www.gogoevents.dk/blog/food-festival-2026-danmarks-storste-madfestival)
+
+**Emnelinje:** 30.000 gæster i Aarhus — bollerne bages stadig i Middelfart
+**Preheader:** Dansk mad er i bevægelse. Vi er med.
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Den 4.–6. september åbner Food Festival i Aarhus — Danmarks største madfestival. 30.000 gæster og 250 producenter. Tre dage med det bedste af dansk madkultur.
+>
+> Vi er ikke der.
+>
+> Men det, der samler dem alle, er det samme som driver det her lille køkken: at gøre det ordentligt. At vide, hvad der er i maden. At bruge tid i stedet for genveje.
+>
+> Bollerne bages videre i Middelfart — et hold ad gangen, fire ingredienser, natten over på køl.
+>
+> Bestil via linket herunder, hvis du vil have fat i næste hold.
+>
+> [Bestil nu →]
+>
+> Mange hilsener,
+> [Navn]
+
+---
+
 ### O41 — Middelfart Jazz Festival
 
 **Kvalitet:** `[ ]` God `[ ]` Dårlig
@@ -3357,6 +3418,56 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### O71 — Surdejscroissanten og hvad den siger om surdej
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karrusel (3 slides)
+**Visual:** Slide 1: nærbillede af en friskbagt surdejsbolle — åbnet, dampende, i naturligt morgenlys. Slide 2: varm cremefarvet baggrund, stor mørk tekst, én pointe. Slide 3: boller på en rist i naturligt lys.
+
+**Kilde:** [Sourdough Croissants: Why Everyone Is Suddenly Obsessed — Atome Bakery, 2026](https://atomebakery.com/blogs/atome-bakery-blog/sourdough-croissants-trend-worth-it)
+
+**Slide 1:** Surdejscroissanter er 2026's hurtigst voksende bagværkssøgning. Interessant.
+**Slide 2:** Det interessante er ikke croissanten i sig selv. Det er, at surdej vinder overalt — fordi ingen kan snyde sig til den smag. Levende kultur. Lang fermentering. Tid.
+**Slide 3:** Jeg laver ikke croissanter. Jeg laver surdejsboller. Men det er den samme logik. Bestil via linket i bio.
+
+**Caption:**
+> Surdejscroissanter er 2026's hurtigst voksende bagværkssøgning.
+>
+> Jeg laver dem ikke. Men jeg forstår, hvorfor folk søger dem.
+>
+> Surdej breder sig til alle hjørner af bagekøkkenet — croissanter, donuts, pizza, pandekager. Fordi smagen ikke lader sig forcere. Levende kultur, lang fermentering, tid.
+>
+> Bollerne fra Fars Brød er hverken fancy eller eksperimenterende. Fire ingredienser og en nat i køleskabet. Det er det der virker.
+>
+> Bestil via linket i bio.
+
+---
+
+### O72 — Et hold ad gangen
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede
+**Visual:** Et bakke med færdige surdejsboller på en rist i naturligt morgenlys — enkelt og rent. Ingen rekvisitter, ingen iscenesættelse.
+
+**Caption:**
+> Jeg bager et hold ad gangen.
+>
+> Ikke fordi det er nemmere. Men fordi det er den eneste måde at følge med. Hvert hold formes i hånden. Samme surdej, samme mel, samme tid på køl. Men ingen to hold smager præcis ens — temperaturen, luftfugtigheden og surdejen selv varierer fra dag til dag.
+>
+> Det er den slags variation, der er umulig at industrialisere. Og umulig at skynde.
+>
+> Når et hold er væk, er det væk. Næste hold er om en uge.
+>
+> Bestil via linket i bio.
+
+---
+
 ## Generel forretningsudvikling
 
 ---
@@ -3938,6 +4049,22 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 - Tilføj en fast linje i nyhedsbrevets signatur: „Bestil inden onsdag kl. 20 — afhentning fredag eller lørdag"
 - Post en fast onsdag-Story som påmindelse — kan genanvendes ugentligt
 - Evaluer efter 4 uger: Reducerer det bestillingstimingens kaos og giver bedre overblik?
+
+---
+
+### BD37 — Food Festival Aarhus 4.–6. september: Besøg som producent
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Tag til Food Festival Aarhus 4.–6. september som betalende gæst. Hent inspiration, observér producenter og bring konkret viden tilbage til Fars Brøds produktstrategi og kommunikation for efteråret.
+**Hvorfor det virker:** Danmarks største madfestival samler 250 producenter og 30.000 forbrugere. En fridag der bruges der giver indsigt i prisniveauer, produktudvikling og kundesprog. Det er research — ikke reklame.
+**Sådan gøres det:**
+- Køb billet (se foodfestival.dk for billetter og program — datoer 4.–6. september 2026)
+- Tag en notesbog og svar på: Hvad sætter producenter på Fars Brøds niveau op til? Hvad koster det de sælger? Hvad kommunikerer de godt, hvad dårligt?
+- Notér én specifik ting du vil prøve i efterårssæsonen som følge af besøget
+- Evaluer om Fars Brød bør søge om standplads til Food Festival 2027
 
 ---
 

@@ -235,7 +235,7 @@ End of every session: update claude.md with new learnings
 - Ny indsigt: Food Festival Aarhus 2026 (4.–6. sept) har æblet som årets råvare — første gang det er en frugt (kilde: Things to Do in Denmark)
 - Ny indsigt: Koldere vejr favoriserer mælkesyre frem for eddikesyre i surdejsfermentering — efterårsbollerne smagsmæssigt rundere og mildere end sommerboller
 
-## Automatisk månedlig opdatering — 2026-08-04
+## Automatisk månedlig opdatering — 2026-08-06
 - Bot-kørslen arkiverede 0 idéer (ingen opfyldte arkiveringskriterierne)
 - 5 nye idéer tilføjet baseret på research (heritage korn-renæssance, surdejskemi mælkesyre/eddikesyre, mandagsmorgen-overgang, august personligt brev, ølandshvede produkttest):
   - **A29** — Mandagsmorgenerne er på vej igen (Meta ad, overgang sommerferie→hverdagsrytme, primo aug–primo sept)
@@ -247,3 +247,15 @@ End of every session: update claude.md with new learnings
 - Ny indsigt: Ølandshvede absorberer anderledes end standardhvede — hydreringsjustering nødvendig ved test
 - Ny indsigt: Fytinsyreindhold i ølandshvede reduceres effektivt af surdejsfermentering — mineraloptagelse forbedres (faglig vinkel til indhold)
 - Ny indsigt: Arabinoxylaner i kerner er et kommende funktionelt ingrediens-fokusområde i 2026 — relevant for teknisk indhold om fuldkorn
+
+## Automatisk månedlig opdatering — 2026-08-06 (kørsel 2)
+- Bot-kørslen arkiverede 0 idéer (ingen opfyldte arkiveringskriterierne)
+- 5 nye idéer tilføjet baseret på research (surdejscroissant-trend, Food Festival Aarhus september, 217%-søgestigning, batch-identitet):
+  - **A31** — 217% flere søger hjemmebagt surdej — vi bager det for dig (Meta ad, data-drevet)
+  - **NL36** — Food Festival Aarhus 4.–6. september (nyhedsbrev, send 1.–3. sept)
+  - **O71** — Surdejscroissanten og hvad den siger om surdej (karrusel, kulturkommentar, trend 2026)
+  - **O72** — Et hold ad gangen (statisk billede, brand-identitetspost)
+  - **BD37** — Food Festival Aarhus 4.–6. september: Besøg som producent (forretningsudvikling, research-trip)
+- Ny indsigt: Søgninger efter hjemmebagt surdej steg 217% det seneste år (kilde: Food Drink Life, 2026)
+- Ny indsigt: Surdejscroissanter er 2026's hurtigst voksende bagværkssøgning (kilde: Atome Bakery, 2026)
+- Ny indsigt: Food Festival Aarhus afholdes 4.–6. september 2026 på Tangkrogen — 30.000 gæster, 250 producenter (kilde: gogoevents.dk)
