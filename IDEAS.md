@@ -1595,6 +1595,32 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### A32 — Det sunde brød er ikke altid det, du tror
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce
+**Placering:** Facebook & Instagram feed, målrettet Middelfart + 20 km radius
+**Objektiv:** Sales → HubSpot bestillingsformular
+**Visuel:** Nærbillede af en surdejsbolle brudt åben — den åbne krumme og frø synlige i naturligt morgenlys. Ingen rekvisitter.
+
+**Kilde:** [State of the Industry 2026: Bread shifts towards healthier alternatives — Snack Food & Wholesale Bakery](https://www.snackandbakery.com/articles/115896-state-of-the-industry-2026-bread-shifts-towards-healthier-alternatives)
+
+**Overskrift:** Fire ingredienser. Det er det.
+
+**Primær tekst:**
+> Brødbranchen taler i 2026 om sundere alternativer.
+>
+> Hos os er det fire ingredienser: mel, vand, salt og surdej. Lang hævetid. Ingen tilsætningsstoffer. Ingen genveje.
+>
+> Surdejsboller bagt i hånden i Middelfart. Bestil til din næste weekend.
+
+**CTA-knap:** Bestil nu
+
+---
+
 ## Newsletter (HubSpot Free)
 
 ### Hvad du har på gratisplanen
@@ -2706,6 +2732,41 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL37 — Hvad der sker med surdejen de næste fire uger
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — send 7.–10. august 2026
+**Formål:** Teknisk/personlig overgangsmail om, hvad der sker i bagekøkkenet som temperaturen falder i august
+**Visuel:** Et termometer ved siden af en glasburk med aktiv surdej i augustmorgens sidelys. Naturligt og roligt.
+
+**Emnelinje:** Hvad der sker med surdejen de næste fire uger
+**Preheader:** En bagers observation om det skifte, der er i gang
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Noget er ved at skifte i køkkenet.
+>
+> Det er ikke dramatisk. Men det er der.
+>
+> De seneste uger har surdejen arbejdet hurtigt. Mælkesyrebakterierne er aktive i varmen — dejen hæver på fem timer frem for otte. Det kræver mere opmærksomhed og tidligere bagning.
+>
+> De næste fire uger falder temperaturen gradvist. Aktiviteten sænkes. Fermenteringen tager lidt længere tid. Og smagsmæssigt sker der noget: koldere fermentering favoriserer mælkesyren frem for eddikesyren. Det giver en lidt rundere, mere afdæmpet smag. Augustbollerne er lidt mildere end julis. Septemberbollerne bliver lidt mere markante.
+>
+> Det er ikke fejl. Det er sæson.
+>
+> Bestil til din næste weekend. Vi aftaler afhentning, når du har bestilt.
+>
+> [Bestil nu →]
+>
+> God sensommer,
+> [Navn]
+
+---
+
 ### O41 — Middelfart Jazz Festival
 
 **Kvalitet:** `[ ]` God `[ ]` Dårlig
@@ -3468,6 +3529,59 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### O73 — De ti minutter der bestemmer skorpen
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karrusel (4–5 slides)
+**Platform:** Instagram, Facebook
+**Vinkel:** Bageteknisk nørdet — dampens rolle i skorspedannelse
+
+**Slide 1 — Hook:**
+> De ti minutter der bestemmer skorpen.
+
+**Slide 2:**
+> Dampen i ovnen holder skorpeoverfladen fugtig.
+> Den kan strækkes. Dejen kan stadig ekspandere.
+
+**Slide 3:**
+> Uden damp: overfladen sætter sig for tidligt. Brødet kan ikke hæve frit. Scorer trykker sig op — men ikke ud.
+
+**Slide 4:**
+> Med damp: brødet eksploderer kontrolleret i de første ti minutter. Skorpen sætter sig efter — sprød, tynd, karamelliseret.
+
+**Slide 5 — CTA:**
+> Det er damp, tid og høj varme. Tre ting der kræver opmærksomhed.
+>
+> Bestil via linket i bio.
+
+---
+
+### O74 — Bagt mens du sov
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede med tekst
+**Platform:** Instagram, Facebook
+**Vinkel:** Natten og den lange kolde hævning — fermentering som stille arbejde
+
+**Billedtekst:**
+> Bagt mens du sov.
+>
+> Dejen kom på køl klokken 22. Den hævede langsomt natten over. Temperaturen holder fermenteringen i gang — bare meget langsommere end ved stuetemperatur.
+>
+> Otte til tolv timers kold hævning. Det er ikke ventetid. Det er arbejdstid.
+>
+> Fermenteringen er den del af processen, der ikke kan skyndes. Og det er den, der giver smagen.
+>
+> Bestil via linket i bio.
+
+---
+
 ## Generel forretningsudvikling
 
 ---
@@ -4065,6 +4179,23 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 - Tag en notesbog og svar på: Hvad sætter producenter på Fars Brøds niveau op til? Hvad koster det de sælger? Hvad kommunikerer de godt, hvad dårligt?
 - Notér én specifik ting du vil prøve i efterårssæsonen som følge af besøget
 - Evaluer om Fars Brød bør søge om standplads til Food Festival 2027
+
+---
+
+### BD38 — Google-anmeldelser: September-push for lokal synlighed
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Lav en struktureret indsats i september for at indsamle Google-anmeldelser fra eksisterende kunder. Lokal synlighed på Google Maps er afgørende for nye kunder i Middelfart-området, og antallet af anmeldelser spiller direkte ind på rangeringen.
+**Hvorfor det virker:** September markerer overgangen fra sommer til hverdagsrytme. Faste kunder er tilbage. De husker sommerens leverancer. Det er det rigtige tidspunkt at spørge. Én anmeldelse tager et minut — men den sidder der for altid.
+**Sådan gøres det:**
+- Opret eller verificer Fars Brøds Google Business-profil (hvis ikke allerede gjort)
+- Send en kort, personlig besked til de 10–15 mest loyale kunder med direkte link til anmeldelses-siden
+- Brug formuleringen: „Hvis du har et minut og har været glad for bollerne, vil en Google-anmeldelse hjælpe mange i Middelfart med at finde os" — ingen pres, men en klar opfordring
+- Tilføj anmeldelses-link i HubSpot-ordrebekræftelsesmail (én linje i bunden)
+- Evaluer resultat efter fire uger: Antal nye anmeldelser, gennemsnitsscore, ændring i visninger på Google Maps
 
 ---
 
