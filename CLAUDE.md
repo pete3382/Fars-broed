@@ -259,3 +259,15 @@ End of every session: update claude.md with new learnings
 - Ny indsigt: Søgninger efter hjemmebagt surdej steg 217% det seneste år (kilde: Food Drink Life, 2026)
 - Ny indsigt: Surdejscroissanter er 2026's hurtigst voksende bagværkssøgning (kilde: Atome Bakery, 2026)
 - Ny indsigt: Food Festival Aarhus afholdes 4.–6. september 2026 på Tangkrogen — 30.000 gæster, 250 producenter (kilde: gogoevents.dk)
+
+## Automatisk månedlig opdatering — 2026-08-07
+- Bot-kørslen arkiverede 0 idéer (ingen opfyldte arkiveringskriterierne)
+- 5 nye idéer tilføjet baseret på research (sundere brød-trend, surdejsfermentering sommer→efterår, dampens rolle i skorpedannelse, kold hævning, Google-anmeldelser):
+  - **A32** — Det sunde brød er ikke altid det, du tror (Meta ad, sundere-alternativ-vinkel, kilde: State of the Industry 2026)
+  - **NL37** — Hvad der sker med surdejen de næste fire uger (teknisk/personlig overgangsmail, mælkesyre vs eddikesyre i augusttemperaturen)
+  - **O73** — De ti minutter der bestemmer skorpen (karrusel, bageteknisk nørdet, dampens rolle og skorspedannelse)
+  - **O74** — Bagt mens du sov (statisk, natten og kold hævning, fermentering som stille arbejde)
+  - **BD38** — Google-anmeldelser: September-push for lokal synlighed (struktureret kampagne til lokal Google Maps-tilstedeværelse)
+- Ny indsigt: Brødbranchen 2026 viser klart skifte mod sundere alternativer — surdej positioneres som klinisk relevant valg (kilde: State of the Industry 2026, Snack Food & Wholesale Bakery)
+- Ny indsigt: Damp i ovnen i de første 10 minutter er afgørende for sprød skorpe — fordi overfladen holdes fugtig og dejen kan ekspandere frit før skorpen sætter sig
+- Ny indsigt: Google Business-profil og anmeldelsesantal er stærke faktorer for lokal søgeranglering i Middelfart-radius
