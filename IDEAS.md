@@ -1621,6 +1621,33 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### A33 — Bollerne sidder klar. Skolen starter igen.
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billedannonce
+**Placering:** Facebook & Instagram feed, målrettet forældre med børn i Middelfart + 20 km radius
+**Objektiv:** Sales → HubSpot bestillingsformular
+**Timing:** Kør 10.–16. august 2026 (skolestart-uge)
+**Visuel:** En surdejsbolle skåret over — åben krumme og frø synlige — ved siden af en skoletaske på et køkkenbord. Naturligt morgenlys.
+
+**Overskrift:** Madpakken er klaret.
+
+**Primær tekst:**
+> Skolen starter igen.
+>
+> Dejen lavede jeg natten over. Surdejsbollerne er friskbagte og klar til afhentning.
+>
+> En bolle holder mæthed i fire til fem timer. Ingen tilsætningsstoffer. Fire ingredienser.
+>
+> Bestil til skolestartsugen i Middelfart.
+
+**CTA-knap:** Bestil nu
+
+---
+
 ## Newsletter (HubSpot Free)
 
 ### Hvad du har på gratisplanen
@@ -2767,6 +2794,45 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL38 — Fermenteringen gør noget ved melet
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — send 1.–5. september 2026
+**Formål:** Vidensmail om surdejsfermentering og ernæring — hvad der faktisk sker kemisk under hævningen, og hvorfor det giver et anderledes brød
+**Visuel:** Nærbillede af den åbne krumme i en surdejsbolle — trådede, åbne celler. Alternativt: en skive med et smørklat.
+
+**Kilde:** [Nutritional benefits of sourdoughs: A systematic review — NCBI/PMC 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC10103004/)
+
+**Emnelinje:** Fermenteringen gør noget ved melet
+**Preheader:** Det er ikke det samme brød — bare surt.
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Mange tror, at surdej bare er brød med en syrlig smag.
+>
+> Det er det ikke.
+>
+> Surdejsfermentering er en kemisk proces. Laktobacillus-bakterierne — de samme bakterier, der arbejder i yoghurt og kimchi — nedbryder fytinsyre i melet under hævningen. Fytinsyre binder mineraler og gør dem svære for kroppen at optage. Når bakterierne nedbryder den, frigives mineralerne.
+>
+> Det betyder, at jern, zink og magnesium fra melet er mere tilgængeligt for kroppen i en surdejsbolle end i et gærbrød bagt af det samme mel.
+>
+> Fermenteringen arbejder også med stivelsesstrukturen. Komplekse kulhydrater nedbrydes delvist. Det giver et lavere glykæmisk indeks — sukker frigives langsommere i blodet, og mætheden holder længere.
+>
+> Det er ikke magi. Det er biokemi. Og det er det, der gør en rigtig surdejsbolle til noget andet end et industribrød med en syrlig tilsætning for smagens skyld.
+>
+> Bestil til din næste weekend.
+>
+> [Bestil nu →]
+>
+> God september,
+> [Navn]
+
+---
+
 ### O41 — Middelfart Jazz Festival
 
 **Kvalitet:** `[ ]` God `[ ]` Dårlig
@@ -3582,6 +3648,78 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### O75 — Laktobacillus: Surdej og tarmfloraen
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karrusel (5 slides)
+**Platform:** Instagram, Facebook
+**Vinkel:** Surdej indeholder de samme bakteriefamilier som yoghurt og kimchi — dokumenteret effekt på tarmflora og mineraloptagelse
+
+**Kilde:** [Nutritional benefits of sourdoughs: A systematic review — NCBI/PMC 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC10103004/)
+
+**Slides:**
+
+Slide 1:
+> Surdej og tarmfloraen.
+> (Det vidste du måske ikke.)
+
+Slide 2:
+> Laktobacillus-bakterierne i en aktiv surdejsstarter tilhører den samme familie som bakterierne i yoghurt og kimchi.
+>
+> Bakterier, der er anerkendt for deres positive effekt på tarmens mikrobiom.
+
+Slide 3:
+> Fermenteringen nedbryder fytinsyre i melet.
+>
+> Fytinsyre binder mineraler. Når den nedbrydes, frigives jern, zink og magnesium — og kroppen kan reelt optage dem.
+
+Slide 4:
+> Komplekse kulhydrater nedbrydes delvist.
+>
+> Det giver et lavere glykæmisk indeks end gærbrød af det samme mel. Sukker frigives langsommere. Mætheden holder.
+
+Slide 5:
+> Fire ingredienser. Lang hævetid. Ingen genveje.
+>
+> Bestil via linket i bio.
+
+**Caption:**
+> Det er ikke bare smagen, der er anderledes.
+>
+> En rigtig surdejsbolle er fermenteret. Og fermentering er ikke bare syrlighed — det er en kemisk proces, der ændrer melet på måder, kroppen kan mærke.
+>
+> Bestil via linket i bio.
+
+---
+
+### O76 — Det konkrete vinder
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede med tekst
+**Platform:** Instagram, Facebook
+**Vinkel:** 2026-tendens: Behov for det fysiske, håndgjorte og taktile — modreaktion mod digitalisering
+
+**Kilde:** [Trendforsker spår om de store trends i 2026 — DR](https://www.dr.dk/det-bedste-fra-dr/trendforskeren-spaar-om-2026-disse-tre-ting-kommer-til-fylde-i-det-nye-aar)
+
+**Billedtekst:**
+> Trendforskerne kalder det „behovet for det fysiske og håndgribelige."
+>
+> Vi har digitaliseret alt vi kan digitalisere. Nu trænger vi til noget, vi kan mærke på fingrene.
+>
+> Et brød, der lugter af noget. Skorpe, der knaser. Dej, der har taget tid.
+>
+> Det er ikke en modstand mod fremtiden. Det er bare, hvad kroppen mangler af og til.
+>
+> Bestil via linket i bio.
+
+---
+
 ## Generel forretningsudvikling
 
 ---
@@ -4196,6 +4334,22 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 - Brug formuleringen: „Hvis du har et minut og har været glad for bollerne, vil en Google-anmeldelse hjælpe mange i Middelfart med at finde os" — ingen pres, men en klar opfordring
 - Tilføj anmeldelses-link i HubSpot-ordrebekræftelsesmail (én linje i bunden)
 - Evaluer resultat efter fire uger: Antal nye anmeldelser, gennemsnitsscore, ændring i visninger på Google Maps
+
+---
+
+### BD39 — Julegave-pakke: Planlæg nu til november
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Lav en begrænset julegave-pakke i november: fire surdejsboller i en simpel papirkasse med en håndskrevet hilsen. Markedsføres som en personlig gave til nogen, der sætter pris på håndværk og rigtig mad. Salg kun til eksisterende kunder og nyhedsbrevsmodtagere — ingen ekstern annoncering i første runde.
+**Hvorfor det virker:** Julegavemarkedet starter i Danmark i november. En gave, der er lokal, håndlavet og kan spises, appellerer til forbrugere, der er trætte af generiske gaver. Til en pris på 80–100 kr pr. pakke er det et tilgængeligt impulskøb for den loyale kunde.
+**Sådan gøres det:**
+- Beslut format nu: antal boller, emballagetype (papirkasse, brun snor, simpelt logo-print), pris
+- Find emballage til en fornuftig pris — Dagrofa eller Lomax.dk kan have papirkasser
+- Kommunikér via nyhedsbrev primo november — begrænset antal pakker, bestil inden [dato]
+- Evaluer om det giver mening at producere to varianter: ren surdej og blandet (frø/solsikke)
 
 ---
 

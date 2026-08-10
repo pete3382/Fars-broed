@@ -271,3 +271,15 @@ End of every session: update claude.md with new learnings
 - Ny indsigt: Brødbranchen 2026 viser klart skifte mod sundere alternativer — surdej positioneres som klinisk relevant valg (kilde: State of the Industry 2026, Snack Food & Wholesale Bakery)
 - Ny indsigt: Damp i ovnen i de første 10 minutter er afgørende for sprød skorpe — fordi overfladen holdes fugtig og dejen kan ekspandere frit før skorpen sætter sig
 - Ny indsigt: Google Business-profil og anmeldelsesantal er stærke faktorer for lokal søgeranglering i Middelfart-radius
+
+## Automatisk månedlig opdatering — 2026-08-10
+- Bot-kørslen arkiverede 0 idéer (ingen opfyldte arkiveringskriterierne)
+- 5 nye idéer tilføjet baseret på research (surdej og tarmflora/laktobacillus, skolestart august, fermentering og ernæring/fytinsyre, fysisk/håndgjort som 2026-tendens, julegavepakke):
+  - **A33** — Bollerne sidder klar. Skolen starter igen. (Meta ad, skolestart-uge 10.–16. august, familiemålgruppe)
+  - **NL38** — Fermenteringen gør noget ved melet (vidensmail, fytinsyre-nedbrydning, mineraloptagelse, lavere GI, send 1.–5. september)
+  - **O75** — Laktobacillus: Surdej og tarmfloraen (karrusel, laktobacillus-familien, fytinsyre, mineraloptagelse — kilde: NCBI/PMC 2024)
+  - **O76** — Det konkrete vinder (statisk, 2026-tendens om det fysiske og håndgjorte — kilde: DR trendspot 2026)
+  - **BD39** — Julegave-pakke: Planlæg nu til november (fire boller i papirkasse med hilsen, begrænset antal, nyhedsbrevsmodtagere)
+- Ny indsigt: Laktobacillus-bakterierne i surdej nedbryder fytinsyre — frigiver jern, zink og magnesium som kroppen ellers ikke optager fra melet (kilde: NCBI/PMC 2024)
+- Ny indsigt: Dansk trendforskning 2026 peger på „behov for det fysiske og håndgribelige" som en af de store tendenser — modreaktion mod digitalisering (kilde: DR/TV2 januar 2026)
+- Ny indsigt: 188 danske skoler deltager i nationalt pilotprogram for gratis skolemåltider (2025–2028) — men størstedelen af børn tager stadig madpakke (kilde: fao.org / feast2030.eu)
