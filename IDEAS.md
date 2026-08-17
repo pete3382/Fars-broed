@@ -1648,6 +1648,35 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### A34 — Klimafolkemødet 27.–29. august i Middelfart
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billedannonce
+**Placering:** Facebook & Instagram feed, radius 25 km fra Middelfart
+**Objektiv:** Awareness + bestillinger
+**Timing:** Kør 24.–28. august 2026
+**Visuel:** En pose surdejsboller på et udendørs bord — varmt eftermiddagslys. Afslappet og nærværende.
+
+**Overskrift:** Friskbagt til Klimafolkemødet.
+
+**Primær tekst:**
+> Klimafolkemødet er i Middelfart 27.–29. august.
+>
+> Tre dage med debat, workshops og musik på KulturØpladsen.
+>
+> Vi bager ikke derude. Men bollerne kan hentes på Tyttebærkvisten inden du tager derhen.
+>
+> Surdejsboller. Fire ingredienser. Lang fermentering. Ingen tilsætningsstoffer.
+>
+> Bestil via linket herunder.
+
+**CTA-knap:** Bestil nu
+
+---
+
 ## Newsletter (HubSpot Free)
 
 ### Hvad du har på gratisplanen
@@ -2833,6 +2862,41 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL39 — Klimafolkemødet og det, vi bager
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — send 25. august 2026 (to dage inden Klimafolkemødet starter)
+**Formål:** Lokal begivenhed som anledning — Klimafolkemødet kobles til producent-identitet og lokal tilhørsforhold
+**Visuel:** Enkelt billede af bollerne mod en lys, neutral baggrund.
+
+**Emnelinje:** Klimafolkemødet starter om to dage — en kort hilsen fra Tyttebærkvisten
+**Preheader:** Fra et lille køkken i Middelfart.
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Klimafolkemødet åbner i Middelfart torsdag den 27. august.
+>
+> Tre dage med debat og workshops om klimaet. Gratis og åbent for alle på KulturØpladsen.
+>
+> Jeg bager ikke derude. Men tanken er der: at Middelfart i tre dage er centrum for samtaler om, hvad vi forbruger og hvilke valg der faktisk rykker noget. Den tankegang er ikke fremmed her.
+>
+> Fire ingredienser. Ingen emballagelinje i en fabrik. Ingen logistikkæde fra produktion til hylde.
+>
+> Det er ikke et klimaudspil. Men det er mad, man kan sætte navn på.
+>
+> Bestil til weekenden via linket herunder.
+>
+> [Bestil nu →]
+>
+> God fornøjelse til dem, der tager til Klimafolkemødet,
+> [Navn]
+
+---
+
 ### O41 — Middelfart Jazz Festival
 
 **Kvalitet:** `[ ]` God `[ ]` Dårlig
@@ -3720,6 +3784,59 @@ Slide 5:
 
 ---
 
+### O77 — Tre bakterier. Ét brød.
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karrusel (4 slides)
+**Platform:** Instagram, Facebook
+**Vinkel:** Surdej som præbiotikum — Akkermansia, Bifidobacterium og Lactobacillus
+
+**Kilde:** [Mouse feeding study and microbiome analysis of sourdough bread — Frontiers in Microbiology, 2022](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2022.989421/full)
+
+**Slide 1:** Der er bakterier i surdejen. Det interessante er, hvad de gør ved dine egne.
+**Slide 2:** Studier viser, at regelmæssig surdejsforbrug øger mængden af Lactobacillus, Bifidobacterium og Akkermansia i tarmen. Akkermansia er forbundet med lavere inflammation og en stærkere tarmbarriere.
+**Slide 3:** Surdej fungerer som præbiotikum. Under fermenteringen produceres exopolysaccharider — komplekse sukkertyper, som de gavnlige tarmbakterier lever af. Du fodrer ikke bare dig selv. Du fodrer din tarmflora.
+**Slide 4:** Fire ingredienser. Bagt natten over. Bestil via linket i bio.
+
+**Caption:**
+> Der er tre bakterier, der sætter pris på surdejsboller.
+>
+> Lactobacillus. Bifidobacterium. Akkermansia.
+>
+> Alle tre stiger i antal, når surdej er en del af hverdagen. Det er dokumenteret i studier med mennesker og dyrmodeller.
+>
+> Bestil via linket i bio.
+
+---
+
+### O78 — Du ved, hvad der er i det.
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede med tekst
+**Platform:** Instagram, Facebook
+**Vinkel:** Clean label / "Return to Real" — mod ultraforarbejdede varer. Ingredienslisten som salgsargument.
+
+**Kilde:** [Why Sourdough Is Having a Cultural Moment (Again) in 2026 — Atome Bakery](https://atomebakery.com/blogs/atome-bakery-blog/sourdough-cultural-moment-2026)
+
+**Billedtekst:**
+> Hvedemel. Vand. Salt. Surdej.
+>
+> Det er hele ingredienslisten.
+>
+> Ingen emulgatorer. Ingen konserveringsmidler. Ingen enzymer tilsat i fabrikken.
+>
+> I 2026 siger forbrugerne, at de vil vide, hvad der er i maden. Vi har aldrig haft noget at skjule.
+>
+> Bestil via linket i bio.
+
+---
+
 ## Generel forretningsudvikling
 
 ---
@@ -4350,6 +4467,22 @@ Slide 5:
 - Find emballage til en fornuftig pris — Dagrofa eller Lomax.dk kan have papirkasser
 - Kommunikér via nyhedsbrev primo november — begrænset antal pakker, bestil inden [dato]
 - Evaluer om det giver mening at producere to varianter: ren surdej og blandet (frø/solsikke)
+
+---
+
+### BD40 — Klimafolkemødet: Mød lokale og bliv set
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Klimafolkemødet samler 27.–29. august 2026 borgere, erhvervsliv, NGO'er og politikere i Middelfart på KulturØpladsen — gratis og åbent for alle. En oplagt mulighed for at møde potentielle kunder ansigt til ansigt, netværke med ligesindede lokale producenter og undersøge om der i 2027 er mulighed for at deltage som madudbyder.
+**Hvorfor det virker:** For en soloprenør er personlige møder og lokal synlighed mere effektive end annoncering. Et brand forbundet med lokalt og gennemsigtigt mad sender et signal om værdier uden at sige det eksplicit.
+**Sådan gøres det:**
+- Deltag selv i arrangementet som borger — lyt, mød folk, netværk
+- Tag kontakt til arrangørerne: Er der mulighed for et lokalt madproducentforum eller smags-showcase i 2027?
+- Overvej om kapaciteten fremadrettet tillader et begrænset gadesalg eller smagsprøver ved næste afholdelse
+- Brug begivenheden som indholdsinspirator: hvad hørte du, hvad reflekterede du over?
 
 ---
 

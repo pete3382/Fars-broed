@@ -283,3 +283,16 @@ End of every session: update claude.md with new learnings
 - Ny indsigt: Laktobacillus-bakterierne i surdej nedbryder fytinsyre — frigiver jern, zink og magnesium som kroppen ellers ikke optager fra melet (kilde: NCBI/PMC 2024)
 - Ny indsigt: Dansk trendforskning 2026 peger på „behov for det fysiske og håndgribelige" som en af de store tendenser — modreaktion mod digitalisering (kilde: DR/TV2 januar 2026)
 - Ny indsigt: 188 danske skoler deltager i nationalt pilotprogram for gratis skolemåltider (2025–2028) — men størstedelen af børn tager stadig madpakke (kilde: fao.org / feast2030.eu)
+
+## Automatisk månedlig opdatering — 2026-08-17
+- Bot-kørslen arkiverede 0 idéer (ingen opfyldte arkiveringskriterierne)
+- 5 nye idéer tilføjet baseret på research (Klimafolkemødet Middelfart, surdej som præbiotikum, clean label-trend, lokal event-synlighed):
+  - **A34** — Klimafolkemødet 27.–29. august i Middelfart (Meta ad, radius 25 km, kør 24.–28. august)
+  - **NL39** — Klimafolkemødet og det, vi bager (personligt nyhedsbrev, send 25. august)
+  - **O77** — Tre bakterier. Ét brød. (karrusel, surdej som præbiotikum — Akkermansia, Bifidobacterium, Lactobacillus)
+  - **O78** — Du ved, hvad der er i det. (statisk, clean label / "Return to Real"-trend)
+  - **BD40** — Klimafolkemødet: Mød lokale og bliv set (forretningsudvikling, netværk og fremtidig salgskanal)
+- Ny indsigt: Klimafolkemødet afholdes 27.–29. august 2026 på KulturØpladsen i Middelfart — gratis og åbent for alle (kilde: klimafolkemoedet.dk)
+- Ny indsigt: Surdej øger mængden af Akkermansia, Bifidobacterium og Lactobacillus i tarmen — via exopolysaccharider produceret under fermentering (kilde: Frontiers in Microbiology, 2022)
+- Ny indsigt: "Return to Real" er en stærk global forbrugertrend i 2026 — clean labels og at vide hvad der er i maden driver surdejsvækst (kilde: Atome Bakery / Snack Food & Wholesale Bakery 2026)
+- Ny indsigt: Middelfart Sejlklub afholder stævne 28. august – 6. september 2026 (potentiel lokal event-vinkel til fremtidige kørselER)
