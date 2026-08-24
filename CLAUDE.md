@@ -296,3 +296,16 @@ End of every session: update claude.md with new learnings
 - Ny indsigt: Surdej øger mængden af Akkermansia, Bifidobacterium og Lactobacillus i tarmen — via exopolysaccharider produceret under fermentering (kilde: Frontiers in Microbiology, 2022)
 - Ny indsigt: "Return to Real" er en stærk global forbrugertrend i 2026 — clean labels og at vide hvad der er i maden driver surdejsvækst (kilde: Atome Bakery / Snack Food & Wholesale Bakery 2026)
 - Ny indsigt: Middelfart Sejlklub afholder stævne 28. august – 6. september 2026 (potentiel lokal event-vinkel til fremtidige kørselER)
+
+## Automatisk månedlig opdatering — 2026-08-24
+- Bot-kørslen arkiverede 0 idéer (ingen opfyldte arkiveringskriterierne)
+- 5 nye idéer tilføjet baseret på research (fibermaxxing 2026, rugbrødstradition, dansk surdejsscene, sensommer-overgang):
+  - **A35** — Første kølige morgen — bollerne er varme (Meta ad, sensommer→efterårsovergang, kør 25. august – 7. september)
+  - **NL40** — Sensommerens sidste weekender (personligt nyhedsbrev, send 26.–28. august)
+  - **O79** — Fibermaxxing: Bollen som naturlig fiberkilde (karrusel, 2026-fibertrend + frø + resistent stivelse)
+  - **O80** — Rugbrød og bollen: To sider af samme håndværk (kulturhistorisk vinkel, dansk surdejstradition)
+  - **BD41** — Positioner Fars Brød i den danske surdejsscene (forretningsudvikling, samhørighed med små danske mikrobagerier)
+- Ny indsigt: „Fibermaxxing" er en af de største danske madtrends i 2026 — 2025 handlede om protein, 2026 handler om fiber (kilde: Mandekogebogen.dk / Madison)
+- Ny indsigt: Sourdough-samtaler er vokset 17,98% på et år — trenden er fortsat med at vokse fem år efter pandemistart (kilde: Food Drink Life 2026)
+- Ny indsigt: Simpel Surdej i Viborg er blevet en af de mest anerkendte europæiske surdejsbrands — dansk mikrobageri-scene har international synlighed (kilde: All Things Nordic)
+- Ny indsigt: Koldere fermentering (efterårstemperaturer) favoriserer mælkesyre frem for eddikesyre — det er en solid teknisk vinkel til september-kommunikation

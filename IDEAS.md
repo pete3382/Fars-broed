@@ -1677,6 +1677,32 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### A35 — Første kølige morgen — bollerne er varme
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce eller kort Reel (10–15 sek.)
+**Placering:** Facebook & Instagram feed, målrettet Middelfart + 20 km radius
+**Objektiv:** Sales → HubSpot bestillingsformular
+**Visuel:** Damp der stiger fra en friskbagt bolle på et køkkenbord — vindue med tidligt septemberlys i baggrunden. Lyset er blødere og lavere end sommerlyset. Ingen rekvisitter.
+
+> **Timing:** Kør 25. august – 7. september. Overgangen fra sommer til hverdagsrytme.
+
+**Overskrift:** Første kølige morgen — bollerne er varme
+
+**Primær tekst:**
+> Morgenerne begynder at være kølige igen.
+>
+> Kold luft, damp fra kaffen, brød der lige er ude af ovnen. Surdejsbollerne smager en anelse anderledes nu — koldere fermentering favoriserer mælkesyren frem for eddikesyren. Rundere, mildere.
+>
+> Fire ingredienser. Bagt i hånden i Middelfart. Bestil til weekenden.
+
+**CTA-knap:** Bestil nu
+
+---
+
 ## Newsletter (HubSpot Free)
 
 ### Hvad du har på gratisplanen
@@ -2897,6 +2923,37 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL40 — Sensommerens sidste weekender
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — send 26.–28. august 2026
+**Formål:** Reaktivér listen i overgangsugen efter Klimafolkemødet og inden september. Sæt fokus på det sidste sensommerlys og de sidste udendørs weekender.
+**Visuel:** Boller på et havebord i sensommerlys — en kop kaffe i kanten, blad eller to på bordet. Roligt og hjemligt.
+
+**Emnelinje:** Sensommerens sidste weekender
+**Preheader:** Bestil inden hverdagen for alvor vender
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Vi er tæt på september nu.
+>
+> De næste to weekender er sensommerens sidste. Lyset står lavere, morgenerne bider lidt. Men middagene er stadig lange nok til at spise udenfor, og lørdagsmorgenen har stadig plads til lidt langsommelighed.
+>
+> Bollerne bages videre — et hold ad gangen, fire ingredienser, natten over på køl. Sensommeren har en anelse rundere smag end julibollerne, fordi mælkesyrebakterierne får en smule mere plads, når nætterne bliver kølige.
+>
+> Bestil til weekenden. Vi aftaler afhentning på Tyttebærkvisten, når du har bestilt.
+>
+> [Bestil nu →]
+>
+> God sensommer,
+> [Navn]
+
+---
+
 ### O41 — Middelfart Jazz Festival
 
 **Kvalitet:** `[ ]` God `[ ]` Dårlig
@@ -3837,6 +3894,57 @@ Slide 5:
 
 ---
 
+### O79 — Fibermaxxing: Bollen som naturlig fiberkilde
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karrusel (4 slides)
+**Visual:** Slide 1: nærbillede oppefra af en friskbagt surdejsbolle — hørfrø, sesamfrø og solsikkefrø tydeligt drysset på skorpen. Naturligt morgenlys. Slide 2–3: varm cremefarvet baggrund med stor mørk tekst, én pointe pr. slide. Slide 4: friskbagte boller på en rist.
+
+**Kilde:** [25 madtrends du skal kende i 2026 — Madison](https://madison.dk/mad/madtrends-2026/) / [De største madtrends i 2026: Fiber, kål og kødet er tilbage — Mandekogebogen.dk](https://mandekogebogen.dk/de-stoerste-madtrends-i-2026-fiber-kaal-og-koedet-er-tilbage/)
+
+**Slide 1:** 2025 handlede om protein. 2026 handler om fiber.
+**Slide 2:** „Fibermaxxing" — at få så meget fiber ind i hverdagen som muligt — er en af årets største madtrends. Fibre støtter fordøjelsen, holder blodsukkeret jævnt og fodrer de gode bakterier i tarmen.
+**Slide 3:** En surdejsbolle bidrager på to måder. Frøene på toppen — hørfrø, sesamfrø, solsikkefrø — er rene fiberkilder. Og fermenteringen selv omdanner noget af melets stivelse til resistent stivelse, som fungerer som ekstra fiber i tarmen.
+**Slide 4:** Fire ingredienser plus frøene. Bagt i hånden i Middelfart. Bestil via linket i bio.
+
+**Caption:**
+> Fiber er 2026's største madagenda. Surdejsbollen er ikke et sundhedsprodukt — men den passer godt ind i den samtale.
+>
+> Frøene drysset på skorpen er hørfrø, sesamfrø og solsikkefrø. Alle tre er koncentrerede fiberkilder. Under lang fermentering omdannes noget af melets stivelse desuden til resistent stivelse — et kulhydrat, tarmens bakterier lever af.
+>
+> Det er ikke noget nyt hos os. Frøene har været på bollerne fra start. Men det er godt at vide, hvad man spiser.
+>
+> Bestil via linket i bio.
+
+---
+
+### O80 — Rugbrød og bollen: To sider af samme håndværk
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede eller karrusel (3 slides)
+**Visual:** Slide 1: en mørk rugbrødsskive og en åben surdejsbolle side om side på et træbræt — begge med synlig krumme, i naturligt sidelys. Slide 2: varm cremefarvet baggrund med stor mørk tekst. Slide 3: en glasburk med aktiv surdej på et melet bord.
+
+**Kilde:** [Sourdough Danish Rye/Rugbrød — The Rye Baker](https://theryebaker.com/sourdough-danish-rye/) / [Copenhagen's sourdough revolution — Wonderful Copenhagen](https://www.wonderfulcopenhagen.com/wonderful-copenhagen/international-press/copenhagens-sourdough-revolution)
+
+**Caption:**
+> Rugbrødet er dansk grundkøkken. Surdejsbollen er en anden gren af samme træ.
+>
+> Rugbrød er tæt, mørkt og lettere syrligt — bygget på en langsom surdejsfermentering, der har rødder helt tilbage til vikingetiden. Det er ikke en trend. Det er noget, danskerne aldrig holdt op med at spise.
+>
+> Bollerne fra Fars Brød er den lyse søskende: hvedebaseret, med åben krumme og sprød skorpe. Men logikken er den samme. En levende starter. Lang tid. Ingen tilsætningsstoffer.
+>
+> To slags brød, samme håndværk. Det er derfor de smager af noget.
+>
+> Bestil via linket i bio.
+
+---
+
 ## Generel forretningsudvikling
 
 ---
@@ -4483,6 +4591,26 @@ Slide 5:
 - Tag kontakt til arrangørerne: Er der mulighed for et lokalt madproducentforum eller smags-showcase i 2027?
 - Overvej om kapaciteten fremadrettet tillader et begrænset gadesalg eller smagsprøver ved næste afholdelse
 - Brug begivenheden som indholdsinspirator: hvad hørte du, hvad reflekterede du over?
+
+---
+
+### BD41 — Positioner Fars Brød i den danske surdejsscene
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Kortlæg det lille danske landskab af små, kvalitetsorienterede surdejsbagerier — Simpel Surdej i Viborg og andre lokale mikrobagerier — og placer Fars Brød som en genkendelig del af den scene. Brug det som pejlemærke i kommunikation, sociale medier og eventuel networking. Formålet er ikke konkurrence, men samhørighed: en dansk surdejsbevægelse, hvor Fars Brød er den lokale Middelfart-stemme.
+
+**Hvorfor det virker:** Danmark har fået en synlig scene af små surdejsbagerier over de sidste år. Simpel Surdej i Viborg er blevet en anerkendt europæisk stemme fra et lille dansk hjørne. Der er plads til flere — og at være en del af en genkendelig bevægelse er stærkere end at stå helt alene. For små kunder signalerer det, at man ikke er alene om at holde af det her — og det gør valget lettere.
+
+**Sådan gøres det:**
+- Følg 5–10 andre danske mikrobagerier på Instagram, læg mærke til, hvordan de kommunikerer og hvad der virker
+- Overvej ét årligt fælles opslag: „Danske surdejsbagerier vi kan lide" — link til en håndfuld små bagerier i landet, ingen konkurrence
+- Nævn den bredere danske surdejskultur i kommunikationen når det er naturligt: „Vi er én af mange små surdejsbagerier i Danmark. Og Middelfart er vores hjørne af landkortet."
+- Undersøg om der findes et uformelt netværk af mikrobagerier — hvis ikke, kan et løst kollektivt initiativ være et fremtidigt spor
+
+**Kilde:** [An interview with Simpel Surdej from Viborg — All Things Nordic](https://allthingsnordic.medium.com/an-interview-with-simpel-surdej-from-viborg-denmark-d07de8031c6b) / [Copenhagen's sourdough revolution — Wonderful Copenhagen](https://www.wonderfulcopenhagen.com/wonderful-copenhagen/international-press/copenhagens-sourdough-revolution)
 
 ---
 
