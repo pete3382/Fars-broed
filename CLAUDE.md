@@ -309,3 +309,15 @@ End of every session: update claude.md with new learnings
 - Ny indsigt: Sourdough-samtaler er vokset 17,98% på et år — trenden er fortsat med at vokse fem år efter pandemistart (kilde: Food Drink Life 2026)
 - Ny indsigt: Simpel Surdej i Viborg er blevet en af de mest anerkendte europæiske surdejsbrands — dansk mikrobageri-scene har international synlighed (kilde: All Things Nordic)
 - Ny indsigt: Koldere fermentering (efterårstemperaturer) favoriserer mælkesyre frem for eddikesyre — det er en solid teknisk vinkel til september-kommunikation
+
+## Automatisk månedlig opdatering — 2026-08-31
+- Bot-kørslen arkiverede 0 idéer (ingen opfyldte arkiveringskriterierne)
+- 5 nye idéer tilføjet baseret på research (Sourdough September international kampagne, sæsonbetonet indhold primo september, danske rodfrugter i sæson):
+  - **A36** — September er surdejens måned (Meta ad, kør hele september, Sourdough September-platformen)
+  - **NL41** — September er surdejens måned (nyhedsbrev, send 1.–2. september)
+  - **O81** — September er surdejens måned (karrusel, Sourdough September international kampagne, #SourdoughSeptember)
+  - **O82** — Rodfrugterne er tilbage (statisk billede, dansk sæsonindhold september, rodfrugtssuppe + bolle)
+  - **BD42** — Sourdough September: Planlæg månedskampagnen (koordineret kommunikationsplan for hele september)
+- Ny indsigt: Sourdough September er en international kampagne (Real Bread Campaign, UK) der løber hele september — #SourdoughSeptember er et globalt hashtag med bred organisk rækkevidde (kilde: sustainweb.org/realbread)
+- Ny indsigt: Sourdough-produktlanceringer steg 31% i 2026 — "Return to Real" driver væksten globalt (kilde: Puratos / Atome Bakery 2026)
+- Ny indsigt: September er sæson for rodfrugter i Danmark — pastinak, jordskokke, persillerod og knoldselleri er alle i sæson primo september (kilde: iform.dk)

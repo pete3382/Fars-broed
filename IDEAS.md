@@ -1703,6 +1703,34 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### A36 — September er surdejens måned
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede
+**Placering:** Facebook & Instagram feed, målrettet Middelfart + 20 km radius
+**Objektiv:** Sales → HubSpot bestillingsformular
+**Visuel:** En friskbagt surdejsbolle i køligt septemberlys på et enkelt køkkenbord. Naturligt, uiscenesæt.
+
+> **Timing:** Kør 1.–30. september 2026. Sourdough September løber hele måneden.
+
+**Kilde:** [Sourdough September 2026 — Real Bread Campaign](https://www.sustainweb.org/realbread/sourdough_september/)
+
+**Overskrift:** September er surdejens måned
+
+**Primær tekst:**
+> Hele september fejres surdej verden over.
+>
+> Et brød af mel, vand, salt og tid. Ingen tilsætningsstoffer, ingen genveje. Bagt i hånden i Middelfart og klar til afhentning.
+>
+> Bestil dit hold inden torsdag.
+
+**CTA-knap:** Bestil nu
+
+---
+
 ## Newsletter (HubSpot Free)
 
 ### Hvad du har på gratisplanen
@@ -2954,6 +2982,37 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL41 — September er surdejens måned
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — send 1.–2. september 2026
+**Formål:** Sæt tonen for september med Sourdough September som platform. Styrk relationen til listen og giv en konkret bestillingsanledning.
+**Visuel:** Friskbagte boller i naturligt, køligt septemberlys — et enkelt, roligt billede.
+
+**Emnelinje:** September er surdejens måned
+**Preheader:** Hele verden fejrer det brød, du allerede spiser
+
+**Kilde:** [Sourdough September — Real Bread Campaign / Sustain](https://www.sustainweb.org/realbread/sourdough_september/)
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> September er her — og hvert år markeres Sourdough September verden over. En hel måned dedikeret til det brød, der hæver naturligt, smager af tid og er lavet af så få ingredienser, at man kan tælle dem på én hånd.
+>
+> Det er ikke en trend. Det er gammelt håndværk, der finder sin rette plads igen.
+>
+> Her bager vi videre som altid — et hold ad gangen, fire ingredienser, natten over på køl. Næste hold er klar [dato]. Bestil her:
+>
+> [Bestil nu →]
+>
+> God september,
+> [Navn]
+
+---
+
 ### O41 — Middelfart Jazz Festival
 
 **Kvalitet:** `[ ]` God `[ ]` Dårlig
@@ -3945,6 +4004,56 @@ Slide 5:
 
 ---
 
+### O81 — September er surdejens måned
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karrusel (3 slides)
+**Visual:** Slide 1: nærbillede af en friskbagt surdejsbolle i køligt septemberlys — dampende skorpe, ingen rekvisitter. Slide 2: varm cremefarvet baggrund med stor mørk tekst. Slide 3: boller på en rist, klar til afhentning.
+
+**Kilde:** [Sourdough September — Real Bread Campaign / Sustain](https://www.sustainweb.org/realbread/sourdough_september/) / [Sourdough September 2026 — National Today](https://nationaltoday.com/sourdough-september/)
+
+**Slide 1:** September er officielt surdejens måned.
+**Slide 2:** Sourdough September er en international kampagne drevet af Real Bread Campaign. Den fejrer ægte, naturligt hævet brød — bagt af rigtige mennesker, med tid og opmærksomhed. Ingen genveje. Præcis det, vi gør her.
+**Slide 3:** Fars Brød bager videre. Et hold ad gangen. Fire ingredienser. Bestil via linket i bio. #SourdoughSeptember
+
+**Caption:**
+> September er surdejens måned.
+>
+> Hvert år markerer bagere og brødentusiaster verden over Sourdough September — en hyldest til det brød, der hæver naturligt, smager af tid og indeholder præcis det, der er brug for.
+>
+> Ingen tilsætningsstoffer. Ingen genveje. Bare mel, vand, salt og en levende starter, der har gjort arbejdet siden natten.
+>
+> Det er det, vi bager. Det er det, vi altid har bagt.
+>
+> Bestil via linket i bio. #SourdoughSeptember
+
+---
+
+### O82 — Rodfrugterne er tilbage
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede
+**Visual:** En friskbagt surdejsbolle ved siden af en dampende skål rodfrugtssuppe på et køkkenbord i blødere, lavere septemberlys. Enkelt og ægte.
+
+**Kilde:** [Råvarer i sæson september — iform.dk](https://iform.dk/sund-mad/kostraad/frugter-og-groentsager-i-saeson-i-september)
+
+**Caption:**
+> September er måneden, hvor rodfrugterne vender tilbage.
+>
+> Pastinak, jordskokke, persillerod, knoldselleri. Råvarer der har ventet under sommerjorden og er klar nu — mætte, søde og fyldte med efterårssmag.
+>
+> En god rodfrugtssuppe og en friskbagt surdejsbolle er en af de enkleste kombinationer, man kan sætte sig ned til. Bollerne passer til den slags måltider.
+>
+> Bestil via linket i bio.
+
+---
+
 ## Generel forretningsudvikling
 
 ---
@@ -4611,6 +4720,25 @@ Slide 5:
 - Undersøg om der findes et uformelt netværk af mikrobagerier — hvis ikke, kan et løst kollektivt initiativ være et fremtidigt spor
 
 **Kilde:** [An interview with Simpel Surdej from Viborg — All Things Nordic](https://allthingsnordic.medium.com/an-interview-with-simpel-surdej-from-viborg-denmark-d07de8031c6b) / [Copenhagen's sourdough revolution — Wonderful Copenhagen](https://www.wonderfulcopenhagen.com/wonderful-copenhagen/international-press/copenhagens-sourdough-revolution)
+
+---
+
+### BD42 — Sourdough September: Planlæg månedskampagnen
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Brug Sourdough September (1.–30. september) som platform for en koordineret kommunikationsindsats hele måneden. En international bevægelse, der fejrer ægte surdej, er et gratis løft til Fars Brøds fortælling — og det kræver ingen ekstra produktion.
+**Hvorfor det virker:** Sourdough September drives af Real Bread Campaign og har international synlighed. Hashtag #SourdoughSeptember samler globalt engagement. For et lille mikrobageri er det en sjælden mulighed for at koble sig til en større bevægelse med sin autentiske stemme — uden ekstra omkostninger. Brug det til at øge synlighed, bestillinger og nyhedsbrevsabonnenter i én koordineret indsats.
+**Sådan gøres det:**
+- Uge 1 (1.–7. sept): Send NL41 (September er surdejens måned) og post O81 (karrusel)
+- Uge 2 (8.–14. sept): Post O82 (Rodfrugterne er tilbage), kør A36 (Meta ad, hele september)
+- Uge 3 (15.–21. sept): Teknisk indhold — O65 (Hvad kulden gør ved surdejen) eller O68 (To syrer. Et bid.)
+- Uge 4 (22.–30. sept): Personlig afslutning — hvad september har betydet fra bagerens perspektiv
+- Brug #SourdoughSeptember på alle opslag i måneden
+
+**Kilde:** [Sourdough September — Real Bread Campaign](https://www.sustainweb.org/realbread/sourdough_september/) / [Sourdough September 2026 — National Today](https://nationaltoday.com/sourdough-september/)
 
 ---
 
