@@ -310,6 +310,18 @@ End of every session: update claude.md with new learnings
 - Ny indsigt: Simpel Surdej i Viborg er blevet en af de mest anerkendte europæiske surdejsbrands — dansk mikrobageri-scene har international synlighed (kilde: All Things Nordic)
 - Ny indsigt: Koldere fermentering (efterårstemperaturer) favoriserer mælkesyre frem for eddikesyre — det er en solid teknisk vinkel til september-kommunikation
 
+## Automatisk månedlig opdatering — 2026-09-01
+- Bot-kørslen arkiverede 0 idéer (ingen opfyldte arkiveringskriterierne)
+- 5 nye idéer tilføjet baseret på research (Sourdough September, oktober-overgang, sæsonfermentering, lokal event-strategi):
+  - **A37** — Oktober: Start måneden rigtigt (Meta ad, kør hele oktober)
+  - **NL42** — Hvad september lærte mig (personligt måneds-opsummering, send 28.–30. september)
+  - **O83** — #SourdoughSeptember: Del dit morgenøjeblik (engagement Story/opslag, brug i uge 2–3 september)
+  - **O84** — Efterårsbollen er en anelse mildere (statisk, sensorisk beskrivelse af efterårsboldens smagsændring)
+  - **BD43** — Oktober-events på Hindsgavl Slot: Lokale bestillingsanledninger (forretningsudvikling, events 4./10./24. okt — verificér på hindsgavl.dk)
+- Ny indsigt: Crunchy textures +19% i 2026 — sprød skorpe er et stærkt salgsargument i september-oktober (kilde: Accio/Bread Trends 2026)
+- Ny indsigt: Sourdough September 2026 er i fuld gang — #SourdoughSeptember som globalt hashtag bekræftet (kilde: Real Bread Campaign / sustainweb.org)
+- Ny indsigt: Hindsgavl Slot har events i oktober 2026 (4., 10. og 24. oktober nævnt) — specificér eventtyper ved at verificere på hindsgavl.dk inden publicering
+
 ## Automatisk månedlig opdatering — 2026-08-31
 - Bot-kørslen arkiverede 0 idéer (ingen opfyldte arkiveringskriterierne)
 - 5 nye idéer tilføjet baseret på research (Sourdough September international kampagne, sæsonbetonet indhold primo september, danske rodfrugter i sæson):

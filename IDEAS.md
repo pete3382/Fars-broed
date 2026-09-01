@@ -1731,6 +1731,32 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### A37 — Oktober: Start måneden rigtigt
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce
+**Placering:** Facebook & Instagram feed, målrettet Middelfart + 20 km radius
+**Objektiv:** Sales → HubSpot bestillingsformular
+**Visuel:** En friskbagt surdejsbolle på et morgenbord i det gyldne oktoberlys — varmt og hjemligt. En kop kaffe delvist i billedets kant.
+
+> **Timing:** Kør 1.–31. oktober 2026.
+
+**Overskrift:** Oktober er her — start den med noget ægte
+
+**Primær tekst:**
+> Hverdagen er i gang igen. Morgenerne er køligere.
+>
+> Et hold friskbagte surdejsboller til den nye uge. Bagt i hånden i Middelfart. Fire ingredienser, ingen tilsætningsstoffer.
+>
+> Bestil til din næste weekend.
+
+**CTA-knap:** Bestil nu
+
+---
+
 ## Newsletter (HubSpot Free)
 
 ### Hvad du har på gratisplanen
@@ -3013,6 +3039,37 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL42 — Hvad september lærte mig
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — send 28.–30. september 2026
+**Formål:** Personlig måneds-opsummering der afslutter Sourdough September og bygger bro til oktober — ægte, refleksiv og med konkret bestillingsanledning
+**Visuel:** Simpelt produktfoto i det lavere septemberlys — boller på et køkkenbord, gerne med det gyldne, lave efterårslys synligt.
+
+**Emnelinje:** Hvad september lærte mig
+**Preheader:** Et brev fra køkkenet inden oktober starter
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> September er ved at være slut.
+>
+> Det har været en god måned at bage i. Morgenerne er blevet køligere, og det kan mærkes i dejen. Surdejen hæver langsommere. Fermenteringen er mere forudsigelig. Smagen rundere og mildere. Mælkesyren tager over fra eddikesyren, efterhånden som temperaturen falder. Det er den slags overgang, man kun mærker, hvis man bager jævnligt.
+>
+> Oktober er på vej. Bollerne er de samme. Processen tilpasses vejret.
+>
+> Bestil til din første oktobervekeend via linket herunder.
+>
+> [Bestil nu →]
+>
+> God start på oktober,
+> [Navn]
+
+---
+
 ### O41 — Middelfart Jazz Festival
 
 **Kvalitet:** `[ ]` God `[ ]` Dårlig
@@ -4054,6 +4111,50 @@ Slide 5:
 
 ---
 
+### O83 — #SourdoughSeptember: Del dit morgenøjeblik
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Story med spørgsmålssticker eller statisk opslag
+**Visual:** En friskbagt surdejsbolle på et simpelt morgenbord — personligt og uiscenesæt. Spørgsmålssticker eller tekstoverlay: "Hvad er dit yndlingsøjeblik med surdej?"
+
+> **Timing:** Post i september, gerne uge 2–3. Brug #SourdoughSeptember på alle september-opslag.
+
+**Caption:**
+> September er surdejens måned.
+>
+> Verden over deles billeder, historier og opskrifter under #SourdoughSeptember. Vi er selvfølgelig med.
+>
+> Hvad er dit yndlingsøjeblik med en surdejsbolle? Morgenmaden? Pakket med til arbejde? Til en lang frokost i weekenden?
+>
+> Del det i kommentarerne — eller tag os, så vi kan se det.
+>
+> Bestil dine boller via linket i bio.
+
+---
+
+### O84 — Efterårsbollen er en anelse mildere
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede
+**Visual:** En bolle brudt åben i det gyldne, lave efterårslys — krummen synlig. Lyset er varmere og lavere end sommerens. Ingen rekvisitter. Intimt og sæsonaktuelt.
+
+**Caption:**
+> Efterårsbollen smager en anelse anderledes.
+>
+> Ikke opskriften — den er den samme. Men koldere nætter ændrer fermenteringen. Mælkesyrebakterierne dominerer over eddikesyrebakterierne, efterhånden som temperaturen falder. Det giver en rundere, mildere smag. Mindre skarp, mere afdæmpet.
+>
+> Det er ikke noget du tænker over, når du spiser bollen. Men det er der.
+>
+> Bestil via linket i bio.
+
+---
+
 ## Generel forretningsudvikling
 
 ---
@@ -4739,6 +4840,23 @@ Slide 5:
 - Brug #SourdoughSeptember på alle opslag i måneden
 
 **Kilde:** [Sourdough September — Real Bread Campaign](https://www.sustainweb.org/realbread/sourdough_september/) / [Sourdough September 2026 — National Today](https://nationaltoday.com/sourdough-september/)
+
+---
+
+### BD43 — Oktober-events på Hindsgavl Slot: Lokale bestillingsanledninger
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Idé:** Hindsgavl Slot afholder events i oktober 2026 — herunder arrangementer den 4., 10. og 24. oktober (ifølge hindsgavl.dk). Brug dem som lokale bestillingsanledninger samme strategi som med LIVE Hindsgavl Slot i august. Kør et kort opslag eller Story 2–3 dage inden hvert event målrettet Middelfart + 15 km.
+**Hvorfor det virker:** Lokale events sætter folk i en "god dag"-stemning. En friskbagt bolle til morgenmaden inden et arrangement er en nem og naturlig kobling. Ingen konkurrence fra andre lokale bagere.
+**Sådan gøres det:**
+- Verificér eventtyper og datoer på hindsgavl.dk inden publicering — sørg for at events er åbne for offentligheden
+- Kør et statisk opslag eller Story 2–3 dage inden hvert event med vinklen "start dagen godt inden arrangementet"
+- Brug A22-skabelonen (LIVE Hindsgavl Slot, august) som udgangspunkt for copy
+
+> **Bemærk:** Verificér specifikke eventtyper på hindsgavl.dk — datoer fra søgning er ikke 100% bekræftede.
 
 ---
 
