@@ -1757,6 +1757,34 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### A38 — Hygge og håndværk: Bollen til efteråret
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce
+**Placering:** Facebook & Instagram feed, målrettet Middelfart + 20 km radius
+**Objektiv:** Sales → HubSpot bestillingsformular
+**Visuel:** En friskbagt surdejsbolle brudt åben på et morgenbord — blødt, guldtonet efterårslys, en kop kaffe delvist i billedets kant. Varmt og indbydende.
+
+> **Timing:** Kør september–oktober 2026.
+
+**Kilde:** [Hyggemad comeback 2026 — Schär](https://www.schaer.com/da-dk/a/hyggemad-goer-comeback)
+
+**Overskrift:** Efteråret smager bedre med godt brød
+
+**Primær tekst:**
+> 2026 er hyggemadets år, siger madeksperterne. Vi er enige.
+>
+> Friskbagte surdejsboller til morgenbordet. Bagt i hånden i Middelfart. Fire ingredienser, lang hævetid, ingen tilsætningsstoffer.
+>
+> Bestil til din næste weekend.
+
+**CTA-knap:** Bestil nu
+
+---
+
 ## Newsletter (HubSpot Free)
 
 ### Hvad du har på gratisplanen
@@ -3070,6 +3098,39 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL43 — Oktober nærmer sig: Her er hvad jeg ved
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — send 23.–26. september 2026
+**Formål:** Fremadskuende nyhedsbrev der bygger bro fra Sourdough September til oktober — praktisk, personlig og med konkret bestillingsanledning
+**Visuel:** Simpelt produktfoto i blødt, lavt efterårslys — boller på et køkkenbord.
+
+**Emnelinje:** Oktober nærmer sig
+**Preheader:** Et kig frem fra køkkenet
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> September nærmer sig sin afslutning. Det har faktisk været en god måned at bage i — roligere end august, mere forudsigelig. Surdejen opfører sig ordentligt, når luften køler af.
+>
+> Oktober bringer endnu lidt mere af det samme: kortere dage, lavere temperaturer og en fermentering der tager sig bedre tid. Det giver bollerne en lidt rundere, mildere smag end de havde i sommervarmen.
+>
+> Hindsgavl Slot holder arrangementer hele oktober — det er altid en god anledning til at sikre sig et hold boller til morgenmaden inden en god dag.
+>
+> Har du prøvet at fryse bollerne ned? De tager godt imod det. En hurtig opvarmning i ovnen, og de er som friskbagte. Praktisk til hverdagene, hvor man gerne vil have noget godt uden at vente på næste bestillingsrunde.
+>
+> Bestil til din første oktoberweekend via linket herunder.
+>
+> [Bestil nu →]
+>
+> God start på efteråret,
+> [Navn]
+
+---
+
 ### O41 — Middelfart Jazz Festival
 
 **Kvalitet:** `[ ]` God `[ ]` Dårlig
@@ -4155,6 +4216,48 @@ Slide 5:
 
 ---
 
+### O85 — Hyggemad er kommet tilbage. Bollen hører med.
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede
+**Visual:** En friskbagt surdejsbolle på et mørkt træbord i blødt efterårslys — et stearinlys ude af fokus i baggrunden. Varmt, stille og hjemligt.
+
+**Kilde:** [Hyggemad comeback: Derfor bliver 2026 året for mad, der føles godt — Schär](https://www.schaer.com/da-dk/a/hyggemad-goer-comeback)
+
+**Caption:**
+> Madeksperter kalder 2026 for hyggemadets år.
+>
+> Ikke fordi vi er holdt op med at tænke over, hvad vi spiser. Men fordi vi har lært, at de to ting kan hænge sammen. Mad lavet med tid og omsorg er ikke det modsatte af at spise ordentligt.
+>
+> En friskbagt surdejsbolle er ikke et kompromis. Det er det, vi faktisk gerne vil have til morgenmaden.
+>
+> Bestil via linket i bio.
+
+---
+
+### O86 — Oktober ændrer lyset i køkkenet
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede eller kort Reel (10–15 sek.)
+**Visual:** Bagerens hænder folder dej ved et køkkenvindue — efterårssolen kaster et blødere, lavere lys ind end om sommeren. Naturligt morgenlys, ingen iscenesættelse.
+
+**Caption:**
+> Oktober ændrer lyset i køkkenet.
+>
+> Solen er lavere. Morgenerne er mørkere. Og surdejen mærker det — den arbejder lidt langsommere, fordi luften er kølet af. Det er grunden til, at bollerne fra oktober har en lidt rundere, mildere smag end augustbollerne. Ikke opskriften. Temperaturen.
+>
+> Der er noget rart ved det. En sæson, der lader sig mærke i det, du bager.
+>
+> Bestil via linket i bio.
+
+---
+
 ## Generel forretningsudvikling
 
 ---
@@ -4857,6 +4960,37 @@ Slide 5:
 - Brug A22-skabelonen (LIVE Hindsgavl Slot, august) som udgangspunkt for copy
 
 > **Bemærk:** Verificér specifikke eventtyper på hindsgavl.dk — datoer fra søgning er ikke 100% bekræftede.
+
+---
+
+### BD44 — Julegave-pakker 2026: Planlæg nu til december
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Baggrund:** Julegave-vinduet er november-december. For at nå det med kvalitet og reel kommunikation kræver det planlægning fra september-oktober. BD39 handler om selve pakken — BD44 handler om den strategiske planlægning og tidslinje.
+
+**Tidslinje:**
+- September: Beslut pakkeformat og pris (se BD39 for skelet)
+- Oktober: Bestil emballagematerialer (papirkasse, håndskrevet kort) og beslut antal
+- Primo november: Åbn pre-order via nyhedsbrev — kun til eksisterende abonnenter
+- Medio november: Reminder til dem, der ikke har bestilt
+- Cut-off: 10. december — giv plads til bagning og koordineret afhentning
+
+**Forslag til pakken:**
+- 4–6 boller i papirkasse med håndskrevet hilsen
+- Begrænset antal — kommunikér det tydeligt som salgspunkt
+- Pris: `[X]` kr/pakke (verificér emballagekostpris og margin, se BD39)
+- Afhentning: Tyttebærkvisten med aftalt tidspunkt
+
+**Kommunikationsplan (skelet):**
+1. NL primo november: "Julegave-pakker fra Fars Brød — begrænset antal"
+2. Social post i november: Enkelt billede af pakken klar til afhentning
+3. NL reminder medio november: "Få dage tilbage inden vi er udsolgt"
+4. Cut-off-meddelelse: "Bestilling lukket"
+
+> **Bemærk:** Pris og emballagekostpris skal verificeres inden kommunikation. Se BD39 for udgangspunkt og BD7 for gavepakkeidéen.
 
 ---
 

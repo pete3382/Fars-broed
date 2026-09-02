@@ -333,3 +333,15 @@ End of every session: update claude.md with new learnings
 - Ny indsigt: Sourdough September er en international kampagne (Real Bread Campaign, UK) der løber hele september — #SourdoughSeptember er et globalt hashtag med bred organisk rækkevidde (kilde: sustainweb.org/realbread)
 - Ny indsigt: Sourdough-produktlanceringer steg 31% i 2026 — "Return to Real" driver væksten globalt (kilde: Puratos / Atome Bakery 2026)
 - Ny indsigt: September er sæson for rodfrugter i Danmark — pastinak, jordskokke, persillerod og knoldselleri er alle i sæson primo september (kilde: iform.dk)
+
+## Automatisk månedlig opdatering — 2026-09-02
+- Bot-kørslen arkiverede 0 idéer (ingen opfyldte arkiveringskriterierne)
+- 5 nye idéer tilføjet baseret på research (hyggemad-comeback 2026, efterårssæson, oktoberplanlægning, julegave-forberedelse):
+  - **O85** — Hyggemad er kommet tilbage. Bollen hører med. (statisk, hyggemad-comeback som kulturel vinkel)
+  - **O86** — Oktober ændrer lyset i køkkenet (statisk/reel, sæsonpersonlig sensorisk post)
+  - **A38** — Hygge og håndværk: Bollen til efteråret (Meta ad, september–oktober, hygge-vinkel)
+  - **NL43** — Oktober nærmer sig: Her er hvad jeg ved (nyhedsbrev, send 23.–26. september)
+  - **BD44** — Julegave-pakker 2026: Planlæg nu til december (forretningsudvikling, juleplanlægningstidslinje)
+- Ny indsigt: "Hyggemad" er vendt stærkt tilbage i dansk madkultur i 2026 — madeksperter kalder det "hyggemadets år", hvor mad lavet med tid og omsorg positioneres som både godt og sundt (kilde: Schär/Madison 2026)
+- Ny indsigt: Kold efterårshævning producerer en blødere, mere kompleks krumme — "Biological Acid Load" fra organiske syrer er biologisk relevant for fordøjelighed (kilde: SourdoughGeeks / The Sourdough Journey 2026)
+- Ny indsigt: Hindsgavl Slot er bekræftet med events i oktober 2026 — specificér datoer og eventtyper ved at verificere på hindsgavl.dk inden publicering
