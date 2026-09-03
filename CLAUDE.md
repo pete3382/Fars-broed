@@ -334,6 +334,18 @@ End of every session: update claude.md with new learnings
 - Ny indsigt: Sourdough-produktlanceringer steg 31% i 2026 — "Return to Real" driver væksten globalt (kilde: Puratos / Atome Bakery 2026)
 - Ny indsigt: September er sæson for rodfrugter i Danmark — pastinak, jordskokke, persillerod og knoldselleri er alle i sæson primo september (kilde: iform.dk)
 
+## Automatisk månedlig opdatering — 2026-09-03
+- Bot-kørslen arkiverede 0 idéer (ingen opfyldte arkiveringskriterierne)
+- 5 nye idéer tilføjet baseret på sæsonlogik (oktober-overgang, Verdens Brøddag, efterårsfermentering, liste-vækst):
+  - **O87** — Verdens Brøddag 16. oktober (statisk/karrusel, international event som indholdsanledning)
+  - **O88** — Mørke morgener er på vej (statisk, oktober-sæsonbillede med mørke morgener og bagning i dvale)
+  - **A39** — Efterårsmorgenen er det værd (Meta ad, kør hele oktober, sæsonspecifik smagsvinkel)
+  - **NL44** — Oktober i bagerens køkken (personlig sæsonmail, send 1.–3. oktober)
+  - **BD45** — Liste-vækst inden december: En plan for oktober (50 nye kontakter inden 1. november, HubSpot-tilmelding)
+- Ny indsigt: Oktober er det bedste tidspunkt at vækste e-maillisten inden julekampagner — en HubSpot-formular med klart tilmeldingsfelt er central
+- Ny indsigt: Verdens Brøddag afholdes hvert år den 16. oktober (World Bread Day) — en global indholdsanledning der ikke er benyttet i IDEAS.md tidligere
+- WebSearch ikke tilgængeligt under denne kørsel — idéer baseret på sæsonlogik, dokumenteret bageteknisk viden og kendte events
+
 ## Automatisk månedlig opdatering — 2026-09-02
 - Bot-kørslen arkiverede 0 idéer (ingen opfyldte arkiveringskriterierne)
 - 5 nye idéer tilføjet baseret på research (hyggemad-comeback 2026, efterårssæson, oktoberplanlægning, julegave-forberedelse):
