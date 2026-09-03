@@ -1785,6 +1785,32 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### A39 — Efterårsmorgenen er det værd
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce
+**Placering:** Facebook & Instagram feed, målrettet Middelfart + 20 km radius
+**Objektiv:** Sales → HubSpot bestillingsformular
+**Visuel:** En friskbagt surdejsbolle på et morgenbord i det gyldne, bløde efterårslys — en kop kaffe i billedets kant. Varmt og indbydende. Ingen rekvisitter.
+
+> **Timing:** Kør hele oktober 2026.
+
+**Overskrift:** Efterårsmorgenen er det værd
+
+**Primær tekst:**
+> Morgenerne er køligere nu.
+>
+> En friskbagt surdejsbolle smager en anelse anderledes om efteråret — koldere fermentering favoriserer mælkesyren frem for eddikesyren. Rundere, mildere. Det er sæsonens smag.
+>
+> Bagt i hånden i Middelfart. Fire ingredienser, natten over på køl. Bestil til din næste weekend.
+
+**CTA-knap:** Bestil nu
+
+---
+
 ## Newsletter (HubSpot Free)
 
 ### Hvad du har på gratisplanen
@@ -3131,6 +3157,39 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL44 — Oktober i bagerens køkken
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — send 1.–3. oktober 2026
+**Formål:** Personlig sæsonhilsen der åbner oktober med et kig ind i bagerens køkken og de ændringer, efteråret bringer
+**Visuel:** Simpelt produktfoto i det bløde, gyldne oktoberlys — boller på et bord, intet ekstra.
+
+**Emnelinje:** Oktober er her — og køkkenet mærker det
+**Preheader:** Et brev fra bageren om det, der ændrer sig
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> Oktober er kommet.
+>
+> Det mærkes i dejen allerede. Surdejen hæver langsommere nu — ikke meget, men nok til at man tager en ekstra tik med følehornet. Mælkesyrebakterierne arbejder roligere, og det giver en lidt mildere, mere afrundet smag end de boller, du fik i august.
+>
+> Det er ikke en fejl. Det er efterår.
+>
+> De næste to måneder er bagerens bedste. Temperaturen er forudsigelig. Fermenteringen er nem at styre. Bollerne, der hæver natten over ved 4–6 grader, er dem med den mest afbalancerede smag.
+>
+> Bestil til din første oktoberweekend via linket herunder.
+>
+> [Bestil nu →]
+>
+> God oktober,
+> [Navn]
+
+---
+
 ### O41 — Middelfart Jazz Festival
 
 **Kvalitet:** `[ ]` God `[ ]` Dårlig
@@ -4258,6 +4317,50 @@ Slide 5:
 
 ---
 
+### O87 — Verdens Brøddag: 16. oktober
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede eller karrusel (2–3 slides)
+**Visual:** En friskbagt surdejsbolle på et enkelt bord i det bløde oktoberlys — naturligt, uiscenesæt. Eventuelt slide 2 med varm cremefarvet baggrund og stor mørk tekst.
+
+> **Timing:** Post 15.–16. oktober. Verdens Brøddag er den 16. oktober hvert år (World Bread Day).
+
+**Caption:**
+> Den 16. oktober er Verdens Brøddag.
+>
+> Et brød bages et sted i verden hvert sekund af dagen. I Middelfart er det fire ingredienser, lang hævetid og en surdejsstarter, der fodres om morgenen.
+>
+> Det er det, der giver smagen. Ikke budgettet. Ikke emballagen.
+>
+> Bestil via linket i bio.
+
+---
+
+### O88 — Mørke morgener er på vej
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede
+**Visual:** En friskbagt surdejsbolle på et køkkenbord i det tidlige, mørke oktoberlys — kun køkkenlyset tændt, vinduet bag mørkt. Varmt og hjemligt. Intet andet i billedet.
+
+> **Timing:** Post i anden halvdel af oktober — gerne omkring skiftet til vintertid (27. oktober 2026).
+
+**Caption:**
+> Snart er det mørkt, når du spiser morgenmad.
+>
+> Surdejen bages alligevel. Dejen er lagt natten over. Bollerne er formede og i ovnen, inden lyset er fremme.
+>
+> Det er den del af efteråret, man vænner sig til — og som faktisk har sin egen ro.
+>
+> Bestil via linket i bio.
+
+---
+
 ## Generel forretningsudvikling
 
 ---
@@ -4991,6 +5094,26 @@ Slide 5:
 4. Cut-off-meddelelse: "Bestilling lukket"
 
 > **Bemærk:** Pris og emballagekostpris skal verificeres inden kommunikation. Se BD39 for udgangspunkt og BD7 for gavepakkeidéen.
+
+---
+
+### BD45 — Liste-vækst inden december: En plan for oktober
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Hvad:** Oktober er det bedste tidspunkt at vækste nyhedsbrevslisten aktivt inden juleperioden. Et simpelt push med ét konkret mål: 50+ nye kontakter på listen inden 1. november.
+
+**Konkrete tiltag:**
+- Opdatér HubSpot-formularen med tydeligt afkrydsningsfelt: „Ja tak, send mig opdateringer fra Fars Brød"
+- Tilføj link til tilmeldingen i Instagram-bio og som Story-sticker i oktober
+- Skriv ét organisk opslag i oktober med invitation: „Bestil via linket — eller tilmeld dig listen og vær den første til at høre om juleholdet"
+- Giv folk en konkret grund til at tilmelde sig: eksklusive julehold til listens abonnenter inden offentlig annoncering
+
+**Mål:** 50 nye e-mailkontakter inden 1. november 2026
+**Forventet investering:** 1–2 timer opsætning, ingen annoncekroner nødvendige
+**Relation til:** BD39 (Google-anmeldelser), BD44 (Julegave-pakker), NL44 (oktoberbrev som katalysator)
 
 ---
 
