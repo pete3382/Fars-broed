@@ -1811,6 +1811,34 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### A40 — Oktober er i gang: Smagen ændrer sig
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce
+**Placering:** Facebook & Instagram feed, Middelfart + 20 km radius
+**Objektiv:** Sales → HubSpot bestillingsformular
+**Visuel:** En friskbagt surdejsbolle på et efterårsbord — dæmpet lys, en kop te eller kaffe i kanten. Varmt og roligt. Intet overflødigt.
+
+> **Timing:** Kør hele oktober 2026. Test parallelt med A39 — hvilken vinkel konverterer bedst.
+
+**Overskrift:** Smagen ændrer sig om efteråret
+
+**Primær tekst:**
+> Koldt vejr ændrer fermenteringen.
+>
+> Om efteråret hæver dejen langsommere — og mælkesyren får mere plads frem for eddikesyren. Resultatet er en bolle med en mildere, mere afrundet smag end sommerbollerne.
+>
+> Det er ikke en fejl. Det er årstiden.
+>
+> Bagt i hånden i Middelfart. Bestil til din næste weekend.
+
+**CTA-knap:** Bestil nu
+
+---
+
 ## Newsletter (HubSpot Free)
 
 ### Hvad du har på gratisplanen
@@ -3190,6 +3218,41 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL45 — Hvad du gør med gårsdagens bolle
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Oktober (send primo oktober)
+**Formål:** Praktisk vidensdeling — zero-waste-vinkel der styrker relationen til listen
+**Emne:** Du behøver ikke smide den ud
+**Preview:** En dag gammel surdejsbolle er stadig god — her er tre ting du kan gøre med den
+
+**Krop:**
+> Hej [Fornavn],
+>
+> Surdejsboller holder sig bedre end gærhævet brød.
+>
+> Det er ikke tilfældigt. Under fermenteringen producerer mælkesyrebakterierne organiske syrer der sænker pH-værdien i dejen. Den lave pH-værdi bremser skimmelsvampens vækst naturligt — uden konserveringsmidler.
+>
+> Men selv den bedste bolle bliver lidt tør efter to dage. Her er tre ting jeg selv gør, når der er en bolle til overs:
+>
+> **Croutons.** Skær den i tern, vend dem i olivenolie og et nip salt. 200 grader i 10 minutter. De holder sig i en lufttæt beholder i fire dage og er bedre end dem fra posen.
+>
+> **Pangrattato.** Riv bolden groft og rist raspen tør på panden til den er gylden og knasende. Drys det over pasta, suppe eller risotto i stedet for ost. Smager af mere end det koster.
+>
+> **Rist den og spis den med hvad du har.** Fem minutter i ovnen ved 180 grader, og den er næsten som ny. Et æg, noget ost, et par skiver avocado. Det er en god frokost.
+>
+> Zero-waste-køkkenet handler om at bruge det man allerede har — og surdejsboller er et godt udgangspunkt.
+>
+> Bestil dit næste hold her: [Bestil nu →]
+>
+> God oktober,
+> [Navn]
+
+---
+
 ### O41 — Middelfart Jazz Festival
 
 **Kvalitet:** `[ ]` God `[ ]` Dårlig
@@ -4361,6 +4424,54 @@ Slide 5:
 
 ---
 
+### O89 — Maillard-reaktionen: Det der sker i de sidste minutter
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karrusel (4 slides)
+**Visual:** Slide 1: nærbillede af en surdejsbolle der tager farve i ovnen — gylden, karamelliseret overflade, damp synlig. Slides 2–4: cremefarvet baggrund, stor mørk tekst, én pointe per slide.
+
+**Slide 1:** Bollerne bruner. Her er hvad der sker.
+**Slide 2:** Det hedder Maillard-reaktionen. Varmen sætter gang i en kemisk reaktion mellem aminosyrer fra melet og sukkerarter fra fermenteringen. De reagerer og danner hundredvis af nye aromastoffer. Det er dem, der giver farven og duften.
+**Slide 3:** Fermenteringen ændrer reaktionen. Under koldhævningen nedbryder enzymer en del af stivelsen til de reducerende sukkerarter, Maillard-reaktionen bruger. Surdejsboller bruner mere dybt og ensartet end gærhævet brød — fordi fermenteringen har gjort forarbejdet.
+**Slide 4:** Fire ingredienser. Lang tid. Høj varme. Det er det hele. Bestil via linket i bio.
+
+**Caption:**
+> Det sker i de sidste minutter i ovnen.
+>
+> Men forarbejdet tager natten over.
+>
+> Bestil via linket i bio.
+
+---
+
+### O90 — Tre ting du gør med en dag gammel bolle
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karrusel (4 slides) eller kort Reel (20–30 sek.)
+**Visual:** Slide 1: en dag gammel bolle på et skærebræt, naturligt lys. Slides 2–4: de tre tilberedninger — croutons i en skål, pangrattato over pasta, ristet bolle med pålæg.
+
+> **Kilde:** Zero-waste kitchens er en af de stærkeste forbrugertrends i 2026 — ([Business Upturn, 2026](https://www.businessupturn.com/lifestyle/food-drinks/zero-waste-kitchens-are-becoming-a-lifestyle-trend-in-2026-as-people-rethink-leftovers-and-food-storage/))
+
+**Slide 1:** En dag gammel surdejsbolle er ikke spild. Her er hvad du gør med den.
+**Slide 2:** Croutons. Skær den i tern, vend dem i lidt olie og salt. 200 grader, 10 minutter. Sprøde, gyldne og bedre end dem fra posen.
+**Slide 3:** Pangrattato. Riv bolden groft og rist raspen tør på panden. Drys det over pasta som du ville med ost. Det knaser og smager af brød og salt.
+**Slide 4:** Rist den og spis den med hvad du har. En surdejsbolle holder sig bedre end gærhævet brød — mælkesyren fra fermenteringen bremser skimmelsvampens vækst naturligt.
+
+**Caption:**
+> Surdejsbollerne holder sig. Men to-tre dage gamle er de stadig gode til noget.
+>
+> Zero-waste-køkkenet handler om at bruge det man har — ikke om at købe nyt.
+>
+> Bestil via linket i bio.
+
+---
+
 ## Generel forretningsudvikling
 
 ---
@@ -5114,6 +5225,31 @@ Slide 5:
 **Mål:** 50 nye e-mailkontakter inden 1. november 2026
 **Forventet investering:** 1–2 timer opsætning, ingen annoncekroner nødvendige
 **Relation til:** BD39 (Google-anmeldelser), BD44 (Julegave-pakker), NL44 (oktoberbrev som katalysator)
+
+---
+
+### BD46 — B2B: Sondér lokale cafeer og restauranter som faste kunder
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Hvad:** Identificér 2–3 lokale spisesteder i Middelfart med morgenmad eller brunch på menuen og pitch en ugentlig leverance af surdejsboller. Et fast ugentligt hold til en B2B-kunde giver forudsigelig omsætning og lokal synlighed.
+
+**Mulige steder:** [Indsæt konkrete navne efter lokal afsøgning — cafeer, brunchsteder, hotelrestauranter i Middelfart-området]
+
+**Hvad du pitcher:**
+- Fast ugentlig leverance (aftalt antal boller per uge)
+- Levering til aftalt adresse eller afhentning på Tyttebærkvisten
+- Bolden nævnt som „Lavet af Fars Brød i Middelfart" på menu eller koldskabskort
+- Ingen kontrakt — løbende aftale, fleksibel for begge parter
+
+**Erhvervspris:** ca. 10–12 kr/bolle (under detailpris, men volumen kompenserer). Verificér hvad markedet bærer lokalt inden pitch.
+
+**Timing:** Sondér i oktober — inden julesæsonen starter og stedet er klar til at justere Q4-indkøb. Brug Sourdough September som anledning: „Interessen for surdej er steget markant — vil I høre om et samarbejde?"
+
+**Forventet investering:** 2–4 timer til research og pitchmøder
+**Relation til:** BD14 (Lokalt netværk og events i Middelfart), BD36 (Fast ugentlig bestillingsfrist til efterårssæsonen)
 
 ---
 

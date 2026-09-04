@@ -357,3 +357,17 @@ End of every session: update claude.md with new learnings
 - Ny indsigt: "Hyggemad" er vendt stærkt tilbage i dansk madkultur i 2026 — madeksperter kalder det "hyggemadets år", hvor mad lavet med tid og omsorg positioneres som både godt og sundt (kilde: Schär/Madison 2026)
 - Ny indsigt: Kold efterårshævning producerer en blødere, mere kompleks krumme — "Biological Acid Load" fra organiske syrer er biologisk relevant for fordøjelighed (kilde: SourdoughGeeks / The Sourdough Journey 2026)
 - Ny indsigt: Hindsgavl Slot er bekræftet med events i oktober 2026 — specificér datoer og eventtyper ved at verificere på hindsgavl.dk inden publicering
+
+## Automatisk månedlig opdatering — 2026-09-04
+- Bot-kørslen arkiverede 0 idéer (ingen opfyldte arkiveringskriterierne)
+- 5 nye idéer tilføjet baseret på research (Maillard-reaktion, zero-waste trend 2026, sæsonfermentering, B2B-mulighed):
+  - **A40** — Oktober er i gang: Smagen ændrer sig (Meta ad, sæsonvinkel om efterårsfermenteringens effekt på smag, test parallelt med A39)
+  - **NL45** — Hvad du gør med gårsdagens bolle (nyhedsbrev, zero-waste-vinkel, croutons/pangrattato/ristning, send primo oktober)
+  - **O89** — Maillard-reaktionen: Det der sker i de sidste minutter (karrusel, bageteknisk nørdet om Maillard og fermenteringens indvirkning)
+  - **O90** — Tre ting du gør med en dag gammel bolle (karrusel/reel, zero-waste-vinkel, tre konkrete opskrifter)
+  - **BD46** — B2B: Sondér lokale cafeer og restauranter som faste kunder (forretningsudvikling, B2B-pitch til lokale brunchsteder)
+- Ny indsigt: Zero-waste kitchens er en af de stærkeste mainstream forbrugertrends i 2026 — folk omfunktionerer madrester som hverdagspraksis (kilde: Business Upturn 2026)
+- Ny indsigt: Maillard-reaktionen i surdejsboller er stærkere end i gærhævet brød fordi fermenteringen producerer reducerende sukkerarter fra stivelse — biologisk forklaring på den dybere brunfarve og komplekse duft
+- Ny indsigt: Surdejsboller holder sig bedre end gærhævet brød pga. lav pH fra mælkesyre — naturlig konservering uden tilsætningsstoffer er en stærk zero-waste-vinkel
+- Ny indsigt: Pangrattato (ristede brødrasp) og croutons er konkrete brugseksempler på gammel surdejsbolle — let at producere indhold om
+- Ny indsigt: B2B-salg til lokale cafeer og restauranter er en uudnyttet indkomstkanal — lokal brunch-kultur i vækst i 2026, lokale råvarer med fortælling er et stærkt salgsargument
