@@ -1839,6 +1839,30 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### A41 — Vin & Vin Middelfart 30. oktober
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce
+**Placering:** Facebook & Instagram feed, Middelfart + 15 km radius
+**Objektiv:** Sales → HubSpot bestillingsformular
+**Visuel:** En surdejsbolle på et morgenborddækning med en kop kaffe og antydningen af en vinaften — dæmpet lys, rolig stemning.
+
+> **Timing:** Kør 27.–30. oktober 2026. Vin & Vin Middelfart afholdes fredag 30. oktober kl. 18:00 (kilde: event.it/vinvinmiddelfart). Verificér dato inden publicering.
+
+**Overskrift:** Vinaftenen starter godt
+
+**Primær tekst:**
+> Vin & Vin er i Middelfart fredag aften.
+>
+> Start weekenden rigtigt med noget ordentligt til morgenmaden. Friskbagte surdejsboller til afhentning i Middelfart — bestil inden onsdag kl. 20.
+
+**CTA-knap:** Bestil nu
+
+---
+
 ## Newsletter (HubSpot Free)
 
 ### Hvad du har på gratisplanen
@@ -3253,6 +3277,35 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL46 — Oktober: Her er hvad der sker
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Oktober (send 1.–3. oktober)
+**Formål:** Sæsonoverblik — koordineret kommunikation om oktoberevents og efterårsbolden
+**Emne:** Oktober er her — her er hvad jeg ved
+**Preview:** Hindsgavl, vin og hvad kulden gør ved surdejen
+
+**Krop:**
+> Hej [Fornavn],
+>
+> Oktober er her.
+>
+> Og med den: Hindsgavl Slot med tre arrangementer denne måned — den 4., den 10. og den 24. oktober. Og Vin & Vin i Middelfart fredag den 30. Gode anledninger til en god morgen inden.
+>
+> Om dejen:
+>
+> Kulden ændrer fermenteringen. Mælkesyren får mere tid og mere plads end eddikesyren. Oktoberbollen er en anelse mildere og mere afrundet end sommerbollen. Ikke dårligere — bare anderledes.
+>
+> Bestil dit næste hold her: [Bestil nu →]
+>
+> God oktober,
+> [Navn]
+
+---
+
 ### O41 — Middelfart Jazz Festival
 
 **Kvalitet:** `[ ]` God `[ ]` Dårlig
@@ -4472,6 +4525,54 @@ Slide 5:
 
 ---
 
+### O91 — Teksturkontrasten: Det der sker i det ene bid
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karrusel (3 slides)
+**Visual:** Slide 1: Et tværsnit af en surdejsbolle med den åbne krumme synlig. Slide 2: Tæt på den sprøde, mørke skorpe. Slide 3: En hånd der bryder bollen — begge teksturer synlige.
+
+> **Kilde:** Teksturkontrast som trend — ([Accio Bread Trends 2026](https://www.accio.com/business/bread-trends)) / crunchy textures vokset +19% i 2026
+
+**Slide 1:** En surdejsbolle har to teksturer. Begge er vigtige.
+**Slide 2:** Ydersiden er sprød fordi dampen i ovnens første 10 minutter holder overfladen fugtig, mens varmen karamelliserer sukkeret via Maillard-reaktionen. Resultatet er en glasagtig, knasende skorpe.
+**Slide 3:** Indersiden er sej og åben fordi fermenteringen har bygget et glutennetværk med plads til CO₂-bobler fra surdejsstarteren. Det er modsætningen i det ene bid.
+
+**Caption:**
+> Der sker to ting på én gang, når du bider i en surdejsbolle.
+>
+> Ydersiden knaser. Indersiden giver sig.
+>
+> Det er ikke tilfældigt — det er teknik og tid. Damp i de første 10 minutter, lang hævning og et godt glutennetværk giver den kontrast.
+>
+> Bestil via linket i bio.
+
+---
+
+### O92 — Efterårets rodfrugter er fremme igen
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Statisk billede
+**Visual:** En bolle på et skærebræt ved siden af efterårssæsonens grøntsager — pastinak, jordskokke, persillerod. Naturligt lys, varm og mørk baggrund.
+
+> **Timing:** Post primo september — rodfrugter er i sæson i Danmark fra september.
+
+**Caption:**
+> Pastinakkerne er fremme igen. Og jordskokken.
+>
+> September er når det gode rodfrugt-sæson starter i Danmark.
+>
+> En surdejsbolle ved siden af suppen. Det er alt, der skal til for en god hverdagsaften.
+>
+> Bestil via linket i bio.
+
+---
+
 ## Generel forretningsudvikling
 
 ---
@@ -5250,6 +5351,30 @@ Slide 5:
 
 **Forventet investering:** 2–4 timer til research og pitchmøder
 **Relation til:** BD14 (Lokalt netværk og events i Middelfart), BD36 (Fast ugentlig bestillingsfrist til efterårssæsonen)
+
+---
+
+### BD47 — Hindsgavl Slot: Sondér fast leverance til events
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Hvad:** Hindsgavl Slot afholder løbende arrangementer — herunder tre events i oktober 2026 (4., 10. og 24. oktober). Tag direkte kontakt til slottets køkken eller event-koordinator om mulighed for fast leverance af surdejsboller til morgenmad og kaffepauser ved arrangementer.
+
+**Hvorfor det virker:** Hindsgavl henvender sig til et kvalitetsbevidst publikum — præcis den gruppe der sætter pris på håndværk og lokal produktion. En fast aftale om 20–30 boller per event er forudsigelig B2B-omsætning og giver Fars Brød synlighed over for et nyt publikum uden annonceringsbudget. Slottet ligger 5 km fra Tyttebærkvisten — logistikken er enkel.
+
+**Hvad du pitcher:**
+- Fast leverance per event (aftalt antal boller, levering eller afhentning)
+- Bollerne nævnes som „Lavet af Fars Brød i Middelfart" ved servering
+- Ingen kontrakt — fleksibel aftale pr. event
+- Erhvervspris: ca. 10–12 kr/bolle (under detailpris, volumen kompenserer)
+
+**Timing:** Kontakt slottet primo oktober — inden november-sæsonens program låses fast.
+
+**Relation til:** BD14 (Lokalt netværk og events i Middelfart), BD46 (B2B cafeer og restauranter)
+
+> **Bemærk:** Verificér eventtyper, program og kontaktperson på hindsgavl.dk inden henvendelse.
 
 ---
 

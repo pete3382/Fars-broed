@@ -358,6 +358,19 @@ End of every session: update claude.md with new learnings
 - Ny indsigt: Kold efterårshævning producerer en blødere, mere kompleks krumme — "Biological Acid Load" fra organiske syrer er biologisk relevant for fordøjelighed (kilde: SourdoughGeeks / The Sourdough Journey 2026)
 - Ny indsigt: Hindsgavl Slot er bekræftet med events i oktober 2026 — specificér datoer og eventtyper ved at verificere på hindsgavl.dk inden publicering
 
+## Automatisk månedlig opdatering — 2026-09-05
+- Bot-kørslen arkiverede 0 idéer (ingen opfyldte arkiveringskriterierne)
+- 5 nye idéer tilføjet baseret på research (teksturtrend, sæsonrodfrugter, Vin & Vin Middelfart, oktober-koordinering, Hindsgavl B2B):
+  - **O91** — Teksturkontrasten: Det der sker i det ene bid (karrusel, Maillard + glutennetværk, teksturtrend +19% 2026)
+  - **O92** — Efterårets rodfrugter er fremme igen (statisk, sæsonindhold september, naturlig kobling bolle + rodfrugter)
+  - **A41** — Vin & Vin Middelfart 30. oktober (Meta ad, radius 15 km, kør 27.–30. oktober)
+  - **NL46** — Oktober: Her er hvad der sker (nyhedsbrev, oktober-overblik, Hindsgavl events 4/10/24 okt + Vin & Vin 30 okt, send 1.–3. oktober)
+  - **BD47** — Hindsgavl Slot: Sondér fast leverance til events (B2B forretningsudvikling, Hindsgavl 5 km fra Tyttebærkvisten, 3 oktober-events bekræftet)
+- Ny indsigt: Vin & Vin Middelfart afholdes fredag 30. oktober 2026 kl. 18:00 — en lokal event-anledning til Meta-annoncering (kilde: event.it/vinvinmiddelfart)
+- Ny indsigt: "Contrast in a single bite" (sprød ydre + sej indre) er identificeret som den stærkeste surdejs-teksturtrend i 2026 — crunchy textures vokset +19% (kilde: Accio Bread Trends 2026)
+- Ny indsigt: Surdej viser den højeste søgeinteresse med peak i februar 2026 (normaliseret søgeværdi 81) — markedet er fortsat voksende (kilde: Accio/Coherent Market Insights 2026)
+- Ny indsigt: Hindsgavl Slot har bekræftede events i oktober 2026 (4., 10. og 24. okt) — B2B-leverance til slottets events er et konkret og uudnyttet spor
+
 ## Automatisk månedlig opdatering — 2026-09-04
 - Bot-kørslen arkiverede 0 idéer (ingen opfyldte arkiveringskriterierne)
 - 5 nye idéer tilføjet baseret på research (Maillard-reaktion, zero-waste trend 2026, sæsonfermentering, B2B-mulighed):
