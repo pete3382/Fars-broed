@@ -371,6 +371,18 @@ End of every session: update claude.md with new learnings
 - Ny indsigt: Surdej viser den højeste søgeinteresse med peak i februar 2026 (normaliseret søgeværdi 81) — markedet er fortsat voksende (kilde: Accio/Coherent Market Insights 2026)
 - Ny indsigt: Hindsgavl Slot har bekræftede events i oktober 2026 (4., 10. og 24. okt) — B2B-leverance til slottets events er et konkret og uudnyttet spor
 
+## Automatisk månedlig opdatering — 2026-09-06
+- Bot-kørslen arkiverede 0 idéer (ingen opfyldte arkiveringskriterierne)
+- 5 nye idéer tilføjet baseret på research (surdej som smagsplatform, GOBS Hindsgavl, september-fermentering, surdejsstarter-biologi, Q4-planlægning):
+  - **O93** — Surdej er gået fra brød til smagsplatform (karrusel, kulturkommentar om surdej i kanelsnurrer/donuts/croissanter — Fars Brød holder sig til bollen)
+  - **O94** — Hvad er der egentlig i min surdej? (karrusel, bageteknisk om vildgær + lactobaciller, forklaret letforståeligt)
+  - **A42** — GOBS på Hindsgavl Slot 10. oktober (Meta ad, radius 20 km, kør 7.–10. oktober)
+  - **NL47** — Brevet fra bageren: September i køkkenet (personlig mid-september mail om køligere temperaturer og fermenteringsændring, send 10.–15. sept)
+  - **BD48** — Q4-kommunikationsplan: Oktober til december i ét overblik (forretningsudvikling, samlet Q4-kalender med Hindsgavl-events, Vin & Vin, julegaver)
+- Ny indsigt: Surdej er i 2026 gået fra brødkategori til smagsplatform — sourdoughnuts, sourdough cinnamon rolls og enriched doughs med fermentering er de hurtigst voksende underkategorier (kilde: bakeryandsnacks.com / a2dworld.com 2026)
+- Ny indsigt: GOBS spiller live på Hindsgavl Slot lørdag 10. oktober 2026 — bekræftet lokal event-anledning til Meta-annoncering (kilde: hindsgavl.dk)
+- Ny indsigt: Inflation driver danske forbrugere mod "affordable, healthy, high-quality" — transparens og lokal oprindelse er stærke salgsargumenter i Q4 2026 (kilde: Innova Market Insights 2026)
+
 ## Automatisk månedlig opdatering — 2026-09-04
 - Bot-kørslen arkiverede 0 idéer (ingen opfyldte arkiveringskriterierne)
 - 5 nye idéer tilføjet baseret på research (Maillard-reaktion, zero-waste trend 2026, sæsonfermentering, B2B-mulighed):
