@@ -1863,6 +1863,30 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### A42 — GOBS på Hindsgavl Slot 10. oktober
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Enkelt billedannonce
+**Placering:** Facebook & Instagram feed, Middelfart + 20 km radius
+**Objektiv:** Sales → HubSpot bestillingsformular
+**Visuel:** Surdejsboller på et morgenborddækning — varmt lys, stille stemning. Ingen festivalgrafik, ingen logoer. Fokus på bollerne.
+
+> **Timing:** Kør 7.–10. oktober 2026. GOBS spiller live på Hindsgavl Slot lørdag 10. oktober. Verificér dato på hindsgavl.dk inden publicering.
+
+**Overskrift:** Dagen starter inden koncerten
+
+**Primær tekst:**
+> GOBS spiller på Hindsgavl lørdag aften.
+>
+> Start dagen ordenligt med friskbagte surdejsboller til afhentning i Middelfart — bestil inden torsdag kl. 20, afhent fredag eller lørdag.
+
+**CTA-knap:** Bestil nu
+
+---
+
 ## Newsletter (HubSpot Free)
 
 ### Hvad du har på gratisplanen
@@ -3306,6 +3330,37 @@ Brug **Sales**-objektiv, ikke trafik eller engagement. Autentisk, native-lignend
 
 ---
 
+### NL47 — Brevet fra bageren: September i køkkenet
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Kadence:** Éngangs — send 10.–15. september 2026
+**Formål:** Personligt, bag-om-kulisserne-brev fra bagerperspektivet midt i Sourdough September. Varm og nærværende tone — ikke salgsfokuseret.
+**Visuel:** Et enkelt billede af surdejen i glasburken, set oppefra i naturligt septemberlys.
+
+**Emnelinje:** Et brev fra køkkenet
+**Preheader:** September ændrer surdejen. Her er hvad jeg mærker.
+
+**E-mailtekst:**
+> Hej [fornavn],
+>
+> September er en god måned at bage i.
+>
+> Morgenerne er køligere nu. Det mærker surdejen. Den hæver lidt langsommere, men mere jævnt — mælkesyren får mere plads. Det giver en bolle, der er en anelse mildere og mere afrundet end sommerbollen. Ikke dårligere. Bare anderledes. Mere efterår.
+>
+> Det er den slags overgang, man kun mærker, hvis man er ved det jævnligt. Og det er jeg.
+>
+> Næste hold er klar [dato]. Bestil via linket herunder.
+>
+> [Bestil nu →]
+>
+> God september,
+> [Navn]
+
+---
+
 ### O41 — Middelfart Jazz Festival
 
 **Kvalitet:** `[ ]` God `[ ]` Dårlig
@@ -4573,6 +4628,44 @@ Slide 5:
 
 ---
 
+### O93 — Surdej er gået fra brød til smagsplatform
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karrusel (4 slides)
+**Visual:** Slide 1: Nærbillede af en bagt surdejsbolle med åben krumme. Slide 2–3: Varm cremefarvet baggrund med stor, mørk tekst. Slide 4: Produktfoto af Fars Brøds boller på et bord.
+
+> **Timing:** Kan bruges løbende i september–oktober 2026. Kulturkommentar uden fastlagt dato.
+
+**Kilde:** [Bakery and snacks trends 2026: sourdough innovation](https://www.bakeryandsnacks.com/Article/2026/02/27/bakery-and-snacks-trends-2026-swicy-flavours-sourdough-innovation-and-the-rise-of-high-impact-taste/)
+
+**Slide 1:** Surdej er ikke bare et brød mere. Det er en smagsplatform.
+**Slide 2:** I 2026 er surdej dukket op i kanelsnurrer, donuts, pandekager og croissanter. Bagerier verden over bruger lang fermentering som smagsredskab — ikke kun til brød. Det giver god mening: mælkesyrebakterierne nedbryder proteiner, frigiver sukkerarter og skaber kompleksitet. Det virker i alt dej.
+**Slide 3:** Vi holder os til bollen. Det er vores styrke. Fire ingredienser, natten over på køl, bagt i hånden. Ingen genveje.
+**Slide 4:** Friskbagte surdejsboller til afhentning i Middelfart. Bestil via linket i bio.
+
+---
+
+### O94 — Hvad er der egentlig i min surdej?
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Format:** Karrusel (3–4 slides)
+**Visual:** Slide 1: Nærbillede af en glasburk med aktiv, boblende surdej i naturligt morgenlys. Slide 2–3: Creme baggrund med sort tekst — én pointe pr. slide.
+
+> **Timing:** Kan bruges når som helst. Passer godt til september under #SourdoughSeptember.
+
+**Slide 1:** Min surdejsstarter er ikke magi. Det er to milliarder mikroorganismer og lidt mel.
+**Slide 2:** En aktiv surdej indeholder to typer liv: vildgær og mælkesyrebakterier. Gæren hæver dejen ved at producere CO₂. Bakterierne — primært lactobaciller — producerer mælkesyre og eddikesyre. Det er syrerne, der giver brødet smag, holdbarhed og den lette fordøjelighed.
+**Slide 3:** De to lever i balance. Det er den balance, man passer. Temperatur, hydrering og fodertidspunkt holder systemet sundt. Fodrer jeg sent, mærker jeg det dagen efter i dejen.
+**Slide 4:** Fire ingredienser — inklusive surdejen. Bagt i hånden i Middelfart. Bestil via linket i bio.
+
+---
+
 ## Generel forretningsudvikling
 
 ---
@@ -5375,6 +5468,35 @@ Slide 5:
 **Relation til:** BD14 (Lokalt netværk og events i Middelfart), BD46 (B2B cafeer og restauranter)
 
 > **Bemærk:** Verificér eventtyper, program og kontaktperson på hindsgavl.dk inden henvendelse.
+
+---
+
+### BD48 — Q4-kommunikationsplan: Oktober til december i ét overblik
+
+**Kvalitet:** `[ ]` God `[ ]` Dårlig
+**Prioritet:** `[ ]` Klar til brug `[ ]` Ikke nu `[ ]` Kan ikke gøres
+**Brugt:** `[ ]` Er allerede brugt &nbsp; **Dato:**
+
+**Hvad:** Lav en samlet kommunikationsplan for Q4 2026 — oktober, november og december. Koordinér indhold, annoncer og nyhedsbreve i ét overblik, så ingen anledninger tabes.
+
+**Oktoberkalender (kender datoer, klar til aktivering):**
+- 4. oktober: Event på Hindsgavl Slot
+- 10. oktober: GOBS live på Hindsgavl Slot (A42)
+- 16. oktober: Verdens Brøddag (O87)
+- 24. oktober: Event på Hindsgavl Slot
+- 30. oktober: Vin & Vin Middelfart (A41)
+- Hele oktober: Meta ad (A37, A39, A40)
+
+**Novemberplan (forbered nu):**
+- Primo november: Send julegave-nyhedsbrev til liste (BD39, BD44)
+- Bestillingsvindue til julegavepakker åbner — maks. antal begrænset
+- Aktiver eksisterende kunder via HubSpot-nyhedsbrev
+
+**Decemberplan (forbered fra november):**
+- Julebollerne: Bestilling lukker [dato] — bestil i god tid
+- Nytårsstatus: Hvad gik godt, hvad ændres i 2027
+
+**Timing:** Lav planen i uge 36–37 (primo september) mens Q4 stadig er overkommeligt at planlægge.
 
 ---
 
